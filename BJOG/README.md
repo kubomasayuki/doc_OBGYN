@@ -1,4 +1,3 @@
-# BJOG
 ## 2019
 ### February
 * 22 February 2019  
