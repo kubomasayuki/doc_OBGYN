@@ -3,10 +3,30 @@ Induction of labour at 41 weeks versus expectant management until 42 weeks (INDE
 41週での分娩誘発と42週までの待機的管理（INDEX）：多施設共同無作為化非劣性試験
 
 ## 著者/所属機関
+Judit KJ Keulen,1  
+Aafke Bruinsma,1  
+Joep C Kortekaas,2  
+Jeroen van Dillen,2  
+Patrick MM Bossuyt,3  
+Martijn A Oudijk,1,4  
+Ruben G Duijnhoven,1  
+Anton H van Kaam,5  
+Frank PHA Vandenbussche,2  
+Joris AM van der Post,1  
+Ben Willem Mol,6  
+Esteriek de Miranda,1  
+1 Department of Obstetrics and Gynaecology, Amsterdam UMC, University of Amsterdam, Meibergdreef 9, 1105 AZ Amsterdam, Netherlands  
+2 Department of Obstetrics and Gynaecology, Radboud University Medical Centre, Nijmegen, Netherlands  
+3 Department of Clinical Epidemiology, Biostatistics and Bioinformatics, Amsterdam UMC, University of Amsterdam, Netherlands  
+4 Department of Obstetrics and Gynaecology, University Medical Centre, Utrecht, Netherlands  
+5 Department of Neonatology, Emma Children’s Hospital, Amsterdam UMC, University of Amsterdam, Netherlands  
+6 Department of Obstetrics and Gynaecology, Monash University, Clayton, Victoria, Australia
 
 ## 論文リンク
+https://www.bmj.com/content/364/bmj.l344
 
 ## 投稿日付
+Published 20 February 2019
 
 ## 概要
 ### 目的
