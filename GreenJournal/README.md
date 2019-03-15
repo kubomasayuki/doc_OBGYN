@@ -1,6 +1,6 @@
 ## Green Journal
 ## 2019
-### March 2019
+### March
 * [Neonatal and Maternal Morbidity Among Low-Risk Nulliparous Women at 39–41 Weeks of Gestation  
 妊娠39〜41週の低リスクの初産婦における新生児および母体の罹患率](Mar2019/Neonatal_and_Maternal.md)
 * [Safety Assessment of a Large-Scale Improvement Collaborative to Reduce Nulliparous Cesarean Delivery Rates  
@@ -21,10 +21,10 @@
 産科鎮痛および麻酔](Mar2019/Obstetric_Analgesia_and.md)
 * [Evaluation and Management of Lipid Disorders Primary and Preventive Care Review  
 脂質障害の評価と管理 プライマリケアと予防ケアのレビュー](Mar2019/Evaluation_and_Management.md)
-### February 2019
+### February
 * [Postoperative Opioid Consumption After Scheduled Compared With Unscheduled Cesarean Delivery  
 予定外の帝王切開分娩と比較した予定後の術後オピオイド消費](Feb2019/Postoperative_Opioid_Consumption.md)
 ## 2018
-### October 2018
+### October
 * [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](Oct2018/Intrapartum_Fetal_Heart.md)
