@@ -28,5 +28,3 @@
 ### October 2018
 * [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](Oct2018/Intrapartum_Fetal_Heart.md)
-
-## Obstetric Anesthesia Digest
