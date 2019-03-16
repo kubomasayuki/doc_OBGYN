@@ -10,7 +10,7 @@ Department of Obstetrics and Gynecology, Women and Infants Hospital, Providence,
 10.1097/AOG.0000000000003087
 
 ## 投稿日付
-February 2019 - Volume 133 - Issue 2 - p 354–363  
+Originally published: February 1, 2019  
 Received September 20, 2018  
 Received in revised form November 09, 2018  
 Accepted November 15, 2018
