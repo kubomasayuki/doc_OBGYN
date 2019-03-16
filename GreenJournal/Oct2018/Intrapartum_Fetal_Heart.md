@@ -10,7 +10,7 @@ Departments of Obstetrics and Gynecology, University of Texas Health Science Cen
 10.1097/AOG.0000000000002855
 
 ## 投稿日付
-October 2018 - Volume 132 - Issue 4 - p 1019–1025  
+Originally published: October 1, 2018  
 Received March 02, 2018  
 Received in revised form May 29, 2018  
 Accepted June 14, 2018
