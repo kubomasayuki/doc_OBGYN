@@ -10,7 +10,7 @@ Departments of Obstetrics, Gynecology & Women's Health and Biostatistics & Data 
 10.1097/AOG.0000000000003104
 
 ## 投稿日付
-March 2019 - Volume 133 - Issue 3 - p 484–491  
+Originally published: March 1, 2019  
 Received September 25, 2018  
 Received in revised form November 23, 2018  
 Accepted December 06, 2018
