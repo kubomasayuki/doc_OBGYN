@@ -93,3 +93,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * February 3, 2018  
 [A prospective cohort study of fetal heart rate monitoring:deceleration area is predictive of fetal acidemia
 胎児心拍数モニタリングの前向きコホート研究：一過性徐脈の面積から胎児のアシデミアを予測](AJOG/Feb2018/A_prospective_cohort.md)
+
+# ANZJOG
+## 2019
+### February
+* 19 February 2019  
+[Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
+妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
