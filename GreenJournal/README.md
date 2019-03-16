@@ -13,7 +13,8 @@
 * March 11, 2019  
 [Hypertensive Postpartum Admissions Among Women Without a History of Hypertension or Preeclampsia  
 高血圧または妊娠高血圧腎症の既往のない女性における高血圧の産後入院](Mar2019/Hypertensive_Postpartum_Admissions.md)
-* [Association of a Delayed Cord-Clamping Protocol With Hyperbilirubinemia in Term Neonates  
+* March 11, 2019  
+[Association of a Delayed Cord-Clamping Protocol With Hyperbilirubinemia in Term Neonates  
 正期産の新生児における遅延臍帯クランププロトコルと高ビリルビン血症との関連](Mar2019/Association_of_a.md)
 * [Elective Induction at 39 Weeks of Gestation and the Implications of a Large, Multicenter, Randomized Controlled Trial  
 妊娠39週での選択的誘発と大規模多施設無作為化対照試験の意義](Mar2019/Elective_Induction_at.md)
