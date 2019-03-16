@@ -10,7 +10,7 @@ Department of Obstetrics and Gynecology, University of Cincinnati College of Med
 10.1097/AOG.0000000000003106
 
 ## 投稿日付
-March 2019 - Volume 133 - Issue 3 - p 451–458  
+Originally published: March 1, 2019  
 Received October 15, 2018  
 Received in revised form December 01, 2018  
 Accepted December 06, 2018
