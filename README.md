@@ -213,3 +213,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * 28 February, 2019  
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
 出産歴のある女性における妊娠期間と有害出生転帰との関連：国際コホート研究](Lancet/Feb2019/Association_between_interpregnancy.md)
+
+# Springer
+## 2019
+### January
+15 January, 2019  
+[The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
+妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
