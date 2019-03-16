@@ -25,7 +25,8 @@
 * March 1, 2019  
 [Pessary Compared With Vaginal Progesterone for the Prevention of Preterm Birth in Women With Twin Pregnancies and Cervical Length Less Than 38 mm  
 双胎妊娠と38 mm未満の頸部長を持つ女性の早産防止のための膣プロゲステロンと比較したペッサリー](Mar2019/Pessary_Compared_With.md)
-* [Effects of Prophylactic Oxytocin on Bleeding Outcomes in Women Undergoing Dilation and Evacuation  
+* March 1, 2019  
+[Effects of Prophylactic Oxytocin on Bleeding Outcomes in Women Undergoing Dilation and Evacuation  
 拡張と避難を受けている女性の出血転帰に対する予防的オキシトシンの効果](Mar2019/Effects_of_Prophylactic.md)
 * [Obstetric Analgesia and Anesthesia  
 産科鎮痛および麻酔](Mar2019/Obstetric_Analgesia_and.md)
