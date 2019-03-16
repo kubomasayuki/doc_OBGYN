@@ -202,8 +202,8 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 
 # ISUOG
 ## 2018
-### October
-* 18 October, 2018  
+### November
+* 21 November, 2018  
 [Physiological effects of partial amniotic carbon dioxide insufflation with cold, dry vs heated, humidified gas in a sheep model
 ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Physiological_effects_of.md)
 
