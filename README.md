@@ -139,3 +139,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * 20 February 2019  
 [Induction of labour at 41 weeks versus expectant management until 42 weeks (INDEX): multicentre, randomised non-inferiority trial  
 41週での分娩誘発と42週までの待機的管理（INDEX）：多施設共同無作為化非劣性試験](BMJ/Induction_of_labour.md)
+
+# CMAJ
+## 2019
+### February
+* 18 February 2019  
+[Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
+低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
