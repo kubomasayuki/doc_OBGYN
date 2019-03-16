@@ -132,3 +132,9 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * 20 November 2018  
 [Prognosis of the co‐twin following spontaneous single intrauterine fetal death in twin pregnancies: a systematic review and meta‐analysis  
 双胎妊娠における一方の児が死亡した場合のもう一方の児の予後：系統的レビューとメタアナリシス](BJOG/Nov2018/Prognosis_of_the.md)
+
+# BMJ
+## 2019
+### March
+[Induction of labour at 41 weeks versus expectant management until 42 weeks (INDEX): multicentre, randomised non-inferiority trial  
+41週での分娩誘発と42週までの待機的管理（INDEX）：多施設共同無作為化非劣性試験](Induction_of_labour.md)
