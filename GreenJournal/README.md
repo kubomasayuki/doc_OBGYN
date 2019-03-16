@@ -40,5 +40,6 @@
 予定外の帝王切開分娩と比較した予定後の術後オピオイド消費](Feb2019/Postoperative_Opioid_Consumption.md)
 ## 2018
 ### October
-* [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
+* October 1, 2018  
+[Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](Oct2018/Intrapartum_Fetal_Heart.md)
