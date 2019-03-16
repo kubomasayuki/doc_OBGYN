@@ -10,7 +10,7 @@ Departments of Obstetrics and Gynecology, University of Texas Medical Branch, Ga
 10.1097/AOG.0000000000003137
 
 ## 投稿日付
-March 2019 - Volume 133 - Issue 3 - p 445–450  
+Originally published: March 1, 2019  
 Received October 04, 2018  
 Received in revised form November 22, 2018  
 Accepted December 13, 2018
