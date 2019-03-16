@@ -192,3 +192,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * October 1, 2018  
 [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](GreenJournal/Oct2018/Intrapartum_Fetal_Heart.md)
+
+# International Journal of Obstetrics Anesthesia
+## 2018
+### September
+* September 11, 2018  
+[Uterotonic drug usage in Canada: a snapshot of the practice in obstetric units of university-affiliated hospitals  
+カナダにおける子宮収縮薬の使用：大学付属病院の産科施設における診療のスナップショット](Uterotonic_drug_in.md)
