@@ -205,4 +205,4 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 ### February
 * February 25, 2019  
 [Associations of Maternal Diabetes and Body Mass Index With Offspring Birth Weight and Prematurity  
-母親の糖尿病およびBMIと子供の出生時体重および未熟児の関連](Associations_of_Maternal.md)
+母親の糖尿病およびBMIと子供の出生時体重および未熟児の関連](JAMA-Network/Associations_of_Maternal.md)
