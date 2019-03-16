@@ -10,7 +10,7 @@ My Duc Hospital, Tu Du Hospital, and the University of Medicine and Pharmacy at 
 10.1097/AOG.0000000000003136
 
 ## 投稿日付
-March 2019 - Volume 133 - Issue 3 - p 459–467  
+Originally published: March 1, 2019  
 Received October 20, 2018  
 Received in revised form December 07, 2018  
 Accepted December 13, 2018
