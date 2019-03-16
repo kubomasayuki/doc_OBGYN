@@ -101,9 +101,9 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
 妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
 
-# American Journal of Pediatrics
+# American Academy of Pediatrics
 ## 2019
 ### January
 * January 16, 2019  
 [Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
-妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Journal-of-Pediatrics/Maternal_Smoking_Before.md)
+妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
