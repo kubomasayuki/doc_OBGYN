@@ -31,7 +31,8 @@
 * March 1, 2019  
 [Obstetric Analgesia and Anesthesia  
 産科鎮痛および麻酔](Mar2019/Obstetric_Analgesia_and.md)
-* [Evaluation and Management of Lipid Disorders Primary and Preventive Care Review  
+* March 1, 2019  
+[Evaluation and Management of Lipid Disorders Primary and Preventive Care Review  
 脂質障害の評価と管理 プライマリケアと予防ケアのレビュー](Mar2019/Evaluation_and_Management.md)
 ### February
 * [Postoperative Opioid Consumption After Scheduled Compared With Unscheduled Cesarean Delivery  
