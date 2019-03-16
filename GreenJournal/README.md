@@ -22,7 +22,8 @@
 * March 1, 2019  
 [Contemporary Trends in Cesarean Delivery Utilization for Live Births Between 22 0/7 and 23 6/7 Weeks of Gestation  
 妊娠22週0日から23週6日の出生時の帝王切開分娩利用における現代の傾向](Mar2019/Contemporary_Trends_in.md)
-* [Pessary Compared With Vaginal Progesterone for the Prevention of Preterm Birth in Women With Twin Pregnancies and Cervical Length Less Than 38 mm  
+* March 1, 2019  
+[Pessary Compared With Vaginal Progesterone for the Prevention of Preterm Birth in Women With Twin Pregnancies and Cervical Length Less Than 38 mm  
 双胎妊娠と38 mm未満の頸部長を持つ女性の早産防止のための膣プロゲステロンと比較したペッサリー](Mar2019/Pessary_Compared_With.md)
 * [Effects of Prophylactic Oxytocin on Bleeding Outcomes in Women Undergoing Dilation and Evacuation  
 拡張と避難を受けている女性の出血転帰に対する予防的オキシトシンの効果](Mar2019/Effects_of_Prophylactic.md)
