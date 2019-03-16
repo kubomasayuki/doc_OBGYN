@@ -1,9 +1,6 @@
 ## Green Journal
 ## 2019
 ### March
-* March 1, 2019  
-[17α-Hydroxyprogesterone Caproate and the Risk of Glucose Intolerance in Pregnancy  
-妊娠中の17α-カプロン酸ヒドロキシプロゲステロンとグルコース不耐症のリスク](Mar2019/Hydroxyprogesterone_Caproate_and.md)
 * March 11, 2019  
 [Neonatal and Maternal Morbidity Among Low-Risk Nulliparous Women at 39–41 Weeks of Gestation  
 妊娠39〜41週の低リスクの初産婦における新生児および母体の罹患率](Mar2019/Neonatal_and_Maternal.md)
@@ -16,7 +13,11 @@
 * March 11, 2019  
 [Association of a Delayed Cord-Clamping Protocol With Hyperbilirubinemia in Term Neonates  
 正期産の新生児における遅延臍帯クランププロトコルと高ビリルビン血症との関連](Mar2019/Association_of_a.md)
-* [Elective Induction at 39 Weeks of Gestation and the Implications of a Large, Multicenter, Randomized Controlled Trial  
+* March 1, 2019  
+[17α-Hydroxyprogesterone Caproate and the Risk of Glucose Intolerance in Pregnancy  
+妊娠中の17α-カプロン酸ヒドロキシプロゲステロンとグルコース不耐症のリスク](Mar2019/Hydroxyprogesterone_Caproate_and.md)
+* March 1, 2019  
+[Elective Induction at 39 Weeks of Gestation and the Implications of a Large, Multicenter, Randomized Controlled Trial  
 妊娠39週での選択的誘発と大規模多施設無作為化対照試験の意義](Mar2019/Elective_Induction_at.md)
 * [Contemporary Trends in Cesarean Delivery Utilization for Live Births Between 22 0/7 and 23 6/7 Weeks of Gestation  
 妊娠22週0日から23週6日の出生時の帝王切開分娩利用における現代の傾向](Mar2019/Contemporary_Trends_in.md)
