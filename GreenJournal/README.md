@@ -28,7 +28,8 @@
 * March 1, 2019  
 [Effects of Prophylactic Oxytocin on Bleeding Outcomes in Women Undergoing Dilation and Evacuation  
 拡張と避難を受けている女性の出血転帰に対する予防的オキシトシンの効果](Mar2019/Effects_of_Prophylactic.md)
-* [Obstetric Analgesia and Anesthesia  
+* March 1, 2019  
+[Obstetric Analgesia and Anesthesia  
 産科鎮痛および麻酔](Mar2019/Obstetric_Analgesia_and.md)
 * [Evaluation and Management of Lipid Disorders Primary and Preventive Care Review  
 脂質障害の評価と管理 プライマリケアと予防ケアのレビュー](Mar2019/Evaluation_and_Management.md)
