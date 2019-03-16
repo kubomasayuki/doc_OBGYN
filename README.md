@@ -199,3 +199,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * September 11, 2018  
 [Uterotonic drug usage in Canada: a snapshot of the practice in obstetric units of university-affiliated hospitals  
 カナダにおける子宮収縮薬の使用：大学付属病院の産科施設における診療のスナップショット](International-Journal-of-Obstetrics-Anesthesia/Uterotonic_drug_in.md)
+
+# JAMA Network
+## 2019
+### February
+* February 25, 2019  
+[Associations of Maternal Diabetes and Body Mass Index With Offspring Birth Weight and Prematurity  
+母親の糖尿病およびBMIと子供の出生時体重および未熟児の関連](Associations_of_Maternal.md)
