@@ -163,6 +163,9 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Association of a Delayed Cord-Clamping Protocol With Hyperbilirubinemia in Term Neonates  
 正期産の新生児における遅延臍帯クランププロトコルと高ビリルビン血症との関連](GreenJournal/Mar2019/Association_of_a.md)
 * March 1, 2019  
+[Gestational Weight Gain and Severe Maternal Morbidity at Delivery Hospitalization  
+分娩入院時の妊娠中の体重増加および重篤な母親の罹患率](GreenJournal/Mar2019/Gestational_Weight_Gain.md)
+* March 1, 2019  
 [17α-Hydroxyprogesterone Caproate and the Risk of Glucose Intolerance in Pregnancy  
 妊娠中の17α-カプロン酸ヒドロキシプロゲステロンとグルコース不耐症のリスク](GreenJournal/Mar2019/Hydroxyprogesterone_Caproate_and.md)
 * March 1, 2019  
