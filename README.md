@@ -1,9 +1,9 @@
-[ACOG Comittee Opinion](#ACOG)
-[AJOG](#AJOG)
-[ANZJOG](#ANZJOG)
-[American Academy of Pediatrics](#American)
+* [ACOG Comittee Opinion](#ACOG-Comittee-Opinion)
+* [AJOG](#AJOG)
+* [ANZJOG](#ANZJOG)
+* [American Academy of Pediatrics](#American-Academy-of-Pediatrics)
 
-# ACOG Comittee Opinion
+# ACOG-Comittee-Opinion
 * [Number 764  
 Medically Indicated Late-Preterm and Early-Term Deliveries  
 医学的な兆候のある後期早産および早期正期産](ACOG/co764.md)
@@ -105,7 +105,7 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
 妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
 
-# American Academy of Pediatrics
+# American-Academy-of-Pediatrics
 ## 2019
 ### January
 * January 16, 2019  
