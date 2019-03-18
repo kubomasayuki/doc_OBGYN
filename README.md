@@ -1,7 +1,7 @@
-[ACOG Comittee Opinion](#ACOG Comittee Opinion)
+[ACOG Comittee Opinion](#ACOG)
 [AJOG](#AJOG)
 [ANZJOG](#ANZJOG)
-[American Academy of Pediatrics](#American Academy of Pediatrics)
+[American Academy of Pediatrics](#American)
 
 # ACOG Comittee Opinion
 * [Number 764  
