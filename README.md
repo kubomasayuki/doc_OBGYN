@@ -1,3 +1,8 @@
+[ACOG Comittee Opinion](# ACOG Comittee Opinion)
+[AJOG](# AJOG)
+[ANZJOG](#ANZJOG)
+[American Academy of Pediatrics](# American Academy of Pediatrics)
+
 # ACOG Comittee Opinion
 * [Number 764  
 Medically Indicated Late-Preterm and Early-Term Deliveries  
@@ -44,7 +49,6 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 1, 2019  
 [Maternal and newborn outcomes with elective induction of labor at term  
 満期出産の選択的誘導による母子の転帰](AJOG/Feb2019/Maternal_and_newborn.md)
-
 ## 2018
 ### December
 * December 27, 2018  
