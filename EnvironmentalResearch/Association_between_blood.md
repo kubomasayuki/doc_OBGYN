@@ -59,19 +59,19 @@ SGA児（男児6,962人および女児6,528人）の分析は多変量ロジス�
 低血中Mn濃度は、男児、女児ともに小さな頭囲とわずかに相関することがわかった。
 
 ### 図1
-[Figure.1](Association_fig1.jpg)
+![Figure.1](Association_fig1.jpg)
 
 ### 表1
-[Table.1](Association_tab1.png)
+![Table.1](Association_tab1.png)
 
 ### 図2
-[Figure.2](Association_fig2.jpg)
+![Figure.2](Association_fig2.jpg)
 
 ### 表2
-[Table.2](Association_tab2.png)
+![Table.2](Association_tab2.png)
 
 ### 図3
-[Figure.3](Association_fig3.jpg)
+![Figure.3](Association_fig3.jpg)
 
 ### 表3
-[Table.3](Association_tab3.png)
+![Table.3](Association_tab3.png)
