@@ -126,6 +126,10 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 
 # BJOG
 ## 2019
+### March
+* 09 March 2019  
+[The timing of repeat caesarean section after previous multiple caesarean sections – is there a dilemma?  
+前の複数の帝王切開術後の帝王切開術の繰り返しのタイミング - ジレンマはあるか？](BJOG/Mar2019/The_timing_of.md)
 ### February
 * 22 February 2019  
 [Evaluation of a simple risk score to predict preterm preeclampsia using maternal characteristics: a prospective cohort study  
