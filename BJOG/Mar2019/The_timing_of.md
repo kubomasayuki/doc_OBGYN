@@ -23,11 +23,5 @@ Williamsら（2018 Eur J Obstet Gynecol Reprod Biol）によると、過去の�
 しかしながら、Sotiriadisら（2018 Cochrane Syst Rev）は、レビューされた4つの試験からの知見は有望に見えるが、研究集団における重大な呼吸器罹患率の低い事象率のためにバイアスの可能性があると報告した。
 それゆえ、より適切に強化された質の高い研究と、乳児の曝露の長期予後に関するさらなる試験が必要である。
 
-Thus the article by Breslin et al (BJOG 2019 xxxx) in this edition has relevance as, despite the reduced clinical occurrence of women having a fourth caesarean section in Westernized countries, it provides reassurance that a policy of elective delivery at 39 weeks gestation for the fourth caesarean section is safely achievable without increasing  maternal morbidity (women with abnormal placentation were excluded) or neonatal morbidity, with this study being conducted from 1999-2002 when prophylactic maternal corticosteroid administration prior to caesarean section was not commonly practiced.  
-したがって、この版のBreslin et al（BJOG 2019 xxxx）による記事は、西欧諸国で4番目の帝王切開を持つ女性の臨床的発生率が低いにもかかわらず、妊娠39週の選択的分娩の方針が帝王切開前の予防的母体コルチコステロイド投与が一般的に行われていなかった1999 - 2002年から行われたこの研究では、母体の罹患率（異常な胎盤形成の女性を除く）または新生児の罹患率を増加させることなく安全に達成できる。
-
 したがって、この版のBreslinら（2019 BJOG）による記事は、次のような関連性がある。  
-西欧諸国では4回目の帝王切開を実施する妊婦の減少しているが、
-帝王切開前の予防的母体コルチコステロイド投与が一般的に行われていなかった1999年-2002年に実施された研究では、
-母体罹患率または新生児罹患率を増加させることなく（異常な胎盤形成の患者は除外）、
-4回目の帝王切開であっても妊娠39週での選択的分娩が安全に達成可能であるという安心感を提供する。
+西欧諸国では4回目の帝王切開の実施率が低いにも関わらず、帝王切開前の予防的母体コルチコステロイド投与が一般的に行われていなかった1999年-2002年に実施されたこの研究では、母体罹患率または新生児罹患率を増加させることなく（異常な胎盤形成の患者は除外）、4回目の帝王切開であっても妊娠39週での選択的分娩が安全に達成可能であるという安心感を提供する。
