@@ -1,7 +1,19 @@
-* [ACOG Comittee Opinion](#ACOG-Comittee-Opinion)
+* [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
 * [AJOG](#AJOG)
 * [ANZJOG](#ANZJOG)
-* [American Academy of Pediatrics](#American-Academy-of-Pediatrics)
+* [American-Academy-of-Pediatrics](#American-Academy-of-Pediatrics)
+* [BJOG](#BJOG)
+* [BMJ](#BMJ)
+* [CMAJ](#CMAJ)
+* [Environmental-Research](#EnvironmentalResearch)
+* [Green-Journal](#Green-Journal)
+* [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
+* [ISUOG](#ISUOG)
+* [JAMA-Network](#JAMA-Network)
+* [Lancet](#Lancet)
+* [ObgProject](#ObgProject)
+* [Springer](#Springer)
+
 
 # ACOG-Comittee-Opinion
 * [Number 764  
@@ -151,14 +163,14 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
 
-# Environmental Research
+# Environmental-Research
 ## 2019
 ### February
 * 08 February 2019  
 [Association between blood manganese level during pregnancy and birth size: The Japan environment and children's study (JECS)  
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
 
-## Green Journal
+## Green-Journal
 ## 2019
 ### March
 * March 11, 2019  
@@ -207,7 +219,7 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](GreenJournal/Oct2018/Intrapartum_Fetal_Heart.md)
 
-# International Journal of Obstetrics Anesthesia
+# International-Journal-of-Obstetrics-Anesthesia
 ## 2018
 ### September
 * September 11, 2018  
@@ -221,7 +233,7 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Physiological effects of partial amniotic carbon dioxide insufflation with cold, dry vs heated, humidified gas in a sheep model
 ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Physiological_effects_of.md)
 
-# JAMA Network
+# JAMA-Network
 ## 2019
 ### February
 * February 25, 2019  
