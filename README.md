@@ -147,6 +147,13 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
 
+# Environmental Research
+## 2019
+### February
+* 08 February 2019  
+[Association between blood manganese level during pregnancy and birth size: The Japan environment and children's study (JECS)  
+妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
+
 ## Green Journal
 ## 2019
 ### March
