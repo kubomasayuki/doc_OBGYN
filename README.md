@@ -272,6 +272,8 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 産後出血予防：世界保健機関の勧告](ObGProject/OB/Postpartum_Hemorrhage_Prophylaxis.md)
 * [Screening for Perinatal Depression  
 周産期うつ病のスクリーニング](ObGProject/OB/Screening_for_Perinatal.md)
+* [Macrosomia- Is There a Role for Early Delivery?  
+巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 
 ## GRAND ROUNDS
 * [Delivery vs Expectant Management for Hypertensive Disorders in Pregnancy  
