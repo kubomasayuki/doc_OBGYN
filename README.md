@@ -120,12 +120,17 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 # American-Journal-of-Perinatology
 ## 2018
 ### October
-* 29 October, 2018  
+* October 29, 2018  
 [Risk of Maternal Morbidity with Increasing Number of Cesareans  
 帝王切開数の増加に伴う母親の罹患リスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Maternal.md)
-* 12 September, 2018  
+### September
+* September 12, 2018  
 [Antibiotic Use in Pregnancy, Abnormal Fetal Growth, and Development of Gestational Diabetes Mellitus  
 妊娠、異常な胎児の成長、および妊娠性糖尿病の発症における抗生物質の使用](American-Journal-of-Perinatology/Sep2018/Antibiotic_Use_in.md)
+### August
+* August 15, 2018  
+[Antenatal Magnesium Sulfate Exposure and Ponderal Index in Preterm Infants  
+早産児における出生前硫酸マグネシウム曝露とポンデラル指数](American-Journal-of-Perinatology/Aug2018/Antenatal_Magnesium_Sulfate.md)
 
 # ANZJOG
 ## 2019
