@@ -1,7 +1,8 @@
 * [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
 * [AJOG](#AJOG)
-* [ANZJOG](#ANZJOG)
 * [American-Academy-of-Pediatrics](#American-Academy-of-Pediatrics)
+* [American-Journal-Perinatology](#American-Journal-Perinatology)
+* [ANZJOG](#ANZJOG)
 * [BJOG](#BJOG)
 * [BMJ](#BMJ)
 * [CMAJ](#CMAJ)
@@ -26,7 +27,6 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * March 1, 2019  
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
-
 ### February
 * February 18, 2019  
 [A randomized controlled trial of Dilapan-S vs Foley balloon for preinduction cervical ripening (DILAFOL trial)  
@@ -110,19 +110,26 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [A prospective cohort study of fetal heart rate monitoring:deceleration area is predictive of fetal acidemia
 胎児心拍数モニタリングの前向きコホート研究：一過性徐脈の面積から胎児のアシデミアを予測](AJOG/Feb2018/A_prospective_cohort.md)
 
-# ANZJOG
-## 2019
-### February
-* 19 February 2019  
-[Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
-妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
-
 # American-Academy-of-Pediatrics
 ## 2019
 ### January
 * January 16, 2019  
 [Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
 妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
+
+# American-Journal-Perinatology
+## 2019
+### January
+* January 16, 2019  
+[Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
+妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
+
+# ANZJOG
+## 2019
+### February
+* 19 February 2019  
+[Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
+妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
 
 # BJOG
 ## 2019
