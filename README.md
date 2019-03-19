@@ -123,6 +123,9 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * 29 October, 2018  
 [Risk of Maternal Morbidity with Increasing Number of Cesareans  
 帝王切開数の増加に伴う母親の罹患リスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Maternal.md)
+* 12 September, 2018  
+[Antibiotic Use in Pregnancy, Abnormal Fetal Growth, and Development of Gestational Diabetes Mellitus  
+妊娠、異常な胎児の成長、および妊娠性糖尿病の発症における抗生物質の使用](American-Journal-of-Perinatology/Sep2018/Antibiotic_Use_in.md)
 
 # ANZJOG
 ## 2019
