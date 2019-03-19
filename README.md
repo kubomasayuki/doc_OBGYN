@@ -1,7 +1,7 @@
 * [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
 * [AJOG](#AJOG)
 * [American-Academy-of-Pediatrics](#American-Academy-of-Pediatrics)
-* [American-Journal-Perinatology](#American-Journal-Perinatology)
+* [American-Journal-of-Perinatology](#American-Journal-of-Perinatology)
 * [ANZJOG](#ANZJOG)
 * [BJOG](#BJOG)
 * [BMJ](#BMJ)
@@ -117,12 +117,12 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 [Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
 妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
 
-# American-Journal-Perinatology
-## 2019
-### January
-* January 16, 2019  
+# American-Journal-of-Perinatology
+## 2018
+### October
+* 18 October, 2018  
 [Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
-妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
+妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Journal-of-Perinatology/Oct2018/The_risk_of.md)
 
 # ANZJOG
 ## 2019
