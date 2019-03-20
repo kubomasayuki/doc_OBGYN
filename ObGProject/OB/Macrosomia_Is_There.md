@@ -33,3 +33,6 @@ Macrosomia- Is There a Role for Early Delivery?
 * 5分Apgarスコアの減少
 * 長期入院を含む、NICU入院率の上昇
 * 成人後の肥満
+
+## リンク
+https://www.obgproject.com/2017/02/07/macrosomia-role-early-delivery/
