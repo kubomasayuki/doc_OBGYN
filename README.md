@@ -274,6 +274,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
 出産歴のある女性における妊娠期間と有害出生転帰との関連：国際コホート研究](Lancet/Feb2019/Association_between_interpregnancy.md)
 
+# NEPHROLOGY
+## 2018
+### October
+* 08 October 2018  
+[Maternal obesity and offspring risk of chronic kidney disease  
+母親の肥満と子供の慢性腎臓病のリスク](NEPHROLOGY/Maternal_obesity_and.md)
+
 # ObgProject
 ## OB
 * March 16, 2017  
