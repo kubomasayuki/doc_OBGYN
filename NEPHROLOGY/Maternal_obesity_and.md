@@ -1,6 +1,6 @@
 ## タイトル
 Maternal obesity and offspring risk of chronic kidney disease  
-母親の肥満と慢性腎臓病の子孫リスク
+母親の肥満と子供の慢性腎臓病のリスク
 
 ## 著者/所属機関
 Muh Geot Wong 1 2, Nguyen Long The 1 3, Sarah Glastras 1 4  
