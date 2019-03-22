@@ -154,6 +154,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # BJOG
 ## 2019
 ### March
+* 19 March 2019  
+[Gestational diabetes and the risk of late stillbirth: a case–control study from England, UK  
+妊娠性糖尿病と後期死産のリスク：イギリスの症例対照研究](BJOG/Mar2019/Gestational_diabetes_and.md)
 * 09 March 2019  
 [The timing of repeat caesarean section after previous multiple caesarean sections – is there a dilemma?  
 前の複数の帝王切開術後の帝王切開術の繰り返しのタイミング - ジレンマはあるか？](BJOG/Mar2019/The_timing_of.md)
