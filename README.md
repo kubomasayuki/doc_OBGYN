@@ -304,6 +304,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 17, 2019  
 [Delivery vs Expectant Management for Hypertensive Disorders in Pregnancy  
 妊娠中の高血圧障害に対する分娩管理と期待管理](ObGProject/GRANDROUNDS/Delivery_vs_Expectant.md)
+* July 13, 2018  
+[When to Start Medications for Women Who are on Dietary Therapy for Gestational Diabetes?  
+妊娠糖尿病の食事療法から投薬治療への移行時期はいつか？](ObGProject/GRANDROUNDS/When_to_Start.md)
 
 ## NEWS
 * March 6, 2019  
