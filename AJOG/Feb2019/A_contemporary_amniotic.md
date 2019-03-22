@@ -42,5 +42,8 @@ Received: December 11, 2018
 超音波羊水量の推定値は人種間で異なっていたが、カットオフの範囲内であった。  
 選択された母体特性と胎児推定体重は人種間で違いはなかった。 （結果と違うことを述べている）
 
-### 図
-![Figure](contemporary_fig.jpg)
+### 図2
+![Figure.1](contemporary_fig.jpg)
+
+### 図2
+![Figure.2](contemporary_fig2.jpg)
