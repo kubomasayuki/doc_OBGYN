@@ -31,6 +31,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
 ### February
 * February 18, 2019  
+[A contemporary amniotic fluid volume chart for the United States: The NICHD Fetal Growth Studies–Singletons
+現代の米国における羊水量チャート：NICHDの胎児発育成長研究-単胎児](AJOG/Feb2019/A_contemporary_amniotic.md)
+* February 18, 2019  
 [A randomized controlled trial of Dilapan-S vs Foley balloon for preinduction cervical ripening (DILAFOL trial)  
 頸管熟化のためのダイラパンSvsフォーリーバルーンの無作為化対照試験（DILAFOL試験）](AJOG/Feb2019/A_randomized_controlled.md)
 * February 17, 2019  
