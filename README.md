@@ -14,6 +14,7 @@
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
 * [Lancet](#Lancet)
+* [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObgProject](#ObgProject)
 * [Springer](#Springer)
@@ -288,6 +289,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 28 February, 2019  
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
 出産歴のある女性における妊娠期間と有害出生転帰との関連：国際コホート研究](Lancet/Feb2019/Association_between_interpregnancy.md)
+
+# NEJM
+## 2019
+### March
+* March 21, 2019  
+[Pregnancy-Adapted YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism  
+肺塞栓症の疑いの診断のための妊娠適応YEARSアルゴリズム](NEJM/Pregnancy_Adapted_YEARS.md
 
 # NEPHROLOGY
 ## 2018
