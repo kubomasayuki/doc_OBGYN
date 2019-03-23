@@ -1,6 +1,6 @@
 ## タイトル
 Is Elective Induction Linked to Lower Risk of C-section?  
-選択的誘導はCセクションのリスク低下に関連しているか
+選択的誘発は帝王切開のリスク低減に寄与するか？
 
 ## 背景と目的
 Grobman and Caughey（AJOG、2019）は、39週目の選択的導入と分娩様式および他の周産期の転帰との関連を明らかにしようとした
