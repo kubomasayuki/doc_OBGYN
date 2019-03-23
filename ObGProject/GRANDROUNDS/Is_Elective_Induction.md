@@ -39,7 +39,7 @@ Grobman and Caughey（AJOG、2019）は、39週目の選択的誘発と分娩様
   * RR 0.27（95％CI 0.09-0.76）
 
 ## 結論：
-この観察研究のメタアナリシスは最近のARRIVE RCTと一致しており、39週の導入群では期待される管理と比較して帝王切開切片が少なく、母体および新生児の合併症が少ないことを示しています
+この観察研究のメタアナリシスはARRIVE RCTと一致しており、妊娠39週での誘発は待機的管理と比較して帝王切開が少なく、母体および新生児の合併症が少なかった
 
 ## リンク
 https://www.obgproject.com/2019/03/15/is-elective-induction-linked-to-lower-risk-of-c-section/
