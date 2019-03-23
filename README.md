@@ -190,7 +190,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ### February
 * 20 February 2019  
 [Induction of labour at 41 weeks versus expectant management until 42 weeks (INDEX): multicentre, randomised non-inferiority trial  
-41週での分娩誘発と42週までの待機的管理（INDEX）：多施設共同無作為化非劣性試験](BMJ/Induction_of_labour.md)
+41週での分娩誘発と42週までの待機的管理（INDEX）：多施設共同無作為化非劣性試験](BMJ/Feb2019/Induction_of_labour.md)
 
 # Case-Reports-in-Womens-Health
 ## 2019
