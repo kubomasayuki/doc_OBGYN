@@ -298,6 +298,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 
 ## GRAND ROUNDS
+* March 15, 2019  
+[Is Elective Induction Linked to Lower Risk of C-section?  
+選択的誘発は帝王切開のリスク低減に寄与するか？](ObGProject/GRANDROUNDS/Is_Elective_Induction.md)
 * March 3, 2019  
 [Progesterone, Cerclage or Pessary for Prevention of Preterm Birth: A Comparison  
 早産予防のためのプロゲステロン、子宮頸管縫縮術またはペッサリー：比較](ObGProject/GRANDROUNDS/Progesterone_Cerclage_or.md)
