@@ -187,6 +187,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # BMJ
 ## 2019
+### March
+* 20 March 2019  
+[Role of maternal age and pregnancy history in risk of miscarriage: prospective register based study  
+流産のリスクにおける母体年齢と妊娠の既往歴：登録に基づく前向き研究](BMJ/Mar2019/Role_of_maternal.md)
 ### February
 * 20 February 2019  
 [Induction of labour at 41 weeks versus expectant management until 42 weeks (INDEX): multicentre, randomised non-inferiority trial  
