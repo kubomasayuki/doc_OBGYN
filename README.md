@@ -84,6 +84,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * October 26, 2018  
 [FIRSTT study: randomized controlled trial of uterine artery embolization vs focused ultrasound surgery  
 FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化比較試験](AJOG/Oct2018/FIRSTT_study_randomized.md)
+* October 25, 2018  
+[Opioid use after laparoscopic hysterectomy: prescriptions, patient use, and a predictive calculator  
+腹腔鏡下子宮摘出術後のオピオイド使用：処方量、患者の使用量からの適切な量の予測](AJOG/Oct2018/Opioid_use_after.md)
 ### September
 * September 28, 2018  
 [Tackling poorly selected, collected, and reported outcomes in obstetrics and gynecology research  
