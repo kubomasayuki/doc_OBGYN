@@ -355,7 +355,7 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # Science-Translational-Medicine
 ## 2019
 ### February
-* 20 February, 2019  
+* February 20, 2019  
 [Noninvasive high-resolution electromyometrial imaging of uterine contractions in a translational sheep model  
 トランスレーショナルヒツジモデルにおける子宮収縮の非侵襲的な高解像度電気的子宮筋イメージング](Science-Translational-Medicine/Noninvasive_high_resolution.md)
 
