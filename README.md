@@ -17,6 +17,7 @@
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObgProject](#ObgProject)
+* [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
 
 
@@ -350,6 +351,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * December 30, 2018  
 [Postpartum Hemorrhage Prophylaxis: The World Health Organization Recommendations  
 産後出血予防：世界保健機関の勧告](ObGProject/OB/Postpartum_Hemorrhage_Prophylaxis.md)
+
+# Science-Translational-Medicine
+## 2019
+### February
+* 20 February, 2019  
+[Noninvasive high-resolution electromyometrial imaging of uterine contractions in a translational sheep model  
+トランスレーショナルヒツジモデルにおける子宮収縮の非侵襲的な高解像度電気的子宮筋イメージング](Science-Translational-Medicine/Noninvasive_high_resolution.md)
 
 # Springer
 ## 2019
