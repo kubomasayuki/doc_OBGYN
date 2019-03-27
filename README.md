@@ -174,7 +174,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Absorbable subcuticular staples versus suture for caesarean section closure: a randomised clinical trial  
 帝王切開閉鎖術のための吸収性皮下ステープル対縫合糸：無作為化臨床試験](BJOG/Feb2019/Absorbable_subcuticular_staples.md)
 * 6 February 2019  
-[Does preconception body mass index modify the effect of maternal diet on hypertensive disorders of pregnancy?
+[Does preconception body mass index modify the effect of maternal diet on hypertensive disorders of pregnancy?  
 妊娠前のBMIは、妊娠の高血圧障害に対する妊娠女性の食事に対して影響を与えるか？](BJOG/Feb2019/Does_preconception_body.md)
 ### January
 * 17 January 2019  
