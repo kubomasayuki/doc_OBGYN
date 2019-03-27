@@ -33,6 +33,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
 ### February
+* February 25, 2019  
+[Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies  
+待機的管理と比較した39週での選択的分娩誘発：コホート研究のメタアナリシス](AJOG/Feb2019/Elective_induction_of.md)
 * February 18, 2019  
 [A contemporary amniotic fluid volume chart for the United States: The NICHD Fetal Growth Studies–Singletons
 現代の米国における羊水量チャート：NICHDの胎児発育成長研究-単胎児](AJOG/Feb2019/A_contemporary_amniotic.md)
