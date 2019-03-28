@@ -180,6 +180,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Does preconception body mass index modify the effect of maternal diet on hypertensive disorders of pregnancy?  
 妊娠前のBMIは、妊娠の高血圧障害に対する妊娠女性の食事に対して影響を与えるか？](BJOG/Feb2019/Does_preconception_body.md)
 ### January
+* 21 January 2019  
+[Vaginal delivery in women with a low‐lying placenta: a systematic review and meta‐analysis  
+低置胎盤における経膣分娩：系統的レビューとメタ分析](BJOG/Jan2019/Vaginal_delivery_in.md)
 * 17 January 2019  
 [External validation and clinical usefulness of first‐trimester prediction models for small‐ and large‐for‐gestational‐age infants: a prospective cohort study  
 妊娠期間が短い/長い乳児の妊娠初期予測モデルの外部検証と臨床的有用性：前向きコホート研究](BJOG/Jan2019/External_validation_and.md)
