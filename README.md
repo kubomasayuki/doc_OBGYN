@@ -309,7 +309,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ### March
 * March 21, 2019  
 [Pregnancy-Adapted YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism  
-肺塞栓症疑い例の診断に対する妊娠に適応させたYEARSアルゴリズム](NEJM/Pregnancy_Adapted_YEARS.md)
+肺塞栓症疑い例の診断に対する妊娠に適応させたYEARSアルゴリズム](NEJM/Mar2019/Pregnancy_Adapted_YEARS.md)
+## 2018
+### August
+* August 9, 2018  
+[Labor Induction versus Expectant Management in Low-Risk Nulliparous Women  
+低リスク未産婦における分娩誘発と待機的管理との比較](NEJM/Aug2018/Labor_Induction_versus.md)
 
 # NEPHROLOGY
 ## 2018
