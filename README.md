@@ -337,6 +337,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 ## GRAND ROUNDS
 * March 15, 2019  
+[What impact does Pre-pregnancy BMI have on Venous Thromboembolism Risk?  
+妊娠前のBMIは静脈血栓塞栓症リスクにどのような影響を与えるか？](ObGProject/GRANDROUNDS/What_impact_does.md)
+* March 15, 2019  
 [Is Elective Induction Linked to Lower Risk of C-section?  
 選択的誘発は帝王切開のリスク低減に寄与するか？](ObGProject/GRANDROUNDS/Is_Elective_Induction.md)
 * March 3, 2019  
