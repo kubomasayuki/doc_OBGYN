@@ -39,19 +39,19 @@ Published:March 22, 2019
 標準的な胎児MRIは、胎児血管系の高解像度3D画像を生成することが可能であり、生成された3Dボリュームは超音波との良好な空間的一致を示し、補正されていない2D MRIデータと比較して可視化、および診断品質が著しく改善した。
 
 ### 図1 心エコー検査（A）とMRI（B）のための2人の独立した観察者からの測定値を比較する散布図
-![Figure.1](Three-fig1.jpg)
+![Figure.1](Three_fig1.jpg)
 
 ### 図2 解剖学的カテゴリーによって示される、2人の独立した観察者からの構造化解剖学的評価の結果
-![Figure.2](Three-fig2.jpg)
+![Figure.2](Three_fig2.jpg)
 
 ### 図3 32週時の二重大動脈弓を有する胎児からの運動補正MRIデータ
-![Figure.3](Three-fig3.jpg)
+![Figure.3](Three_fig3.jpg)
 
 ### 図4 心エコー検査で右肺静脈異常のために紹介された33週の胎児における動き補正3Dデータからのセグメンテーションの例
-![Figure.4](Three-fig4.jpg)
+![Figure.4](Three_fig4.jpg)
 
 ### 図5 肺動脈閉鎖症および心室中隔欠損、右大動脈弓、および切断された肺動脈を有する胎児における32週目の3Dデータからの胎児心臓のセグメンテーション
-![Figure.5](Three-fig5.jpg)
+![Figure.5](Three_fig5.jpg)
 
 ### 図6 妊娠33週での大動脈の縮縮が疑われる胎児の運動補正MRIデータのセグメンテーション
-![Figure.6](Three-fig6.jpg)
+![Figure.6](Three_fig6.jpg)
