@@ -303,6 +303,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # Lancet
 ## 2019
+### March
+* 22 March, 2019  
+[Three-dimensional visualisation of the fetal heart using prenatal MRI with motion-corrected slice-volume registration: a prospective, single-centre cohort study  
+動き補正スライスボリュームレジストレーションを用いた出生前MRIを用いた胎児心臓の三次元可視化：前向き単一施設コホート研究](Lancet/Mar2019/Three_dimensional_visualisation.md)
 ### February
 * 28 February, 2019  
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
