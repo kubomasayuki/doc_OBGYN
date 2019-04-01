@@ -17,6 +17,7 @@
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObgProject](#ObgProject)
+* [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
 
@@ -368,6 +369,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * December 30, 2018  
 [Postpartum Hemorrhage Prophylaxis: The World Health Organization Recommendations  
 産後出血予防：世界保健機関の勧告](ObGProject/OB/Postpartum_Hemorrhage_Prophylaxis.md)
+
+# SAGE-Journals
+## 2019
+### March
+* March 24, 2019  
+[Novel Approach for 2-Port Laparoscopic Hysterectomy  
+2ポート腹腔鏡下子宮摘出術のための新しいアプローチ](SAGE-Journals/Mar2019/Novel_Approach_for.md)
 
 # Science-Translational-Medicine
 ## 2019
