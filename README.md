@@ -374,6 +374,11 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 [Postpartum Hemorrhage Prophylaxis: The World Health Organization Recommendations  
 産後出血予防：世界保健機関の勧告](ObGProject/OB/Postpartum_Hemorrhage_Prophylaxis.md)
 
+## ALERT
+* August 23, 2017  
+[Eclampsia and Role of Magnesium Sulfate  
+子癇と硫酸マグネシウムの役割](ObGProject/ALERT/Eclampsia_and_Role.md)
+
 # SAGE-Journals
 ## 2019
 ### March
