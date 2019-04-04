@@ -17,6 +17,7 @@
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObgProject](#ObgProject)
+* [PRENATAL-DIAGNOSIS](#PRENATAL-DIAGNOSIS)
 * [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
@@ -378,6 +379,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * August 23, 2017  
 [Eclampsia and Role of Magnesium Sulfate  
 子癇と硫酸マグネシウムの役割](ObGProject/ALERT/Eclampsia_and_Role.md)
+
+# PRENATAL-DIAGNOSIS
+## 2019
+### January
+* January 2, 2019
+[Noninvasive fetal electrocardiography for the detection of fetal arrhythmias  
+胎児不整脈の検出のための非侵襲的胎児心電図](PRENATAL-DIAGNOSIS/Jan2019/Noninvasive_fetal_electrocardiography.md)
 
 # SAGE-Journals
 ## 2019
