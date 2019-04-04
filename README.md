@@ -365,9 +365,6 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * March 6, 2019  
 [Fetal Growth Restriction: Definition, Evaluation and Management  
 胎児発育不全：定義、評価および管理](ObGProject/NEWS/Fetal_Growth_Restriction.md)
-* January 30, 2019  
-[ACOG SMFM Recommendations: When to Deliver Medically Complicated Pregnancies  
-ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProject/NEWS/ACOG_SMFM_Recommendations.md)
 * January 29, 2019  
 [Chronic Hypertension in Pregnancy – Evaluation and Management  
 妊娠中の慢性高血圧 - 評価と管理](ObGProject/NEWS/Chronic_Hypertension_in.md)
@@ -376,6 +373,9 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 産後出血予防：世界保健機関の勧告](ObGProject/OB/Postpartum_Hemorrhage_Prophylaxis.md)
 
 ## ALERT
+* January 30, 2019  
+[ACOG SMFM Recommendations: When to Deliver Medically Complicated Pregnancies  
+ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProject/NEWS/ACOG_SMFM_Recommendations.md)
 * August 23, 2017  
 [Eclampsia and Role of Magnesium Sulfate  
 子癇と硫酸マグネシウムの役割](ObGProject/ALERT/Eclampsia_and_Role.md)
