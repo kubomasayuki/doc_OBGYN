@@ -383,7 +383,7 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # PRENATAL-DIAGNOSIS
 ## 2019
 ### January
-* January 2, 2019
+* 02 January 2019  
 [Noninvasive fetal electrocardiography for the detection of fetal arrhythmias  
 胎児不整脈の検出のための非侵襲的胎児心電図](PRENATAL-DIAGNOSIS/Jan2019/Noninvasive_fetal_electrocardiography.md)
 
