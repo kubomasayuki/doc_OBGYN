@@ -38,6 +38,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 25, 2019  
 [Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies  
 待機的管理と比較した39週での選択的分娩誘発：コホート研究のメタアナリシス](AJOG/Feb2019/Elective_induction_of.md)
+* February 21, 2019  
+[Aspirin delays the development of preeclampsia  
+アスピリン予防投与は妊娠高血圧腎症の発症を遅らせる](AJOG/Feb2019/Aspirin_delays_the.md)
 * February 18, 2019  
 [A contemporary amniotic fluid volume chart for the United States: The NICHD Fetal Growth Studies–Singletons
 現代の米国における羊水量チャート：NICHDの胎児発育成長研究-単胎児](AJOG/Feb2019/A_contemporary_amniotic.md)
