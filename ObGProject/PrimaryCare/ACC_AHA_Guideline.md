@@ -1,6 +1,6 @@
 ## タイトル
 ACC / AHA Guideline Recommends Against Low Dose Aspirin Beyond Age of 70 for Primary CVD Prevention  
-ACC / AHAガイドラインは一次CVD予防のために70歳を超える低用量アスピリンに対して推奨する
+一次CVD予防のための70歳を超える低線量アスピリンに対するACC/AHAガイドラインの推奨事項
 
 ## 概要：
 心血管疾患の一次予防に関する新しいACC / AHAガイドライン（2019年）は、低用量アスピリン使用に関する最新のガイダンスを提供しています。低用量アスピリン（1日70〜100mg、経口）は、依然としてASCVDの予防に役割を果たしています。しかし、新しい勧告は、70歳以上の人にアスピリンを日常的に投与することに対して忠告しています。 
@@ -79,3 +79,6 @@ ACC / AHAガイドラインは一次CVD予防のために70歳を超える低用
   * apoB：特に高濃度のLpで130 mg / dL以上（a）
   * 上昇したアポB≥130 mg / dLはLDL-C> 160 mg / dLに相当し、リスク増大因子となる
   * ABI（足首上腕血圧指数）<0.9
+
+## リンク
+https://www.obgproject.com/2019/04/01/acc-aha-guideline-recommends-against-low-dose-aspirin-beyond-age-of-70-for-primary-cvd-prevention/
