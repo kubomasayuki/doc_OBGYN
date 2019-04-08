@@ -38,6 +38,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 25, 2019  
 [Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies  
 待機的管理と比較した39週での選択的分娩誘発：コホート研究のメタアナリシス](AJOG/Feb2019/Elective_induction_of.md)
+* February 22, 2019  
+[Term cesarean delivery in the first pregnancy is not associated with an increased risk for preterm delivery in the subsequent pregnancy
+最初の妊娠における長期帝王切開分娩はその後の妊娠における早産のリスク増加とは関連しない](AJOG/Feb2019/Term_cesarean_delivery.md)
 * February 21, 2019  
 [Aspirin delays the development of preeclampsia  
 アスピリン予防投与は妊娠高血圧腎症の発症を遅らせる](AJOG/Feb2019/Aspirin_delays_the.md)
