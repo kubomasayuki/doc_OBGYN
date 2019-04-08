@@ -31,6 +31,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 # AJOG
 ## 2019
 ### March
+* March 7, 2019  
+[Successful use of an artificial placenta to support extremely preterm ovine fetuses at the border of viability  
+生存率の境界にある極早産ヒツジ胎仔をサポートするための人工胎盤の使用成功](AJOG/Mar2019/Successful_use_of.md)
 * March 1, 2019  
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
