@@ -309,7 +309,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ### March
 * March 26, 2019  
 [Association Between Year of Birth and 1-Year Survival Among Extremely Preterm Infants in Sweden During 2004-2007 and 2014-2016  
-2004年から2007年および2014年から2016年のスウェーデンの極早産児における生年月日と1年生存率との関連](JAMA-Network/Mar2019/Association_Between_Year.md)
+2004-07年および2014-16年のスウェーデンの超早産児における生まれ年と1年生存率との関連](JAMA-Network/Mar2019/Association_Between_Year.md)
 ### February
 * February 25, 2019  
 [Associations of Maternal Diabetes and Body Mass Index With Offspring Birth Weight and Prematurity  
