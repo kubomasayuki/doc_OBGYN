@@ -1,6 +1,6 @@
 ## タイトル
 Association Between Year of Birth and 1-Year Survival Among Extremely Preterm Infants in Sweden During 2004-2007 and 2014-2016  
-2004年から2007年および2014年から2016年のスウェーデンの極早産児における生年月日と1年生存率との関連
+2004-07年および2014-16年のスウェーデンの超早産児における生まれ年と1年生存率との関連
 
 ## 著者/所属機関
 Mikael Norman, MD, PhD 1,2,3; Boubou Hallberg, MD, PhD 1,2; Thomas Abrahamsson, MD, PhD 4; Lars J. Björklund, MD, PhD 5; Magnus Domellöf, MD, PhD 6; Aijaz Farooqi, MD, PhD 6; Cathrine Foyn Bruun, MD, PhD 6; Christian Gadsbøll, MD 4,5; Lena Hellström-Westas, MD, PhD 7; Fredrik Ingemansson, MD 8; Karin Källén, PhD 9; David Ley, MD, PhD 5; Karel Maršál, MD, PhD 10; Erik Normann, MD, PhD 7; Fredrik Serenius, MD, PhD 7; Olof Stephansson, MD, PhD 11,12; Lennart Stigson, MD 13; Petra Um-Bergström, MD 14,15; Stellan Håkansson, MD, PhD 3,6  
