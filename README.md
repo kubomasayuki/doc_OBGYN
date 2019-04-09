@@ -184,6 +184,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 22 February 2019  
 [Evaluation of a simple risk score to predict preterm preeclampsia using maternal characteristics: a prospective cohort study  
 母体の特徴を用いた早期妊娠高血圧腎症を予測するための単純リスクスコアの評価：前向きコホート研究](BJOG/Feb2019/Evaluation_of_a.md)
+* 20 February 2019  
+[Impact of maternal body mass index and gestational weight gain on pregnancy complications: an individual participant data meta‐analysis of European, North American, and Australian cohorts  
+妊娠合併症に対する母体BMIと妊娠中の体重増加の影響：欧州、北米、および豪州のコホートのメタ分析](BJOG/Feb2019/Impact_of_maternal.md)
 * 6 February 2019  
 [Absorbable subcuticular staples versus suture for caesarean section closure: a randomised clinical trial  
 帝王切開閉鎖術のための吸収性皮下ステープル対縫合糸：無作為化臨床試験](BJOG/Feb2019/Absorbable_subcuticular_staples.md)
