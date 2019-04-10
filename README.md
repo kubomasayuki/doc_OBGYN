@@ -8,6 +8,7 @@
 * [BMJ](#BMJ)
 * [Case-Reports-in-Womens-Health](#Case-Reports-in-Womens-Health)
 * [CMAJ](#CMAJ)
+* [EClinicalMedicine](#EClinicalMedicine)
 * [Environmental-Research](#EnvironmentalResearch)
 * [Green-Journal](#Green-Journal)
 * [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
@@ -236,6 +237,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 18 February 2019  
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
+
+# EClinicalMedicine
+## 2019
+### March
+* 22 March 2019  
+[Cord Blood Haptoglobin, Cerebral Palsy and Death in Infants of Women at Risk for Preterm Birth: A Secondary Analysis of a Randomised Controlled Trial  
+早産のリスクがあった乳児における臍帯血ハプトグロビンと脳性麻痺および死亡の相関：無作為化対照試験の二次分析](EClinicalMedicine/Mar2019/Cord_Blood_Haptoglobin.md)
 
 # Environmental-Research
 ## 2019
