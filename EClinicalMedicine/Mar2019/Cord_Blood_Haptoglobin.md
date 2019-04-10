@@ -1,5 +1,6 @@
 ## タイトル
-Cord Blood Haptoglobin, Cerebral Palsy and Death in Infants of Women at Risk for Preterm Birth: A Secondary Analysis of a Randomised Controlled Trial
+Cord Blood Haptoglobin, Cerebral Palsy and Death in Infants of Women at Risk for Preterm Birth: A Secondary Analysis of a Randomised Controlled Trial  
+早産のリスクがあった乳児における臍帯血ハプトグロビンと脳性麻痺および死亡の相関：無作為化対照試験の二次分析
 
 ## 著者/所属機関
 Catalin S.Buhimschi a, Kathleen A.Jablonski t, Dwight J.Rouse c, Michael W.Varner d, Uma M.Reddy u, Brian M.Mercer e f, Kenneth J.Leveno g, Ronald J.Wapner h i, Yoram Sorokin j, John M.Thorp Jr k, Susan M.Ramin l, Fergal D.Malone m, Marshall W.Carpenter n, Mary J.O'Sullivan o, Alan M.Peaceman p, George R.Saade q, Donald Dudley r, Steve N.Caritis s, Irina A.Buhimschi b 1, Eunice Kennedy Shriver National Institute of Child Health and Human Development Maternal-Fetal Medicine Units Network 2  
