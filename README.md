@@ -35,6 +35,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * March 7, 2019  
 [Successful use of an artificial placenta to support extremely preterm ovine fetuses at the border of viability  
 生存率の境界にある極早産ヒツジ胎仔をサポートするための人工胎盤の使用成功](AJOG/Mar2019/Successful_use_of.md)
+* March 5, 2019  
+[Hyperoxygenation in pregnancy exerts a more profound effect on cardiovascular hemodynamics than is observed in the nonpregnant state  
+妊娠時の高濃度酸素投与は心血管血行動態に対して非妊娠時よりも大きな効果を及ぼす](AJOG/Mar2019/Hyperoxygenation_in_pregnancy.md)
 * March 1, 2019  
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
