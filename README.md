@@ -171,6 +171,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * September 5, 2018  
 [Occult Placenta Accreta: Risk Factors, Adverse Obstetrical Outcomes, and Recurrence in Subsequent Pregnancies  
 潜在性胎盤付着症：危険因子、産科有害転帰、およびその後の妊娠における再発](American-Journal-of-Perinatology/Sep2018/Occult_Placenta_Accreta.md)
+* September 5, 2018  
+[Maternal Obesity Affects Cardiac Remodeling and Recovery in Women with Peripartum Cardiomyopathy  
+肥満は周産期心筋症の妊娠女性の心臓再生と回復に影響する](American-Journal-of-Perinatology/Sep2018/Maternal_Obesity_Affects.md)
 ### August
 * August 15, 2018  
 [Antenatal Magnesium Sulfate Exposure and Ponderal Index in Preterm Infants  
