@@ -341,6 +341,11 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 カナダにおける子宮収縮薬の使用：大学付属病院の産科施設における診療のスナップショット](International-Journal-of-Obstetrics-Anesthesia/Uterotonic_drug_in.md)
 
 # ISUOG
+## 2019
+### February
+* 19 February, 2019  
+[Prediction of small‐for‐gestational‐age neonates at 35–37 weeks' gestation: contribution of maternal factors and growth velocity between 20 and 36 weeks  
+妊娠35〜37週の妊娠中の新生児の予測：20〜36週の母体要因および成長速度の寄与](ISUOG/Feb2019/Prediction_of_small.md)
 ## 2018
 ### November
 * 21 November, 2018  
