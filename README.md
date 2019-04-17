@@ -346,6 +346,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 21 November, 2018  
 [Physiological effects of partial amniotic carbon dioxide insufflation with cold, dry vs heated, humidified gas in a sheep model
 ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Nov2018/Physiological_effects_of.md)
+### October
+* 24 October, 2018  
+[Fetal Medicine Foundation reference ranges for umbilical artery and middle cerebral artery pulsatility index and cerebroplacental ratio  
+臍帯動脈および中大脳動脈拍動指数と脳胎盤比率に対するFetal Medicine Foundationの参照範囲](ISUOG/Oct2018/Fetal_Medicine_Foundation.md)
 
 # JAMA-Network
 ## 2019
