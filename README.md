@@ -345,7 +345,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ### November
 * 21 November, 2018  
 [Physiological effects of partial amniotic carbon dioxide insufflation with cold, dry vs heated, humidified gas in a sheep model
-ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Physiological_effects_of.md)
+ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Nov2018/Physiological_effects_of.md)
 
 # JAMA-Network
 ## 2019
