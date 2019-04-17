@@ -157,6 +157,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # American-Journal-of-Perinatology
 ## 2018
 ### November
+* November 10, 2018  
+[Assessing Maternal and Fetal Risks Associated with Prolonged Induction of Labor  
+遷延する分娩誘発に関する母体および胎児のリスクの評価](American-Journal-of-Perinatology/Nov2018/Assessing_Maternal_and.md)
 * November 5, 2018  
 [Pregnancy Outcomes after Early Amniotomy among Class III Obese Gravidas Undergoing Induction of Labor  
 分娩誘発を受けているクラスIII肥満性重症者における早期羊膜切開術後の妊娠転帰](American-Journal-of-Perinatology/Nov2018/Pregnancy_Outcomes_after.md)
