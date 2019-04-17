@@ -168,6 +168,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * September 12, 2018  
 [Antibiotic Use in Pregnancy, Abnormal Fetal Growth, and Development of Gestational Diabetes Mellitus  
 妊娠、異常な胎児の成長、および妊娠性糖尿病の発症における抗生物質の使用](American-Journal-of-Perinatology/Sep2018/Antibiotic_Use_in.md)
+* September 5, 2018  
+[Occult Placenta Accreta: Risk Factors, Adverse Obstetrical Outcomes, and Recurrence in Subsequent Pregnancies  
+潜在性胎盤付着症：危険因子、産科有害転帰、およびその後の妊娠における再発](American-Journal-of-Perinatology/Sep2018/Occult_Placenta_Accreta.md)
 ### August
 * August 15, 2018  
 [Antenatal Magnesium Sulfate Exposure and Ponderal Index in Preterm Infants  
