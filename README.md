@@ -155,6 +155,11 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
 
 # American-Journal-of-Perinatology
+## 2019
+### February
+* February 22, 2019  
+[Change in Cervical Length across Pregnancies and Preterm Delivery  
+妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
 ## 2018
 ### November
 * November 10, 2018  
