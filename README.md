@@ -23,6 +23,7 @@
 * [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
+* [Taylor_and_Francis_Online](#Taylor_and_Francis_Online)
 
 
 # ACOG-Comittee-Opinion
@@ -473,3 +474,10 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 15 January, 2019  
 [The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
 妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
+
+# Taylor_and_Francis_Online
+## 2017
+### May
+* 19 May, 2017  
+[Fetal scalp stimulation (FSS) versus fetal blood sampling (FBS) for women with abnormal fetal heart rate monitoring in labor: a prospective cohort study  
+異常な胎児心拍数モニタリングを示す妊娠女性における児頭刺激（FSS）vs児頭血採取（FBS）：前向きコホート研究](Taylor_and_Francis_Online/May2017/Fetal_scalp_stimulation.md)
