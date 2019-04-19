@@ -412,6 +412,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * April 1, 2019  
+[How Do Maternal Age and Pregnancy History Affect Risk of Miscarriage?
+母親の年齢と妊娠歴は流産のリスクにどのような影響を与えますか？](ObGProject/GRANDROUNDS/How_Do_Maternal.md)
+* April 1, 2019  
 [Antibiotics for Reducing Risk of Endometritis Following Intrauterine Balloon Tamponade  
 子宮内バルーンタンポナーデ後の子宮内膜炎のリスクを減らすための抗生物質](ObGProject/GRANDROUNDS/Antibiotics_for_Reducing.md)
 * March 29, 2019  
