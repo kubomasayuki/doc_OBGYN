@@ -411,6 +411,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* March 22, 2019  
+[Does Antibiotic Use During Myomectomy Lead to Fewer Infections?  
+子宮摘出術の間の抗生物質の使用は感染症の減少につながるか？](ObGProject/GRANDROUNDS/Does_Antibiotic_Use.md)
 * March 15, 2019  
 [What impact does Pre-pregnancy BMI have on Venous Thromboembolism Risk?  
 妊娠前のBMIは静脈血栓塞栓症リスクにどのような影響を与えるか？](ObGProject/GRANDROUNDS/What_impact_does.md)
