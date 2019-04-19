@@ -412,6 +412,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * March 24, 2019  
+[Are Adverse Outcomes More Frequent with Delivery at 40 or 41 Weeks vs 39 Weeks?  
+40週または41週と39週の分娩では、有害転帰の頻度はより高くなるか？](ObGProject/GRANDROUNDS/Are_Adverse_Outcomes.md)
+* March 24, 2019  
 [In Women at Risk of Late Preterm Delivery, is Corticosteroid Therapy Still Cost-Effective?  
 後期早産のリスクが高い女性では、コルチコステロイド療法は依然として費用対効果が高いですか？](ObGProject/GRANDROUNDS/In_Women_at.md)
 * March 22, 2019  
