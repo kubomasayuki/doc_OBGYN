@@ -446,6 +446,9 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * August 23, 2017  
 [Eclampsia and Role of Magnesium Sulfate  
 子癇と硫酸マグネシウムの役割](ObGProject/ALERT/Eclampsia_and_Role.md)
+* June 25, 2017  
+[Updated ACOG Guidance on Gestational Diabetes  
+妊娠糖尿病に関する最新のACOGガイダンス](ObGProject/ALERT/Updated_ACOG_Guidance.md)
 ## Primary Care
 * April 1, 2019  
 [ACC / AHA Guideline Recommends Against Low Dose Aspirin Beyond Age of 70 for Primary CVD Prevention  
