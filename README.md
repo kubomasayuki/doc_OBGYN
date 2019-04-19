@@ -411,7 +411,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
-* March 24, 2019  
+* March 29, 2019  
 [Are Adverse Outcomes More Frequent with Delivery at 40 or 41 Weeks vs 39 Weeks?  
 40週または41週と39週の分娩では、有害転帰の頻度はより高くなるか？](ObGProject/GRANDROUNDS/Are_Adverse_Outcomes.md)
 * March 24, 2019  
