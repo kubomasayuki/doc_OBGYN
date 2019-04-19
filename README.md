@@ -411,6 +411,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 7, 2019  
+[Induction at 41 Weeks vs Expectant Management: Results from the INDEX Trial  
+41週の分娩誘発vs待機的管理：INDEX試験の結果](ObGProject/GRANDROUNDS/Induction_at_41.md)
 * April 1, 2019  
 [How Do Maternal Age and Pregnancy History Affect Risk of Miscarriage?
 母親の年齢と妊娠歴は流産のリスクにどのような影響を与えますか？](ObGProject/GRANDROUNDS/How_Do_Maternal.md)
