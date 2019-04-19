@@ -411,6 +411,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 14, 2019  
+[Vaginal Delivery or Cesarean Section for a Low-Lying Placenta?  
+低置胎盤は経膣分娩か帝王切開か？](ObGProject/GRANDROUNDS/Vaginal_Delivery_or.md)
 * April 7, 2019  
 [Induction at 41 Weeks vs Expectant Management: Results from the INDEX Trial  
 41週の分娩誘発vs待機的管理：INDEX試験の結果](ObGProject/GRANDROUNDS/Induction_at_41.md)
