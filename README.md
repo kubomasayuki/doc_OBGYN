@@ -266,8 +266,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # CMAJ
 ## 2019
+### April
+* April 15, 2019  
+[Gestational diabetes associated with incident diabetes in childhood and youth: a retrospective cohort study  
+小児期および若年期における偶発性糖尿病と関連する妊娠性糖尿病：後ろ向きコホート研究](CMAJ/Apr2019/Gestational_diabetes_associated.md)
 ### February
-* 18 February 2019  
+* February 18, 2019  
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
 
