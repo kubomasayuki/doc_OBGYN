@@ -414,6 +414,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 15, 2019  
+[Does Treating Hyperglycemia Earlier in Pregnancy Improve Neonatal and Maternal Outcomes?  
+妊娠の早い時期に高血糖を治療することは新生児および母体の転帰を改善するか？](ObGProject/GRANDROUNDS/Does_Treating_Hyperglycemia.md)
 * April 14, 2019  
 [Vaginal Delivery or Cesarean Section for a Low-Lying Placenta?  
 低置胎盤は経膣分娩か帝王切開か？](ObGProject/GRANDROUNDS/Vaginal_Delivery_or.md)
