@@ -157,6 +157,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # American-Journal-of-Perinatology
 ## 2019
+### March
+* March 20, 2019  
+[Perinatal Outcomes Associated with Early Diabetes Testing in Pregnancies Complicated by Obesity  
+肥満を合併した妊娠における早期糖尿病検査に関連した周産期転帰](American-Journal-of-Perinatology/Mar2019/Perinatal_Outcomes_Associated.md)
 ### February
 * February 28, 2019  
 [Effect of Trial of Labor before Cesarean and Risk of Subsequent Placenta Accreta Spectrum Disorders  
