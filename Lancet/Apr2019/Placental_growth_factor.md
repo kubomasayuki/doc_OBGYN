@@ -1,6 +1,6 @@
 ## タイトル
 Placental growth factor testing to assess women with suspected pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial  
-子癇前症の疑いのある女性を評価するための胎盤成長因子試験：多施設、実用的、段階的くさびクラスター無作為化対照試験
+妊娠高血圧腎症の疑いのある妊娠女性を評価するための胎盤増殖因子試験：多施設、実用的、段階的くさびクラスター無作為化対照試験
 
 ## 著者/所属機関
 
@@ -22,3 +22,9 @@ Published:April 01, 2019
 
 ### 解釈
 我々は、PlGF試験結果の利用可能性が子癇前症の臨床的確認までの時間を実質的に短縮することを見出した。臨床医のための臨床管理アルゴリズムで推奨されているように、PlGFが実施されたところで、我々は、標的化された強化されたサーベイランスの採用と一致して、より低い母体有害転帰の発生率を見出した。子癇前症が疑われる女性におけるPlGF試験の採用は、この研究の結果によって支持されている。
+
+### 図1 トライアルプロファイル
+![Figure 1](placental_fig1.jpg)
+
+### 図2 臨床医から循環胎盤成長因子濃度を明らかにした場合と隠した場合の子癇前症と診断された女性の割合（日数（A）および数週間（B））
+![Figure 2](placental_fig2.jpg)
