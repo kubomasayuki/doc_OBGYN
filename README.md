@@ -433,6 +433,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 16, 2019  
+[Does Elective Induction of Labor at 39 Weeks Gestation Lead to Improved Maternal and Newborn Outcomes?  
+妊娠39週での選択的分娩誘発は母子の予後の改善につながるか？](ObGProject/GRANDROUNDS/Does_Elective_Induction.md)
 * April 15, 2019  
 [Does Treating Hyperglycemia Earlier in Pregnancy Improve Neonatal and Maternal Outcomes?  
 妊娠の早い時期に高血糖を治療することは新生児および母体の転帰を改善するか？](ObGProject/GRANDROUNDS/Does_Treating_Hyperglycemia.md)
