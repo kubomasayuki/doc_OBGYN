@@ -89,6 +89,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 1, 2019  
 [Maternal and newborn outcomes with elective induction of labor at term  
 満期出産の選択的誘導による母子の転帰](AJOG/Feb2019/Maternal_and_newborn.md)
+### January
+* January 9, 2019  
+[Association between gestational age and severe maternal morbidity and mortality of preterm cesarean delivery: a population-based cohort study  
+pretermの帝王切開と重篤な母体罹患率および死亡率との関連：集団ベースのコホート研究](AJOG/Jan2019/Association_between_gestational.md)
 ## 2018
 ### December
 * December 27, 2018  
