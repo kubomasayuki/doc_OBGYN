@@ -93,6 +93,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * January 9, 2019  
 [Association between gestational age and severe maternal morbidity and mortality of preterm cesarean delivery: a population-based cohort study  
 pretermの帝王切開と重篤な母体罹患率および死亡率との関連：集団ベースのコホート研究](AJOG/Jan2019/Association_between_gestational.md)
+* January 9, 2019  
+[Time from neuraxial anesthesia placement to delivery is inversely proportional to umbilical arterial cord pH at scheduled cesarean delivery  
+予定帝王切開時の無痛分娩の開始から分娩までの時間は臍帯動脈血pHに反比例する](AJOG/Jan2019/Time_from_neuraxial.md)
 ## 2018
 ### December
 * December 27, 2018  
