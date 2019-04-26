@@ -385,12 +385,16 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # Lancet
 ## 2019
+### April
+* April 1, 2019  
+[Placental growth factor testing to assess women with suspected pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial  
+妊娠高血圧腎症の疑いのある妊娠女性を評価するための胎盤増殖因子試験：多施設、実用的、段階的クラスター無作為化対照試験](Lancet/Apr2019/Placental_growth_factor.md)
 ### March
-* 22 March, 2019  
+* March 22, 2019  
 [Three-dimensional visualisation of the fetal heart using prenatal MRI with motion-corrected slice-volume registration: a prospective, single-centre cohort study  
 動き補正スライスボリュームレジストレーションを用いた出生前MRIを用いた胎児心臓の三次元可視化：前向き単一施設コホート研究](Lancet/Mar2019/Three_dimensional_visualisation.md)
 ### February
-* 28 February, 2019  
+* February 28, 2019  
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
 出産歴のある女性における妊娠期間と有害出生転帰との関連：国際コホート研究](Lancet/Feb2019/Association_between_interpregnancy.md)
 
