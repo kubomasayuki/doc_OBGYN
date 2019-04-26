@@ -1,6 +1,6 @@
 ## タイトル
 Placental growth factor testing to assess women with suspected pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial  
-妊娠高血圧腎症の疑いのある妊娠女性を評価するための胎盤増殖因子試験：多施設、実用的、段階的くさびクラスター無作為化対照試験
+妊娠高血圧腎症の疑いのある妊娠女性を評価するための胎盤増殖因子試験：多施設、実用的、段階的クラスター無作為化対照試験
 
 ## 著者/所属機関
 
