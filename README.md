@@ -359,9 +359,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # International-Journal-of-Obstetrics-Anesthesia
 ## 2018
 ### September
+* September 27, 2018  
+[Comparison between general, spinal, epidural, and combined spinal-epidural anesthesia for cesarean delivery: a network meta-analysis  
+帝王切開分娩のための全身麻酔、脊椎麻酔、硬膜外麻酔、および複合脊椎硬膜外麻酔の比較：ネットワークメタアナリシス](International-Journal-of-Obstetrics-Anesthesia/Sep2018/Comparison_between_general.md)
 * September 11, 2018  
 [Uterotonic drug usage in Canada: a snapshot of the practice in obstetric units of university-affiliated hospitals  
-カナダにおける子宮収縮薬の使用：大学付属病院の産科施設における診療のスナップショット](International-Journal-of-Obstetrics-Anesthesia/Uterotonic_drug_in.md)
+カナダにおける子宮収縮薬の使用：大学付属病院の産科施設における診療のスナップショット](International-Journal-of-Obstetrics-Anesthesia/Sep2018/Uterotonic_drug_in.md)
 
 # ISUOG
 ## 2019
