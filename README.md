@@ -101,6 +101,9 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 * December 27, 2018  
 [Computerized analysis of cardiotocograms and ST signals is associated with significant reductions in hypoxic-ischemic encephalopathy and cesarean delivery: an observational study in 38,466 deliveries  
 心電図とSTシグナルのコンピューター分析は低酸素性虚血性脳症と帝王切開分娩の有意な減少と関連する：38,466分娩における観察研究](AJOG/Dec2018/Computerized_analysis_of.md)
+* December 7, 2018  
+[Threshold of metabolic acidosis associated with newborn cerebral palsy: medical legal implications  
+新生児脳性麻痺と関連した代謝性アシドーシスの閾値：医学的法的意義](AJOG/Dec2018/Threshold_of_metabolic.md)
 ### November
 * November 24, 2018  
 [Evaluation of proposed criteria for research reporting of amniotic fluid embolism  
