@@ -439,6 +439,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 17, 2019  
+[Does Metabolic Syndrome Contribute to a Longer Time to Pregnancy and Infertility, Independent of Obesity?  
+メタボリックシンドロームは肥満に関係なく妊娠までの期間が長くなるか？](ObGProject/GRANDROUNDS/Does_Metabolic_Syndrome.md)
 * April 16, 2019  
 [Three Previous Cesarean Deliveries: When to Deliver?  
 3回の帝王切開の既往歴：いつ分娩するか？](ObGProject/GRANDROUNDS/Three_Previous_Cesarean.md)
