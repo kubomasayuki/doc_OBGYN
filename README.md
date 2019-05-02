@@ -83,6 +83,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 12, 2019  
 [Increased the risk of osteoporosis with hysterectomy: A longitudinal follow-up study using a national sample cohort  
 子宮摘出術による骨粗鬆症のリスク増加：全国標本コホートを用いた長期追跡調査](AJOG/Feb2019/Increased_the_risk.md)
+* February 8, 2019  
+[Severe cardiovascular morbidity in women with hypertensive diseases during delivery hospitalization  
+分娩入院中の高血圧疾患を有する女性における重度の心血管罹患率](AJOG/Feb2019/Severe_cardiovascular_morbidity.md)
 * February 7, 2019  
 [Prediction of imminent preeclampsia at 35–37 weeks gestation  
 妊娠35〜37週での差し迫った妊娠高血圧腎症の予測](AJOG/Feb2019/Prediction_of_imminent.md)
