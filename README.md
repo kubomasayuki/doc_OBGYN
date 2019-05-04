@@ -111,6 +111,9 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 * November 24, 2018  
 [Evaluation of proposed criteria for research reporting of amniotic fluid embolism  
 羊水塞栓症の研究報告のために提案された基準の評価](AJOG/Nov2018/Evaluation_of_proposed.md)
+* November 19, 2018  
+[Trial of labor after cesarean delivery in twin gestations: systematic review and meta-analysis  
+双子の妊娠における過去の帝王切開分娩後の経膣分娩の試み：系統的レビューとメタ分析](AJOG/Nov2018/Trial_of_labor.md)
 * November 14, 2018  
 [Predictive performance of the competing risk model in screening for preeclampsia  
 妊娠高血圧腎症のスクリーニングにおける競合リスクモデルの予測性能](AJOG/Nov2018/Predictive_performance_of.md)
