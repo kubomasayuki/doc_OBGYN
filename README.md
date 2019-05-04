@@ -9,6 +9,7 @@
 * [Brain_and_Development](#Brain_and_Development)
 * [Case-Reports-in-Womens-Health](#Case-Reports-in-Womens-Health)
 * [CMAJ](#CMAJ)
+* [Cochrane](#Cochrane)
 * [EClinicalMedicine](#EClinicalMedicine)
 * [Environmental-Research](#EnvironmentalResearch)
 * [Green-Journal](#Green-Journal)
@@ -301,6 +302,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 18, 2019  
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
+
+# Cochrane
+## 2019
+### April
+* 29 April 2019  
+[Prophylactic oxytocin for the third stage of labour to prevent postpartum haemorrhage  
+産後出血を予防するための分娩第3期のための予防的オキシトシン](Cochrane/Apr2019/Prophylactic_oxytocin_for.md)
 
 # EClinicalMedicine
 ## 2019
