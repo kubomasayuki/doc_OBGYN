@@ -326,6 +326,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 ## Green-Journal
 ## 2019
+### May
+* May 1, 2019  
+[Unmonitored Labor Episodes in Obese Parturients With Wireless Versus Conventional Fetal Heart Rate Monitoring  
+ワイヤレスvs従来の胎児心拍数モニタリングによる肥満患者の分娩中モニターが取れていないエピソード](GreenJournal/May2019/Unmonitored_Labor_Episodes.md)
 ### March
 * March 11, 2019  
 [Neonatal and Maternal Morbidity Among Low-Risk Nulliparous Women at 39–41 Weeks of Gestation  
