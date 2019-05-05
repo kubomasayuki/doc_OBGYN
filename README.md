@@ -204,6 +204,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * October 3, 2018  
 [Association between Gestational Weight Gain Adequacy and Adverse Maternal and Neonatal Outcomes  
 妊娠体重増加の十分性と有害な母親および新生児の転帰との関連](American-Journal-of-Perinatology/Oct2018/Association_between_Gestational.md)
+* October 3, 2018  
+[Risk of Ischemic Placental Disease in Relation to Family History of Preeclampsia  
+妊娠高血圧腎症の家族歴に関連した虚血性胎盤疾患のリスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Ischemic.md)
 ### September
 * September 19, 2018  
 [Gestational Weight Gain during Pregnancy as an Important Factor Influencing a Successful Trial of Labor following Two Previous Cesareans  
