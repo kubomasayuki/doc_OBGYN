@@ -1,5 +1,6 @@
 ## タイトル
 Pre-eclampsia and risk of later kidney disease: nationwide cohort study  
+妊娠高血圧腎症とその後の腎臓病のリスク：全国コホート研究
 
 ## 著者/所属機関
 
