@@ -279,6 +279,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # BMJ
 ## 2019
 ### April
+* 29 April 2019  
+[Pre-eclampsia and risk of later kidney disease: nationwide cohort study  
+妊娠高血圧腎症とその後の腎臓病のリスク：全国コホート研究](BMJ/Apr2019/Pre-eclampsia_and_risk.md)
 * 11 April 2019  
 [An evaluation of whether a gestational weight gain of 5 to 9 kg for obese women optimizes maternal and neonatal health risks  
 肥満女性の妊娠中の5～9kgの体重増加が母体および新生児の健康リスクを最適化するかどうかの評価](BMJ/Apr2019/An_evaluation_of.md)
