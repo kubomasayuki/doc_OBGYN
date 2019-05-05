@@ -201,9 +201,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * October 29, 2018  
 [Risk of Maternal Morbidity with Increasing Number of Cesareans  
 帝王切開数の増加に伴う母親の罹患リスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Maternal.md)
+* October 3, 2018  
+[Association between Gestational Weight Gain Adequacy and Adverse Maternal and Neonatal Outcomes  
+妊娠体重増加の十分性と有害な母親および新生児の転帰との関連](American-Journal-of-Perinatology/Oct2018/Association_between_Gestational.md)
 ### September
 * September 19, 2018  
-[Gestational Weight Gain during Pregnancy as an Important Factor Influencing a Successful Trial of Labor following Two Previous Cesareans
+[Gestational Weight Gain during Pregnancy as an Important Factor Influencing a Successful Trial of Labor following Two Previous Cesareans  
 過去2回の帝王切開後の成功した分娩試験に影響する重要な要因としての妊娠中の妊娠中の体重増加](American-Journal-of-Perinatology/Sep2018/Gestational_Weight_Gain.md)
 * September 12, 2018  
 [Antibiotic Use in Pregnancy, Abnormal Fetal Growth, and Development of Gestational Diabetes Mellitus  
