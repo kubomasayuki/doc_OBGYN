@@ -186,6 +186,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Change in Cervical Length across Pregnancies and Preterm Delivery  
 妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
 ## 2018
+### December
+* December 3, 2018  
+[Using the Probability of Cesarean from a Validated Cesarean Prediction Calculator to Predict Labor Length and Morbidity  
+分娩時間および罹患率を予測するための検証済み帝王切開予測計算からの帝王切開確率の使用](American-Journal-of-Perinatology/Dec2018/Using_the_Probability.md)
 ### November
 * November 10, 2018  
 [Assessing Maternal and Fetal Risks Associated with Prolonged Induction of Labor  
