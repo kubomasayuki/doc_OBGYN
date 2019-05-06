@@ -20,6 +20,7 @@
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObGProject](#ObGProject)
+* [PLOS_ONE](#PLOS_ONE)
 * [PRENATAL-DIAGNOSIS](#PRENATAL-DIAGNOSIS)
 * [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
@@ -548,6 +549,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * April 1, 2019  
 [ACC / AHA Guideline Recommends Against Low Dose Aspirin Beyond Age of 70 for Primary CVD Prevention  
 一次CVD予防のための70歳を超える低用量アスピリンに対するACC/AHAガイドラインの推奨事項](ObGProject/PrimaryCare/ACC_AHA_Guideline.md)
+
+# PLOS_ONE
+## 2018
+### April
+* April 16, 2018  
+[ST waveform analysis for monitoring hypoxic distress in fetal sheep after prolonged umbilical cord occlusion
+長時間の臍帯閉塞後の胎仔ヒツジにおける低酸素仮死を監視するためのST波形解析](PLOS_ONE/Apr2018/ST_waveform_analysis.md)
 
 # PRENATAL-DIAGNOSIS
 ## 2019
