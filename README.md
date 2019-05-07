@@ -279,6 +279,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # BMJ
 ## 2019
+### May
+* 01 May 2019  
+[Preterm birth and risk of chronic kidney disease from childhood into mid-adulthood: national cohort study  
+早産と小児期から成人期半ばまでの慢性腎臓病のリスク：全国コホート研究](BMJ/May2019/Preterm_birth_and.md)
 ### April
 * 29 April 2019  
 [Pre-eclampsia and risk of later kidney disease: nationwide cohort study  
