@@ -42,3 +42,6 @@ Received: September 4, 2018
 
 ### 図1
 ![Figure.1](Time_fig1.jpg)
+
+### 図2
+![Figure.2](Time_fig2.jpg)
