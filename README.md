@@ -456,6 +456,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # NEJM
 ## 2019
+### May
+* May 9, 2019  
+[A Randomized Trial of Progesterone in Women with Bleeding in Early Pregnancy  
+妊娠初期の出血のある女性におけるプロゲステロンの無作為化試験](NEJM/May2019/A_Randomized_Trial.md)
 ### March
 * March 21, 2019  
 [Pregnancy-Adapted YEARS Algorithm for Diagnosis of Suspected Pulmonary Embolism  
