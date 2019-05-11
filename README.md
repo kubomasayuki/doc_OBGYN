@@ -101,6 +101,9 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 * January 9, 2019  
 [Time from neuraxial anesthesia placement to delivery is inversely proportional to umbilical arterial cord pH at scheduled cesarean delivery  
 予定帝王切開時の無痛分娩の開始から分娩までの時間は臍帯動脈血pHに反比例する](AJOG/Jan2019/Time_from_neuraxial.md)
+* January 9, 2019  
+[Diagnostic performance of third-trimester ultrasound for the prediction of late-onset fetal growth restriction: a systematic review and meta-analysis  
+遅発性胎児発育不全の予測のための妊娠第3三半期の超音波の診断成績：系統的レビューとメタ分析](AJOG/Jan2019/Diagnostic_performance_of.md)
 ## 2018
 ### December
 * December 27, 2018  
