@@ -494,6 +494,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * April 28, 2019  
+[Does Labor Before Cesarean Section Decrease Risk of Accreta in Later Pregnancies?  
+帝王切開前の経腟分娩試行は将来の妊娠での胎盤癒着リスクを減少させるか？](ObGProject/GRANDROUNDS/Does_Labor_Before.md)
+* April 28, 2019  
 [Does Placental Growth Factor Lead to a Quicker Diagnosis in Women with Suspected Pre-Eclampsia?  
 胎盤増殖因子は妊娠高血圧腎症が疑われる女性においてより迅速な診断につながるか？](ObGProject/GRANDROUNDS/Does_Placental_Growth.md)
 * April 17, 2019  
