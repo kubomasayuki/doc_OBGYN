@@ -178,6 +178,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # American-Journal-of-Perinatology
 ## 2019
+### April
+* April 16, 2019  
+[Effect of Trial of Labor before Cesarean and Risk of Subsequent Placenta Accreta Spectrum Disorders  
+帝王切開前の分娩試行の効果とその後の胎盤癒着スペクトラム障害のリスク](American-Journal-of-Perinatology/Apr2019/Effect_of_Trial.md)
 ### March
 * March 20, 2019  
 [Perinatal Outcomes Associated with Early Diabetes Testing in Pregnancies Complicated by Obesity  
