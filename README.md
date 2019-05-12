@@ -489,6 +489,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* April 28, 2019  
+[Does Placental Growth Factor Lead to a Quicker Diagnosis in Women with Suspected Pre-Eclampsia?  
+胎盤増殖因子は妊娠高血圧腎症が疑われる女性においてより迅速な診断につながるか？](ObGProject/GRANDROUNDS/Does_Placental_Growth.md)
 * April 17, 2019  
 [Does Metabolic Syndrome Contribute to a Longer Time to Pregnancy and Infertility, Independent of Obesity?  
 メタボリックシンドロームは肥満に関係なく妊娠までの期間が長くなるか？](ObGProject/GRANDROUNDS/Does_Metabolic_Syndrome.md)
