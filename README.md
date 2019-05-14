@@ -358,6 +358,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * May 1, 2019  
 [Unmonitored Labor Episodes in Obese Parturients With Wireless Versus Conventional Fetal Heart Rate Monitoring  
 ワイヤレスvs従来の胎児心拍数モニタリングによる肥満患者の分娩中モニターが取れていないエピソード](GreenJournal/May2019/Unmonitored_Labor_Episodes.md)
+* May 1, 2019  
+[Predicting Neonatal Pathologic Disposition From Cardiotocography Using Machine Learning
+機械学習を用いた心電図検査からの新生児の病理学的性質の予測](GreenJournal/May2019/Predicting_Neonatal_Pathologic.md)
 ### March
 * March 11, 2019  
 [Neonatal and Maternal Morbidity Among Low-Risk Nulliparous Women at 39–41 Weeks of Gestation  
