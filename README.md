@@ -402,6 +402,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 1, 2019  
 [Postoperative Opioid Consumption After Scheduled Compared With Unscheduled Cesarean Delivery  
 予定外の帝王切開分娩と比較した予定後の術後オピオイド消費](GreenJournal/Feb2019/Postoperative_Opioid_Consumption.md)
+### January
+* January 31, 2019  
+[Timing of Gestational Weight Gain and Adverse Perinatal Outcomes in Overweight and Obese Women  
+太り過ぎおよび肥満女性における妊娠体重増加のタイミングおよび周産期有害転帰](GreenJournal/Jan2019/Timing_of_Gestational.md)
 ## 2018
 ### October
 * October 1, 2018  
