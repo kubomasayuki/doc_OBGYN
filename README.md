@@ -95,6 +95,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [Maternal and newborn outcomes with elective induction of labor at term  
 満期出産の選択的誘導による母子の転帰](AJOG/Feb2019/Maternal_and_newborn.md)
 ### January
+* January 29, 2019  
+[Prediction of small for gestational age neonates: screening by maternal factors, fetal biometry, and biomarkers at 35–37 weeks’ gestation  
+在胎不当過小児の予測：妊娠35-37週における母体要因、胎児の生物的統計、およびバイオマーカーのスクリーニング](AJOG/Jan2019/Prediction_of_small.md)
 * January 9, 2019  
 [Association between gestational age and severe maternal morbidity and mortality of preterm cesarean delivery: a population-based cohort study  
 pretermの帝王切開と重篤な母体罹患率および死亡率との関連：集団ベースのコホート研究](AJOG/Jan2019/Association_between_gestational.md)
