@@ -507,6 +507,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* May 3, 2019  
+[Does PROM vs Intact Membranes in Previous Pregnancy Impact Success of Pessary or Progesterone in Future Pregnancy with Short Cervix?  
+過去の妊娠におけるPROM vs 未破膜は、短い子宮頸管による将来の妊娠におけるペッサリーまたはプロゲステロンの成功に影響を与えますか？](ObGProject/GRANDROUNDS/Does_PROM_vs.md)
 * April 28, 2019  
 [Does Labor Before Cesarean Section Decrease Risk of Accreta in Later Pregnancies?  
 帝王切開前の経腟分娩試行は将来の妊娠での胎盤癒着リスクを減少させるか？](ObGProject/GRANDROUNDS/Does_Labor_Before.md)
