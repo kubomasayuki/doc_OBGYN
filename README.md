@@ -440,6 +440,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 24 October, 2018  
 [Fetal Medicine Foundation reference ranges for umbilical artery and middle cerebral artery pulsatility index and cerebroplacental ratio  
 臍帯動脈および中大脳動脈拍動指数と脳胎盤比率に対するFetal Medicine Foundationの参照範囲](ISUOG/Oct2018/Fetal_Medicine_Foundation.md)
+### August
+* 19 Auguast, 2018  
+[Premature placental aging in term small‐for‐gestational‐age and growth‐restricted fetuses  
+妊娠中の在胎不当過小および胎児発育不全における早期の胎盤老化](ISUOG/Aug2018/Premature_placental_aging.md)
 
 # JAMA-Network
 ## 2019
