@@ -181,6 +181,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # American-Journal-of-Perinatology
 ## 2019
+### May
+* May 14, 2019  
+[Effect of Implementing Quantitative Blood Loss Assessment at the Time of Delivery  
+分娩時における定量的血液損失評価の実施の効果](American-Journal-of-Perinatology/May2019/Effect_of_Implementing.md)
 ### April
 * April 16, 2019  
 [Effect of Trial of Labor before Cesarean and Risk of Subsequent Placenta Accreta Spectrum Disorders  
