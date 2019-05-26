@@ -515,6 +515,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * May 3, 2019  
+[Planned Cesarean: Is Neonatal Cord pH Related to the Length of Time Between Spinal Anesthesia Placement and Delivery?  
+予定帝王切開：新生児の臍帯pHは脊椎麻酔の留置から娩出までの時間と相関があるか？](ObGProject/GRANDROUNDS/Planned_Cesarean_Is.md)
+* May 3, 2019  
 [Does PROM vs Intact Membranes in Previous Pregnancy Impact Success of Pessary or Progesterone in Future Pregnancy with Short Cervix?  
 過去の妊娠におけるPROM vs 未破膜は、短い子宮頸管による将来の妊娠におけるペッサリーまたはプロゲステロンの成功に影響を与えますか？](ObGProject/GRANDROUNDS/Does_PROM_vs.md)
 * April 28, 2019  
