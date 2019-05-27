@@ -364,6 +364,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 ## Green-Journal
 ## 2019
+### June
+* June 1, 2019  
+[Severe Acute Maternal Morbidity in Twin Compared With Singleton Pregnancies  
+単胎妊娠と比較した双胎妊娠の重症急性母体罹患率](GreenJournal/Jun2019/Severe_Acute_Maternal.md)
 ### May
 * May 1, 2019  
 [Unmonitored Labor Episodes in Obese Parturients With Wireless Versus Conventional Fetal Heart Rate Monitoring  
