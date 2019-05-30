@@ -92,6 +92,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 7, 2019  
 [Prediction of imminent preeclampsia at 35–37 weeks gestation  
 妊娠35〜37週での差し迫った妊娠高血圧腎症の予測](AJOG/Feb2019/Prediction_of_imminent.md)
+* February 5, 2019  
+[Factors that affect ultrasound-determined labor progress in women undergoing induction of labor  
+分娩誘発を受けている女性における超音波により決まる分娩の進行に影響する因子](AJOG/Feb2019/Factors_that_affect.md)
 * February 1, 2019  
 [Maternal and newborn outcomes with elective induction of labor at term  
 満期出産の選択的誘導による母子の転帰](AJOG/Feb2019/Maternal_and_newborn.md)
