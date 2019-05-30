@@ -25,6 +25,7 @@
 * [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
+* [Taiwanese_Journal_of_ObGyn](#Taiwanese_Journal_of_ObGyn)
 * [Taylor_and_Francis_Online](#Taylor_and_Francis_Online)
 
 
@@ -640,9 +641,16 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # Springer
 ## 2019
 ### January
-15 January, 2019  
+* 15 January, 2019  
 [The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
 妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
+
+# Taiwanese_Journal_of_ObGyn
+## 2017
+### July
+* 5 July 2017  
+[Relationship between fetal heart rate patterns and a time course for evaluation of fetal well-being: “the 30 minutes rule” for decision of mechanical delivery  
+胎児心拍数パターンと胎児well-beingの評価のための時間経過との関係：器械分娩の決定のための「30分ルール」](Taiwanese_Journal_of_ObGyn/Jul2017/Relationship_between_fetal.md)
 
 # Taylor_and_Francis_Online
 ## 2017
