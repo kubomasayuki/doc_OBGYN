@@ -533,6 +533,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* May 6, 2019  
+[Can the Pregnancy-Adapted YEARS Algorithm be Used to Rule Out Pulmonary Embolism?  
+妊娠適応型YEARSアルゴリズムは肺塞栓症を除外するために使用できるか？](ObGProject/GRANDROUNDS/Can_the_Pregnancy.md)
 * May 3, 2019  
 [Planned Cesarean: Is Neonatal Cord pH Related to the Length of Time Between Spinal Anesthesia Placement and Delivery?  
 予定帝王切開：新生児の臍帯pHは脊椎麻酔の留置から娩出までの時間と相関があるか？](ObGProject/GRANDROUNDS/Planned_Cesarean_Is.md)
