@@ -16,6 +16,7 @@
 * [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
+* [JKMS](#JKMS)
 * [Lancet](#Lancet)
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
@@ -477,6 +478,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 25, 2019  
 [Associations of Maternal Diabetes and Body Mass Index With Offspring Birth Weight and Prematurity  
 母親の糖尿病およびBMIと子供の出生時体重および未熟児の関連](JAMA-Network/Feb2019/Associations_of_Maternal.md)
+
+# JKMS
+## 2019
+### April
+* April 16, 2019  
+[Artificial Neural Network Analysis of Spontaneous Preterm Labor and Birth and Its Major Determinants  
+自然早産と出産の主要な決定要因の人工ニューラルネットワーク分析](JKMS/Apr2019/Artificial_Neural_Network.md)
 
 # Lancet
 ## 2019
