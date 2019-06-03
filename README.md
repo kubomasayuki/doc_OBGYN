@@ -302,8 +302,8 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # BMJ
 ## 2019
 ### May
-* 07 May 2019
-* [Association between Apgar scores of 7 to 9 and neonatal mortality and morbidity: population based cohort study of term infants in Sweden  
+* 07 May 2019  
+[Association between Apgar scores of 7 to 9 and neonatal mortality and morbidity: population based cohort study of term infants in Sweden  
 7-9点のApgarスコアと新生児死亡率および罹患率との関連：スウェーデンにおける正期産児の集団ベースのコホート研究](BMJ/May2019/Association_between_Apgar.md)
 * 01 May 2019  
 [Preterm birth and risk of chronic kidney disease from childhood into mid-adulthood: national cohort study  
