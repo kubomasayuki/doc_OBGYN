@@ -534,6 +534,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * May 6, 2019  
+[Does a Low Uterine Incision During Cesarean Lead to Increased Risk of Large Scar Defects?  
+帝王切開時の低子宮切開は大きな帝王切開瘢痕症候群のリスク増加につながるか？](ObGProject/GRANDROUNDS/Does_a_Low.md)
+* May 6, 2019  
 [Can the Pregnancy-Adapted YEARS Algorithm be Used to Rule Out Pulmonary Embolism?  
 妊娠適応型YEARSアルゴリズムは肺塞栓症を除外するために使用できるか？](ObGProject/GRANDROUNDS/Can_the_Pregnancy.md)
 * May 3, 2019  
