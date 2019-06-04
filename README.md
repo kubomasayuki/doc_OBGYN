@@ -210,6 +210,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
 ## 2018
 ### December
+* December 15, 2018  
+[Preterm Prelabor Rupture of Membranes: Outcomes with Expectant Management until 34 versus 35 Weeks  
+早期前期破水：34週vs35週までの待機管理による転帰](American-Journal-of-Perinatology/Dec2018/Preterm_Prelabor_Rupture.md)
 * December 3, 2018  
 [Using the Probability of Cesarean from a Validated Cesarean Prediction Calculator to Predict Labor Length and Morbidity  
 分娩時間および罹患率を予測するための検証済み帝王切開予測計算からの帝王切開確率の使用](American-Journal-of-Perinatology/Dec2018/Using_the_Probability.md)
