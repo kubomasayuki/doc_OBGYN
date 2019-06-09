@@ -536,6 +536,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* June 5, 2019  
+[Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
+早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
 * May 9, 2019  
 [PRISM Trial Results: Does Progesterone for Bleeding Early in Pregnancy Prevent Pregnancy Loss?  
 PRISM試験結果：妊娠初期の出血に対するプロゲステロン投与は妊娠喪失を予防するか？](ObGProject/GRANDROUNDS/PRISM_Trial_Results.md)
