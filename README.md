@@ -540,6 +540,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
 * May 14, 2019  
+[Can the Cesarean Prediction Calculator Also Predict Labor Length and Morbidity?  
+帝王切開予測計算機はまた分娩期間と罹患率を予測できるか？](ObGProject/GRANDROUNDS/Can_the_Cesarean.md)
+* May 14, 2019  
 [Cochrane Review: Oxytocin to Prevent Postpartum Hemorrhage in Third Stage of Labor  
 コクランレビュー：産後出血を予防するためのオキシトシン](ObGProject/GRANDROUNDS/Cochrane_Review_Oxytocin.md)
 * May 9, 2019  
