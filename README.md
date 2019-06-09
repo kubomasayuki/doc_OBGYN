@@ -536,6 +536,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
+* May 9, 2019  
+[PRISM Trial Results: Does Progesterone for Bleeding Early in Pregnancy Prevent Pregnancy Loss?  
+PRISM試験結果：妊娠初期の出血に対するプロゲステロン投与は妊娠喪失を予防するか？](ObGProject/GRANDROUNDS/PRISM_Trial_Results.md)
 * May 6, 2019  
 [Does Folic Acid Supplementation Before Pregnancy Reduce Risk of Gestational Diabetes?  
 妊娠前の葉酸補給は妊娠糖尿病のリスクを軽減するか？](ObGProject/GRANDROUNDS/Does_Folic_Acid.md)
