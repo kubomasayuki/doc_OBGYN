@@ -539,6 +539,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
+* May 14, 2019  
+[Cochrane Review: Oxytocin to Prevent Postpartum Hemorrhage in Third Stage of Labor  
+コクランレビュー：産後出血を予防するためのオキシトシン](ObGProject/GRANDROUNDS/Cochrane_Review_Oxytocin.md)
 * May 9, 2019  
 [PRISM Trial Results: Does Progesterone for Bleeding Early in Pregnancy Prevent Pregnancy Loss?  
 PRISM試験結果：妊娠初期の出血に対するプロゲステロン投与は妊娠喪失を予防するか？](ObGProject/GRANDROUNDS/PRISM_Trial_Results.md)
