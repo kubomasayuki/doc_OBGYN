@@ -537,6 +537,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## GRAND ROUNDS
 * May 6, 2019  
+[Does Folic Acid Supplementation Before Pregnancy Reduce Risk of Gestational Diabetes?  
+妊娠前の葉酸補給は妊娠糖尿病のリスクを軽減するか？](ObGProject/GRANDROUNDS/Does_Folic_Acid.md)
+* May 6, 2019  
 [Does a Low Uterine Incision During Cesarean Lead to Increased Risk of Large Scar Defects?  
 帝王切開時の低子宮切開は大きな帝王切開瘢痕症候群のリスク増加につながるか？](ObGProject/GRANDROUNDS/Does_a_Low.md)
 * May 6, 2019  
