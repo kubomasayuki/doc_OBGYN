@@ -37,7 +37,7 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 
 # AJOG
 ## 2019
-### March
+### [March](AJOG/Mar2019)
 * March 7, 2019  
 [Successful use of an artificial placenta to support extremely preterm ovine fetuses at the border of viability  
 生存率の境界にある極早産ヒツジ胎仔をサポートするための人工胎盤の使用成功](AJOG/Mar2019/Successful_use_of.md)
@@ -47,7 +47,7 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * March 1, 2019  
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
-### February
+### [February](AJOG/Feb2019)
 * February 25, 2019  
 [Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies  
 待機的管理と比較した39週での選択的分娩誘発：コホート研究のメタアナリシス](AJOG/Feb2019/Elective_induction_of.md)
@@ -99,7 +99,7 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * February 1, 2019  
 [Maternal and newborn outcomes with elective induction of labor at term  
 満期出産の選択的誘導による母子の転帰](AJOG/Feb2019/Maternal_and_newborn.md)
-### January
+### [January](AJOG/Jan2019)
 * January 29, 2019  
 [Prediction of small for gestational age neonates: screening by maternal factors, fetal biometry, and biomarkers at 35–37 weeks’ gestation  
 在胎不当過小児の予測：妊娠35-37週における母体要因、胎児の生物的統計、およびバイオマーカーのスクリーニング](AJOG/Jan2019/Prediction_of_small.md)
@@ -113,14 +113,14 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 [Diagnostic performance of third-trimester ultrasound for the prediction of late-onset fetal growth restriction: a systematic review and meta-analysis  
 遅発性胎児発育不全の予測のための妊娠第3三半期の超音波の診断成績：系統的レビューとメタ分析](AJOG/Jan2019/Diagnostic_performance_of.md)
 ## 2018
-### December
+### [December](AJOG/Dec2018)
 * December 27, 2018  
 [Computerized analysis of cardiotocograms and ST signals is associated with significant reductions in hypoxic-ischemic encephalopathy and cesarean delivery: an observational study in 38,466 deliveries  
 心電図とSTシグナルのコンピューター分析は低酸素性虚血性脳症と帝王切開分娩の有意な減少と関連する：38,466分娩における観察研究](AJOG/Dec2018/Computerized_analysis_of.md)
 * December 7, 2018  
 [Threshold of metabolic acidosis associated with newborn cerebral palsy: medical legal implications  
 新生児脳性麻痺と関連した代謝性アシドーシスの閾値：医学的法的意義](AJOG/Dec2018/Threshold_of_metabolic.md)
-### November
+### [November](AJOG/Nov2018)
 * November 24, 2018  
 [Evaluation of proposed criteria for research reporting of amniotic fluid embolism  
 羊水塞栓症の研究報告のために提案された基準の評価](AJOG/Nov2018/Evaluation_of_proposed.md)
