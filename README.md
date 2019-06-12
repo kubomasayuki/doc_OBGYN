@@ -673,23 +673,23 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 [Noninvasive high-resolution electromyometrial imaging of uterine contractions in a translational sheep model  
 トランスレーショナルヒツジモデルにおける子宮収縮の非侵襲的な高解像度電気的子宮筋イメージング](Science-Translational-Medicine/Noninvasive_high_resolution.md)
 
-# Springer
+# [Springer](Springer)
 ## 2019
-### January
+### [January](Springer/Jan2019)
 * 15 January, 2019  
 [The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
 妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
 
-# Taiwanese_Journal_of_ObGyn
+# [Taiwanese_Journal_of_ObGyn](Taiwanese_Journal_of_ObGyn)
 ## 2017
-### July
+### [July](Taiwanese_Journal_of_ObGyn/Jul2017)
 * 5 July 2017  
 [Relationship between fetal heart rate patterns and a time course for evaluation of fetal well-being: “the 30 minutes rule” for decision of mechanical delivery  
 胎児心拍数パターンと胎児well-beingの評価のための時間経過との関係：器械分娩の決定のための「30分ルール」](Taiwanese_Journal_of_ObGyn/Jul2017/Relationship_between_fetal.md)
 
-# Taylor_and_Francis_Online
+# [Taylor_and_Francis_Online](Taylor_and_Francis_Online)
 ## 2017
-### May
+### [May](Taylor_and_Francis_Online/May2017)
 * 19 May, 2017  
 [Fetal scalp stimulation (FSS) versus fetal blood sampling (FBS) for women with abnormal fetal heart rate monitoring in labor: a prospective cohort study  
 異常な胎児心拍数モニタリングを示す妊娠女性における児頭刺激（FSS）vs児頭血採取（FBS）：前向きコホート研究](Taylor_and_Francis_Online/May2017/Fetal_scalp_stimulation.md)
