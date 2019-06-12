@@ -30,7 +30,7 @@
 * [Taylor_and_Francis_Online](#Taylor_and_Francis_Online)
 
 
-# ACOG-Comittee-Opinion
+# [ACOG-Comittee-Opinion](ACOG)
 * [Number 764  
 Medically Indicated Late-Preterm and Early-Term Deliveries  
 医学的な兆候のある後期早産および早期正期産](ACOG/co764.md)
@@ -130,32 +130,32 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 * November 14, 2018  
 [Predictive performance of the competing risk model in screening for preeclampsia  
 妊娠高血圧腎症のスクリーニングにおける競合リスクモデルの予測性能](AJOG/Nov2018/Predictive_performance_of.md)
-### October
+### [October](AJOG/Oct2018)
 * October 26, 2018  
 [FIRSTT study: randomized controlled trial of uterine artery embolization vs focused ultrasound surgery  
 FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化比較試験](AJOG/Oct2018/FIRSTT_study_randomized.md)
 * October 25, 2018  
 [Opioid use after laparoscopic hysterectomy: prescriptions, patient use, and a predictive calculator  
 腹腔鏡下子宮摘出術後のオピオイド使用：処方量、患者の使用量からの適切な量の予測](AJOG/Oct2018/Opioid_use_after.md)
-### September
+### [September](AJOG/Sep2018)
 * September 28, 2018  
 [Tackling poorly selected, collected, and reported outcomes in obstetrics and gynecology research  
 産科および婦人科の研究における不適切に選択、収集、および報告された転帰への取り組み](AJOG/Sep2018/Tackling_poorly_selected.md)
 * September 19, 2018  
 [Uterine and fetal placental Doppler indices are associated with maternal cardiovascular function  
 子宮および胎児胎盤のドップラー指数は母体の心臓血管機能と関連する](AJOG/Sep2018/Uterine_and_fetal.md)
-### August
+### [August](AJOG/Aug2018)
 * August 25, 2018  
 [Leiomyomatous uterus and preterm birth: an exposed/unexposed monocentric cohort study  
 子宮平滑筋腫と早産：曝露/非曝露のコホート研究](AJOG/Aug2018/Leiomyomatous_uterus_and.md)
-### July
+### [July](AJOG/Jul2018)
 * July 15, 2018  
 [Contribution of hypertension to severe maternal morbidity  
 重度の母体罹患率に対する高血圧の寄与](AJOG/Jul2018/Contribution_of_hypertension.md)
 * July 12, 2018  
 [Cervical cerclage for singleton pregnant patients on vaginal progesterone with progressive cervical shortening  
 進行性頸部短縮を伴う膣プロゲステロンを服用している単胎妊娠患者に対する頸椎縫縮術](AJOG/Jul2018/Cervical_cerclage_for.md)
-### May
+### [May](AJOG/May2018)
 * May 30, 2018  
 [A rare case of endometriosis invading external iliac vein causing deep vein thrombosis  
 深部静脈血栓症をきたした外腸骨静脈に浸潤した子宮内膜症のまれな症例](AJOG/May2018/A_rare_case.md)
@@ -165,43 +165,43 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * May 12, 2018  
 [Early prognostic factors of outcomes in monochorionic twin pregnancy: systematic review and meta-analysis  
 一絨毛膜性双胎妊娠における転帰の早期予後因子：系統的レビューとメタアナリシス](AJOG/May2018/Early_prognostic_factors.md)
-### February
+### [February](AJOG/Feb2018)
 * February 3, 2018  
 [A prospective cohort study of fetal heart rate monitoring:deceleration area is predictive of fetal acidemia
 胎児心拍数モニタリングの前向きコホート研究：一過性徐脈の面積から胎児のアシデミアを予測](AJOG/Feb2018/A_prospective_cohort.md)
 
-# AMAG-Pharmaceuticals
+# [AMAG-Pharmaceuticals](AMAG_Pharmaceuticals)
 ## 2019
 ### March
 * March 8, 2019  
 [AMAG PHARMACEUTICALS ANNOUNCES TOPLINE RESULTS FROM THE PROLONG TRIAL EVALUATING MAKENA® (hydroxyprogesterone caproate injection)  
 AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロン酸注射）を評価するPROLONG Trialのトップラインの結果を発表](AMAG_Pharmaceuticals/AMAG_PHARMACEUTICALS_ANNOUNCES.md)
 
-# American-Academy-of-Pediatrics
+# [American-Academy-of-Pediatrics](American-Academy-of-Pediatrics)
 ## 2019
 ### January
 * January 16, 2019  
 [Maternal Smoking Before and During Pregnancy and the Risk of Sudden Unexpected Infant Death  
 妊娠前および妊娠中の母親の喫煙と乳幼児突然死のリスク](American-Academy-of-Pediatrics/Maternal_Smoking_Before.md)
 
-# American-Journal-of-Perinatology
+# [American-Journal-of-Perinatology](American-Journal-of-Perinatology)
 ## 2019
-### May
+### [May](American-Journal-of-Perinatology/May2019)
 * May 14, 2019  
 [Effect of Implementing Quantitative Blood Loss Assessment at the Time of Delivery  
 分娩時における定量的血液損失評価の実施の効果](American-Journal-of-Perinatology/May2019/Effect_of_Implementing.md)
 * May 9, 2019  
 [Timing of Delivery in Pregnancies Complicated by Suspected Fetal Growth Restriction without Doppler Abnormalities  
 ドップラー異常のない胎児発育不全の疑いがある妊娠の出産のタイミング](American-Journal-of-Perinatology/May2019/Timing_of_Delivery.md)
-### April
+### [April](American-Journal-of-Perinatology/Apr2019)
 * April 16, 2019  
 [Effect of Trial of Labor before Cesarean and Risk of Subsequent Placenta Accreta Spectrum Disorders  
 帝王切開前の分娩試行の効果とその後の胎盤癒着スペクトラム障害のリスク](American-Journal-of-Perinatology/Apr2019/Effect_of_Trial.md)
-### March
+### [March](American-Journal-of-Perinatology/Mar2019)
 * March 20, 2019  
 [Perinatal Outcomes Associated with Early Diabetes Testing in Pregnancies Complicated by Obesity  
 肥満を合併した妊娠における早期糖尿病検査に関連した周産期転帰](American-Journal-of-Perinatology/Mar2019/Perinatal_Outcomes_Associated.md)
-### February
+### [February](American-Journal-of-Perinatology/Feb2019)
 * February 28, 2019  
 [Effect of Trial of Labor before Cesarean and Risk of Subsequent Placenta Accreta Spectrum Disorders  
 帝王切開前の分娩トライの効果とその後の胎盤癒着スペクトラム障害のリスク](American-Journal-of-Perinatology/Feb2019/Effect_of_Trial.md)
@@ -209,21 +209,21 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Change in Cervical Length across Pregnancies and Preterm Delivery  
 妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
 ## 2018
-### December
+### [December](American-Journal-of-Perinatology/Dec2018)
 * December 15, 2018  
 [Preterm Prelabor Rupture of Membranes: Outcomes with Expectant Management until 34 versus 35 Weeks  
 早期前期破水：34週vs35週までの待機管理による転帰](American-Journal-of-Perinatology/Dec2018/Preterm_Prelabor_Rupture.md)
 * December 3, 2018  
 [Using the Probability of Cesarean from a Validated Cesarean Prediction Calculator to Predict Labor Length and Morbidity  
 分娩時間および罹患率を予測するための検証済み帝王切開予測計算からの帝王切開確率の使用](American-Journal-of-Perinatology/Dec2018/Using_the_Probability.md)
-### November
+### [November](American-Journal-of-Perinatology/Nov2018)
 * November 10, 2018  
 [Assessing Maternal and Fetal Risks Associated with Prolonged Induction of Labor  
 遷延する分娩誘発に関する母体および胎児のリスクの評価](American-Journal-of-Perinatology/Nov2018/Assessing_Maternal_and.md)
 * November 5, 2018  
 [Pregnancy Outcomes after Early Amniotomy among Class III Obese Gravidas Undergoing Induction of Labor  
 分娩誘発を受けているクラスIII肥満性重症者における早期羊膜切開術後の妊娠転帰](American-Journal-of-Perinatology/Nov2018/Pregnancy_Outcomes_after.md)
-### October
+### [October](American-Journal-of-Perinatology/Oct2018)
 * October 29, 2018  
 [Risk of Maternal Morbidity with Increasing Number of Cesareans  
 帝王切開数の増加に伴う母親の罹患リスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Maternal.md)
@@ -233,7 +233,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * October 3, 2018  
 [Risk of Ischemic Placental Disease in Relation to Family History of Preeclampsia  
 妊娠高血圧腎症の家族歴に関連した虚血性胎盤疾患のリスク](American-Journal-of-Perinatology/Oct2018/Risk_of_Ischemic.md)
-### September
+### [September](American-Journal-of-Perinatology/Sep2018)
 * September 19, 2018  
 [Gestational Weight Gain during Pregnancy as an Important Factor Influencing a Successful Trial of Labor following Two Previous Cesareans  
 過去2回の帝王切開後の成功した分娩試験に影響する重要な要因としての妊娠中の妊娠中の体重増加](American-Journal-of-Perinatology/Sep2018/Gestational_Weight_Gain.md)
@@ -249,28 +249,28 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * September 5, 2018  
 [Maternal Obesity Affects Cardiac Remodeling and Recovery in Women with Peripartum Cardiomyopathy  
 肥満は周産期心筋症の妊娠女性の心臓再生と回復に影響する](American-Journal-of-Perinatology/Sep2018/Maternal_Obesity_Affects.md)
-### August
+### [August](American-Journal-of-Perinatology/Aug2018)
 * August 15, 2018  
 [Antenatal Magnesium Sulfate Exposure and Ponderal Index in Preterm Infants  
 早産児における出生前硫酸マグネシウム曝露とポンデラル指数](American-Journal-of-Perinatology/Aug2018/Antenatal_Magnesium_Sulfate.md)
 
-# ANZJOG
+# [ANZJOG](ANZJOG)
 ## 2019
-### February
+### [February](ANZJOG/Feb2019)
 * 19 February 2019  
 [Appendicectomy during pregnancy and the risk of preterm birth: A population data linkage study  
 妊娠中の虫垂切除術と早産のリスク：母集団データ連鎖研究](ANZJOG/Feb2019/Appendicectomy_during_pregnancy.md)
 
-# BJOG
+# [BJOG](BJOG)
 ## 2019
-### March
+### [March](BJOG/Mar2019)
 * 19 March 2019  
 [Gestational diabetes and the risk of late stillbirth: a case–control study from England, UK  
 妊娠性糖尿病と後期死産のリスク：イギリスの症例対照研究](BJOG/Mar2019/Gestational_diabetes_and.md)
 * 09 March 2019  
 [The timing of repeat caesarean section after previous multiple caesarean sections – is there a dilemma?  
 前の複数の帝王切開術後の帝王切開術の繰り返しのタイミング - ジレンマはあるか？](BJOG/Mar2019/The_timing_of.md)
-### February
+### [February](BJOG/Feb2019)
 * 22 February 2019  
 [Evaluation of a simple risk score to predict preterm preeclampsia using maternal characteristics: a prospective cohort study  
 母体の特徴を用いた早期妊娠高血圧腎症を予測するための単純リスクスコアの評価：前向きコホート研究](BJOG/Feb2019/Evaluation_of_a.md)
@@ -283,7 +283,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 6 February 2019  
 [Does preconception body mass index modify the effect of maternal diet on hypertensive disorders of pregnancy?  
 妊娠前のBMIは、妊娠の高血圧障害に対する妊娠女性の食事に対して影響を与えるか？](BJOG/Feb2019/Does_preconception_body.md)
-### January
+### [January](BJOG/Jan2019)
 * 21 January 2019  
 [Vaginal delivery in women with a low‐lying placenta: a systematic review and meta‐analysis  
 低置胎盤における経膣分娩：系統的レビューとメタ分析](BJOG/Jan2019/Vaginal_delivery_in.md)
@@ -294,7 +294,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Predicting common maternal postpartum complications: leveraging health administrative data and machine learning  
 一般的な母親の産後合併症の予測：健康管理データと機械学習の活用](BJOG/Jan2019/Predicting_common_maternal.md)
 ## 2018
-### November
+### [November](BJOG/Nov2018)
 * 27 November 2018  
 [Vaginal progesterone, oral progesterone, 17‐OHPC, cerclage, and pessary for preventing preterm birth in at‐risk singleton pregnancies: an updated systematic review and network meta‐analysis  
 リスクのある単胎妊娠における早産防止のための膣プロゲステロン、経口プロゲステロン、17-OHPC、頸管縫縮、およびペッサリー：最新の系統的レビューおよびネットワークメタアナリシス](BJOG/Nov2018/Vaginal_progesterone_oral.md)
@@ -302,9 +302,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Prognosis of the co‐twin following spontaneous single intrauterine fetal death in twin pregnancies: a systematic review and meta‐analysis  
 双胎妊娠における一方の児が死亡した場合のもう一方の児の予後：系統的レビューとメタアナリシス](BJOG/Nov2018/Prognosis_of_the.md)
 
-# BMJ
+# [BMJ](BMJ)
 ## 2019
-### May
+### [May](BMJ/May2019)
 * 07 May 2019  
 [Association between Apgar scores of 7 to 9 and neonatal mortality and morbidity: population based cohort study of term infants in Sweden  
 7-9点のApgarスコアと新生児死亡率および罹患率との関連：スウェーデンにおける正期産児の集団ベースのコホート研究](BMJ/May2019/Association_between_Apgar.md)
