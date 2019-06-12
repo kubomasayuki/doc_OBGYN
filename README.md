@@ -120,6 +120,9 @@ pretermの帝王切開と重篤な母体罹患率および死亡率との関連�
 * December 7, 2018  
 [Threshold of metabolic acidosis associated with newborn cerebral palsy: medical legal implications  
 新生児脳性麻痺と関連した代謝性アシドーシスの閾値：医学的法的意義](AJOG/Dec2018/Threshold_of_metabolic.md)
+* December 7, 2018  
+[Cerclage for women with twin pregnancies: a systematic review and metaanalysis  
+双胎妊娠女性における子宮頸管縫縮術：系統的レビューとメタアナリシス](AJOG/Dec2018/Cerclage_for_women.md)
 ### [November](AJOG/Nov2018)
 * November 24, 2018  
 [Evaluation of proposed criteria for research reporting of amniotic fluid embolism  
