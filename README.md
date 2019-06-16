@@ -542,6 +542,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
+* May 16, 2019  
+[Classical vs Transverse Uterine Incision for Preterm Birth  
+早産に対する従来の帝王切開vs子宮底部横切開](ObGProject/GRANDROUNDS/Classical_vs_Transverse.md)
 * May 14, 2019  
 [Can the Cesarean Prediction Calculator Also Predict Labor Length and Morbidity?  
 帝王切開予測計算機はまた分娩期間と罹患率を予測できるか？](ObGProject/GRANDROUNDS/Can_the_Cesarean.md)
