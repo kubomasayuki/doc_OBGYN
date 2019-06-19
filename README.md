@@ -19,6 +19,7 @@
 * [JAMA-Network](#JAMA-Network)
 * [JKMS](#JKMS)
 * [Lancet](#Lancet)
+* [Medscape](#Medscape)
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObGProject](#ObGProject)
@@ -515,6 +516,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 28, 2019  
 [Association between interpregnancy interval and adverse birth outcomes in women with a previous stillbirth: an international cohort study  
 出産歴のある女性における妊娠期間と有害出生転帰との関連：国際コホート研究](Lancet/Feb2019/Association_between_interpregnancy.md)
+
+# [Medscape](Medscape)
+## 2019
+### [June](Medscape/Jun2019)
+* 6/13/2019  
+[How Is Prepregnancy BMI Tied to Fetal Outcomes?  
+妊娠前のBMIは胎児の転帰とどのように関連しているか？](Medscape/Jun2019/How_Is_Prepregnancy.md)
 
 # [NEJM](NEJM)
 ## 2019
