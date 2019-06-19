@@ -523,6 +523,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 6/13/2019  
 [How Is Prepregnancy BMI Tied to Fetal Outcomes?  
 妊娠前のBMIは胎児の転帰とどのように関連しているか？](Medscape/Jun2019/How_Is_Prepregnancy.md)
+* 6/13/2019  
+[New Evidence Shows Antibiotics Cut Risk After Vaginal Birth  
+抗生物質が経膣分娩後のリスクを減らすことを示す新しい根拠](Medscape/Jun2019/New_Evidence_Shows.md)
 
 # [NEJM](NEJM)
 ## 2019
