@@ -5,6 +5,7 @@
 * [American-Journal-of-Perinatology](#American-Journal-of-Perinatology)
 * [ANZJOG](#ANZJOG)
 * [BJOG](#BJOG)
+* [BMC_Pregnancy_and_Childbirth](#BMC_Pregnancy_and_Childbirth)
 * [BMJ](#BMJ)
 * [Brain_and_Development](#Brain_and_Development)
 * [Case-Reports-in-Womens-Health](#Case-Reports-in-Womens-Health)
