@@ -1,5 +1,5 @@
 ## タイトル
-How Is Prepregnancy BMI Tied to Fetal Outcomes?
+How Is Prepregnancy BMI Tied to Fetal Outcomes?  
 妊娠前のBMIは胎児の転帰とどのように関連しているか？
 
 ## 概要
