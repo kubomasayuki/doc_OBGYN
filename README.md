@@ -329,7 +329,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 11 April 2019  
 [An evaluation of whether a gestational weight gain of 5 to 9 kg for obese women optimizes maternal and neonatal health risks  
 肥満女性の妊娠中の5～9kgの体重増加が母体および新生児の健康リスクを最適化するかどうかの評価](BMJ/Apr2019/An_evaluation_of.md)
-### [March](BMJ\Mar2019)
+### [March](BMJ/Mar2019)
 * 20 March 2019  
 [Role of maternal age and pregnancy history in risk of miscarriage: prospective register based study  
 流産のリスクにおける母体年齢と妊娠の既往歴：登録に基づく前向き研究](BMJ/Mar2019/Role_of_maternal.md)
@@ -340,7 +340,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [Brain_and_Development](Brain_and_Development)
 ## 2019
-### [January](Jan2019)
+### [January](Brain_and_Development/Jan2019)
 * 2 January 2019  
 [Catch-up growth and behavioral development among preterm, small-for-gestational-age children: A nationwide Japanese population-based study  
 早産SGA児におけるcatch-up growthと運動・言語発達：全国的な日本の集団ベース研究](Brain_and_Development/Jan2019/Catch_up_growth.md)
@@ -352,52 +352,52 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Delayed delivery of the second twin: Case report and literature review of diamniotic dichorionic twin pregnancy with very early preterm premature rupture of membranes  
 双胎の第2児の分娩遅延：超早期前期破水を伴う二絨毛膜二羊膜双胎妊娠の症例報告と文献レビュー](Case-Reports-in-Womens-Health/Delayed_delivery_of.md)
 
-# CMAJ
+# [CMAJ](CMAJ)
 ## 2019
-### April
+### [April](CMAJ/Apr2019)
 * April 15, 2019  
 [Gestational diabetes associated with incident diabetes in childhood and youth: a retrospective cohort study  
 小児期および若年期における偶発性糖尿病と関連する妊娠性糖尿病：後ろ向きコホート研究](CMAJ/Apr2019/Gestational_diabetes_associated.md)
-### February
+### [February](CMAJ/Feb2019)
 * February 18, 2019  
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
 低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
 
-# Cochrane
+# [Cochrane](Cochrane)
 ## 2019
-### April
+### [April](Cochrane/Apr2019)
 * 29 April 2019  
 [Prophylactic oxytocin for the third stage of labour to prevent postpartum haemorrhage  
 産後出血を予防するための分娩第3期のための予防的オキシトシン](Cochrane/Apr2019/Prophylactic_oxytocin_for.md)
 
-# EClinicalMedicine
+# [EClinicalMedicine](EClinicalMedicine)
 ## 2019
-### March
+### [March](EClinicalMedicine/Mar2019)
 * 22 March 2019  
 [Cord Blood Haptoglobin, Cerebral Palsy and Death in Infants of Women at Risk for Preterm Birth: A Secondary Analysis of a Randomised Controlled Trial  
 早産のリスクがあった乳児における臍帯血ハプトグロビンと脳性麻痺および死亡の相関：無作為化対照試験の二次分析](EClinicalMedicine/Mar2019/Cord_Blood_Haptoglobin.md)
 
-# Environmental-Research
+# [Environmental-Research](EnvironmentalResearch)
 ## 2019
 ### February
 * 08 February 2019  
 [Association between blood manganese level during pregnancy and birth size: The Japan environment and children's study (JECS)  
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
 
-## Green-Journal
+## [Green-Journal](GreenJournal)
 ## 2019
-### June
+### [June](GreenJournal/Jun2019)
 * June 1, 2019  
 [Severe Acute Maternal Morbidity in Twin Compared With Singleton Pregnancies  
 単胎妊娠と比較した双胎妊娠の重症急性母体罹患率](GreenJournal/Jun2019/Severe_Acute_Maternal.md)
-### May
+### [May](GreenJournal/May2019)
 * May 1, 2019  
 [Unmonitored Labor Episodes in Obese Parturients With Wireless Versus Conventional Fetal Heart Rate Monitoring  
 ワイヤレスvs従来の胎児心拍数モニタリングによる肥満患者の分娩中モニターが取れていないエピソード](GreenJournal/May2019/Unmonitored_Labor_Episodes.md)
 * May 1, 2019  
 [Predicting Neonatal Pathologic Disposition From Cardiotocography Using Machine Learning
 機械学習を用いた心電図検査からの新生児の病理学的性質の予測](GreenJournal/May2019/Predicting_Neonatal_Pathologic.md)
-### March
+### [March](GreenJournal/Mar2019)
 * March 11, 2019  
 [Neonatal and Maternal Morbidity Among Low-Risk Nulliparous Women at 39–41 Weeks of Gestation  
 妊娠39〜41週の低リスクの初産婦における新生児および母体の罹患率](GreenJournal/Mar2019/Neonatal_and_Maternal.md)
@@ -434,23 +434,23 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * March 1, 2019  
 [Evaluation and Management of Lipid Disorders Primary and Preventive Care Review  
 脂質障害の評価と管理 プライマリケアと予防ケアのレビュー](GreenJournal/Mar2019/Evaluation_and_Management.md)
-### February
+### [February](GreenJournal/Feb2019)
 * February 1, 2019  
 [Postoperative Opioid Consumption After Scheduled Compared With Unscheduled Cesarean Delivery  
 予定外の帝王切開分娩と比較した予定後の術後オピオイド消費](GreenJournal/Feb2019/Postoperative_Opioid_Consumption.md)
-### January
+### [January](GreenJournal/Jan2019)
 * January 31, 2019  
 [Timing of Gestational Weight Gain and Adverse Perinatal Outcomes in Overweight and Obese Women  
 太り過ぎおよび肥満女性における妊娠体重増加のタイミングおよび周産期有害転帰](GreenJournal/Jan2019/Timing_of_Gestational.md)
 ## 2018
-### October
+### [October](GreenJournal/Oct2018)
 * October 1, 2018  
 [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](GreenJournal/Oct2018/Intrapartum_Fetal_Heart.md)
 
-# International-Journal-of-Obstetrics-Anesthesia
+# [International-Journal-of-Obstetrics-Anesthesia](International-Journal-of-Obstetrics-Anesthesia)
 ## 2018
-### September
+### [September](Sep2018)
 * September 27, 2018  
 [Comparison between general, spinal, epidural, and combined spinal-epidural anesthesia for cesarean delivery: a network meta-analysis  
 帝王切開分娩のための全身麻酔、脊椎麻酔、硬膜外麻酔、および複合脊椎硬膜外麻酔の比較：ネットワークメタアナリシス](International-Journal-of-Obstetrics-Anesthesia/Sep2018/Comparison_between_general.md)
