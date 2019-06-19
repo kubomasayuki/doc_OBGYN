@@ -340,12 +340,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [Brain_and_Development](Brain_and_Development)
 ## 2019
-### January
+### [January](Jan2019)
 * 2 January 2019  
 [Catch-up growth and behavioral development among preterm, small-for-gestational-age children: A nationwide Japanese population-based study  
 早産SGA児におけるcatch-up growthと運動・言語発達：全国的な日本の集団ベース研究](Brain_and_Development/Jan2019/Catch_up_growth.md)
 
-# Case-Reports-in-Womens-Health
+# [Case-Reports-in-Womens-Health](Case-Reports-in-Womens-Health)
 ## 2019
 ### March
 * 19 March 2019  
