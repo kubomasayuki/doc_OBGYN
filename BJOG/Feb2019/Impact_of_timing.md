@@ -37,4 +37,4 @@ Issue publication: 01 July 2019
 妊娠39週の時点で、CDの既往が3回入っている女性を選択的に分娩させることは、母子または胎児の早期出産の適応がない場合に安全です。
 
 ## コメント
-[参考](https://github.com/kubomasayuki/doc_OBGYN/blob/master/ObGProject/GRANDROUNDS/Three_Previous_Cesarean.md)
+https://github.com/kubomasayuki/doc_OBGYN/blob/master/ObGProject/GRANDROUNDS/Three_Previous_Cesarean.md
