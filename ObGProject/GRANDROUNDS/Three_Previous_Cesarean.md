@@ -51,3 +51,4 @@ Three Previous Cesarean Deliveries: When to Deliver?
 
 ## リンク
 https://www.obgproject.com/2019/04/16/three-previous-cesarean-deliveries-when-to-deliver/
+https://github.com/kubomasayuki/doc_OBGYN/blob/master/BJOG/Feb2019/Impact_of_timing.md
