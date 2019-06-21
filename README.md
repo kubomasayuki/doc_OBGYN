@@ -282,6 +282,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 20 February 2019  
 [Impact of maternal body mass index and gestational weight gain on pregnancy complications: an individual participant data meta‐analysis of European, North American, and Australian cohorts  
 妊娠合併症に対する母体BMIと妊娠中の体重増加の影響：欧州、北米、および豪州のコホートのメタ分析](BJOG/Feb2019/Impact_of_maternal.md)
+* 9 February 2019  
+[Impact of timing of delivery on maternal and neonatal outcomes for women after three previous caesarean deliveries; a secondary analysis of the caesarean section registry  
+3回の帝王切開の既往がある女性における出産時期が母体および新生児の転帰に与える影響；帝王切開登録の二次分析](BJOG/Feb2019/Impact_of_timing.md)
 * 6 February 2019  
 [Absorbable subcuticular staples versus suture for caesarean section closure: a randomised clinical trial  
 帝王切開閉鎖術のための吸収性皮下ステープル対縫合糸：無作為化臨床試験](BJOG/Feb2019/Absorbable_subcuticular_staples.md)
