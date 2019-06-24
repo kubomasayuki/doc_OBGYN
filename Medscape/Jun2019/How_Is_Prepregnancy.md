@@ -68,4 +68,6 @@ How Is Prepregnancy BMI Tied to Fetal Outcomes?
 * 医療チームへの影響：リソースは、最近のガイドラインと利用可能なサービスを使用して、妊娠中の体重増加を管理するのではなく、生殖可能年齢のすべての女性に最適なBMIを確保するために捧げられるべきです。
 
 ## リンク
-https://www.medscape.org/viewarticle/914166
+https://www.medscape.org/viewarticle/914166  
+https://github.com/kubomasayuki/doc_OBGYN/blob/master/JAMA-Network/May2019/Association_of_Gestational.md  
+https://github.com/kubomasayuki/doc_OBGYN/blob/master/JAMA-Network/May2019/Prepregnancy_Body_Mass.md
