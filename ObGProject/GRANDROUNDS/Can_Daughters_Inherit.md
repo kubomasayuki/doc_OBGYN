@@ -1,6 +1,6 @@
 ## タイトル
 Can Daughters Inherit a Predisposition Towards Stillbirth from Their Mothers?  
-娘は母親から死産に向けた素因を受け継ぐことができるか？
+死産の素因は母親から娘に遺伝するか？
 
 ## 概要
 ### 背景と目的
@@ -24,7 +24,8 @@ Can Daughters Inherit a Predisposition Towards Stillbirth from Their Mothers?
   * 娘の妊娠中の死産
 * データ分析
   * 推定オッズ比（OR）が計算されました  
-  * 娘の妊娠レベルでの共同創設者を含めるために多重調整分析を行った
+  * 娘の妊娠レベルでの共同創設者？を含めるために多重調整分析を行った
+    * cofounder:母親と娘の相関を取る？
 ### 結果：
 * 26,788のユニークな母娘ペアが含まれていました
   * ケース：384人の娘が1人以上の死産歴がある
