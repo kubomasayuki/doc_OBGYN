@@ -362,7 +362,8 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ## 2019
 ### [June](CDC/Jun2019)
 * June 27, 2019  
-[妊娠高血圧](CDC/Jun2019/High_Blood_Pressure.md)
+[High Blood Pressure During Pregnancy  
+妊娠高血圧](CDC/Jun2019/High_Blood_Pressure.md)
 
 # [CMAJ](CMAJ)
 ## 2019
