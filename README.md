@@ -9,6 +9,7 @@
 * [BMJ](#BMJ)
 * [Brain_and_Development](#Brain_and_Development)
 * [Case-Reports-in-Womens-Health](#Case-Reports-in-Womens-Health)
+* [CDC](#CDC)
 * [CMAJ](#CMAJ)
 * [Cochrane](#Cochrane)
 * [EClinicalMedicine](#EClinicalMedicine)
@@ -356,6 +357,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 19 March 2019  
 [Delayed delivery of the second twin: Case report and literature review of diamniotic dichorionic twin pregnancy with very early preterm premature rupture of membranes  
 双胎の第2児の分娩遅延：超早期前期破水を伴う二絨毛膜二羊膜双胎妊娠の症例報告と文献レビュー](Case-Reports-in-Womens-Health/Delayed_delivery_of.md)
+
+# [CDC](CDC)
+## 2019
+### [June](CDC/Jun2019)
+* June 27, 2019  
+[妊娠高血圧](CDC/Jun2019/High_Blood_Pressure.md)
 
 # [CMAJ](CMAJ)
 ## 2019
