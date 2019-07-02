@@ -26,7 +26,7 @@ Are Lower Normal Apgar Scores Associated with Higher Risk of Adverse Neonatal Ou
     * 呼吸困難
     * 新生児低血糖
 * データ分析
-  * 調整されたオッズ比（aOR）、調整された金利差（aRD）、および95％信頼区間が推定されました
+  * 調整されたオッズ比（aOR）、調整率差（aRD）、および95％信頼区間が推定されました
 ### 結果：
 * 調査対象母集団
   * 18年間で1,551,436（1999-2016）
