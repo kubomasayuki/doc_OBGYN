@@ -568,6 +568,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
+* March 16, 2017  
+[Can Daughters Inherit a Predisposition Towards Stillbirth from Their Mothers?  
+死産の素因は母親から娘に遺伝するか？](ObGProject/GRANDROUNDS/Can_Daughters_Inherit.md)
 * May 16, 2019  
 [Pregnancy-Related Deaths in the U.S.: How Many are Preventable?  
 米国における妊娠関連死：どの程度が予防可能か？](ObGProject/GRANDROUNDS/Pregnancy_Related_Deaths.md)
