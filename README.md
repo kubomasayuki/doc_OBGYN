@@ -40,6 +40,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 
 # [AJOG](AJOG)
 ## 2019
+### [June](AJOG/Jun2019)
+* March 7, 2019  
+[Blood pressure trajectory and category and risk of hypertensive disorders of pregnancy in nulliparous women  
+初産の女性における血圧の軌跡ならびに妊娠高血圧障害のカテゴリーおよびリスク](AJOG/Jun2019/Blood_pressure_trajectory.md)
 ### [March](AJOG/Mar2019)
 * March 7, 2019  
 [Successful use of an artificial placenta to support extremely preterm ovine fetuses at the border of viability  
