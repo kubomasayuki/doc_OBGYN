@@ -580,6 +580,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
+* March 29, 2017  
+[Cervical Cerclage for a Progressively Shortening Cervix or Very Short Cervix  
+進行性の子宮頸管短縮または非常に短い子宮頸管のための子宮頸管縫縮術](ObGProject/GRANDROUNDS/Cervical_Cerclage_for.md)
 * March 22, 2017  
 [Should Birth at 37 Weeks be Considered an Intermediate Risk Group for Adverse Perinatal Outcomes and Mortality?  
 37週での出生は、周産期の有害転帰および死亡率の中間リスク群と見なされるべきか？](ObGProject/GRANDROUNDS/Should_Birth_at.md)
