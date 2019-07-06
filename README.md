@@ -581,6 +581,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
 * March 22, 2017  
+[Should Birth at 37 Weeks be Considered an Intermediate Risk Group for Adverse Perinatal Outcomes and Mortality?  
+37週での出生は、周産期の有害転帰および死亡率の中間リスク群と見なされるべきか？](ObGProject/GRANDROUNDS/Should_Birth_at.md)
+* March 22, 2017  
 [Are Lower Normal Apgar Scores Associated with Higher Risk of Adverse Neonatal Outcomes?  
 正常なアプガースコアであっても点数が低いほど新生児の有害転帰のリスクは高くなるか？](ObGProject/GRANDROUNDS/Are_Lower_Normal.md)
 * March 16, 2017  
