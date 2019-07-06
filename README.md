@@ -580,16 +580,19 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
-* March 29, 2017  
+* June 1, 2019  
+[Can Glucose Screening in Pregnancy Predict Future Risk of Cardiovascular Disease in non-GDM Women?  
+妊娠中のグルコーススクリーニングは非GDM女性における心血管疾患の将来のリスクを予測できるか？](ObGProject/GRANDROUNDS/Can_Glucose_Screening.md)
+* March 29, 2019  
 [Cervical Cerclage for a Progressively Shortening Cervix or Very Short Cervix  
 進行性の子宮頸管短縮または非常に短い子宮頸管のための子宮頸管縫縮術](ObGProject/GRANDROUNDS/Cervical_Cerclage_for.md)
-* March 22, 2017  
+* March 22, 2019  
 [Should Birth at 37 Weeks be Considered an Intermediate Risk Group for Adverse Perinatal Outcomes and Mortality?  
 37週での出生は、周産期の有害転帰および死亡率の中間リスク群と見なされるべきか？](ObGProject/GRANDROUNDS/Should_Birth_at.md)
-* March 22, 2017  
+* March 22, 2019  
 [Are Lower Normal Apgar Scores Associated with Higher Risk of Adverse Neonatal Outcomes?  
 正常なアプガースコアであっても点数が低いほど新生児の有害転帰のリスクは高くなるか？](ObGProject/GRANDROUNDS/Are_Lower_Normal.md)
-* March 16, 2017  
+* March 16, 2019  
 [Can Daughters Inherit a Predisposition Towards Stillbirth from Their Mothers?  
 死産の素因は母親から娘に遺伝するか？](ObGProject/GRANDROUNDS/Can_Daughters_Inherit.md)
 * May 16, 2019  
