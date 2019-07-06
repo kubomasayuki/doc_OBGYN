@@ -580,6 +580,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
+* June 5, 2019  
+[New Technique: Shoulder Shrug Maneuver for Delivery During Shoulder Dystocia  
+新しいテクニック：肩甲難産のための肩の娩出の手技](ObGProject/GRANDROUNDS/New_Technique_Shoulder.md)
 * June 2, 2019  
 [ANODE RCT Results: Antibiotic Prophylaxis for Forceps or Vacuum Extraction?  
 ANODE RCTの結果：鉗子または吸引分娩における抗生物質の予防的投与？](ObGProject/GRANDROUNDS/ANODE_RCT_Results.md)
