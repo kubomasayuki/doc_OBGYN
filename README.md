@@ -48,6 +48,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [The worst of both worlds - combined deliveries in twin gestations: A sub-analysis of the Twin Birth Study, a randomized, controlled, prospective study  
 最悪な両方の世界 - 双胎妊娠時の両方(経膣&帝切)の出産：無作為化比較対照前向き試験である双胎出生研究のサブアナリシス](AJOG/Jun2019/The_worst_of.md)
 ### [March](AJOG/Mar2019)
+* March 13, 2019  
+[Routine assessment of cerebroplacental ratio at 35–37 weeks’ gestation in the prediction of adverse perinatal outcome  
+周産期有害転帰の予測における妊娠35〜37週の脳胎盤比の日常的評価](AJOG/Mar2019/Routine_assessment_of.md)
 * March 7, 2019  
 [Successful use of an artificial placenta to support extremely preterm ovine fetuses at the border of viability  
 生存率の境界にある極早産ヒツジ胎仔をサポートするための人工胎盤の使用成功](AJOG/Mar2019/Successful_use_of.md)
