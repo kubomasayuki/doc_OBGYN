@@ -411,6 +411,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ## 2019
 ### [July](GreenJournal/Jul2019)
 * July 9, 2019  
+[Tissue Adhesive Compared With Sterile Strips After Cesarean Delivery  
+帝王切開分娩後の無菌ストリップと比較した組織接着剤](GreenJournal/Jul2019/Tissue_Adhesive_Compared.md)
+* July 9, 2019  
 [Neonatal and Maternal Adverse Outcomes Among Low-Risk Parous Women at 39–41 Weeks of Gestation  
 妊娠39〜41週の低リスクの経産婦女性における新生児および母体の有害転帰](GreenJournal/Jul2019/Neonatal_and_Maternal.md)
 ### [June](GreenJournal/Jun2019)
