@@ -16,6 +16,7 @@
 * [EClinicalMedicine](#EClinicalMedicine)
 * [Environmental-Research](#EnvironmentalResearch)
 * [Green-Journal](#Green-Journal)
+* [HeadacheJournal](#HeadacheJournal)
 * [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
@@ -485,6 +486,13 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * October 1, 2018  
 [Intrapartum Fetal Heart Rate Tracing Among Small-for-Gestational Age Compared With Appropriate-for-Gestational-Age Neonates
 妊娠に適した新生児と比較した妊娠に適した年齢の分娩中の胎児心拍数追跡](GreenJournal/Oct2018/Intrapartum_Fetal_Heart.md)
+
+# [HeadacheJournal](HeadacheJournal)
+## 2019
+### [May](HeadacheJournal/May2019)
+* 08 May 2019  
+[Pregnancy, Birth, Neonatal, and Postnatal Neurological Outcomes After Pregnancy With Migraine  
+片頭痛妊娠後の妊娠、出産、新生児、および出生後の神経学的転帰](HeadacheJournal/May2019/Pregnancy_Birth_Neonatal.md)
 
 # [International-Journal-of-Obstetrics-Anesthesia](International-Journal-of-Obstetrics-Anesthesia)
 ## 2018
