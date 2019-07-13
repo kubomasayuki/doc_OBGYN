@@ -1,5 +1,6 @@
 * [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
 * [AJOG](#AJOG)
+* [AJUM](#AJUM)
 * [AMAG-Pharmaceuticals](#AMAG-Pharmaceuticals)
 * [American-Academy-of-Pediatrics](#American-Academy-of-Pediatrics)
 * [American-Journal-of-Perinatology](#American-Journal-of-Perinatology)
@@ -185,6 +186,13 @@ FIRSTT研究：子宮動脈塞栓術と集束超音波手術のランダム化�
 * February 3, 2018  
 [A prospective cohort study of fetal heart rate monitoring:deceleration area is predictive of fetal acidemia
 胎児心拍数モニタリングの前向きコホート研究：一過性徐脈の面積から胎児のアシデミアを予測](AJOG/Feb2018/A_prospective_cohort.md)
+
+# [AJUM](AJUM)
+## 2019
+### [July](AJUM/Jul2019)
+* 02 July 2019  
+[Pre‐eclampsia and long‐term cardiac dysfunction: A review of asymptomatic cardiac changes existing well beyond the post‐partum period  
+妊娠高血圧腎症と長期心機能不全：分娩後はるかに経っても存在する無症候性心変化のレビュー](AJUM/Jul2019/Pre-eclampsia_and_long-term.md)
 
 # [AMAG-Pharmaceuticals](AMAG_Pharmaceuticals)
 ## 2019
