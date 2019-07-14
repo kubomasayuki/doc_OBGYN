@@ -49,6 +49,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * June 26, 2019  
 [The worst of both worlds - combined deliveries in twin gestations: A sub-analysis of the Twin Birth Study, a randomized, controlled, prospective study  
 最悪な両方の世界 - 双胎妊娠時の両方(経膣&帝切)の出産：無作為化比較対照前向き試験である双胎出生研究のサブアナリシス](AJOG/Jun2019/The_worst_of.md)
+* June 26, 2019  
+[Fetal growth patterns in pregnancy-associated hypertensive disorders: NICHD Fetal Growth Studies  
+妊娠に関連する高血圧症における胎児成長パターン：NICHDの胎児成長研究](AJOG/Jun2019/Fetal_growth_patterns.md)
 ### [March](AJOG/Mar2019)
 * March 13, 2019  
 [Routine assessment of cerebroplacental ratio at 35–37 weeks’ gestation in the prediction of adverse perinatal outcome  
