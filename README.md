@@ -346,6 +346,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [BMJ](BMJ)
 ## 2019
+### [July](BMJ/Jul2019)
+* 04 July 2019  
+[Prevalence and risk of pre-eclampsia and gestational hypertension in twin pregnancies: a population-based register study  
+双胎妊娠における妊娠高血圧腎症および妊娠高血圧の有病率とリスク：集団ベースの登録研究](BMJ/Jul2019/Prevalence_and_risk.md)
 ### [May](BMJ/May2019)
 * 07 May 2019  
 [Association between Apgar scores of 7 to 9 and neonatal mortality and morbidity: population based cohort study of term infants in Sweden  
