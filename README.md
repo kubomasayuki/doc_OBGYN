@@ -427,6 +427,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ## 2019
 ### [July](GreenJournal/Jul2019)
 * July 9, 2019  
+[Severe Maternal Morbidity Among Stillbirth and Live Birth Deliveries in California  
+カリフォルニアにおける死産と生児の出産の間の深刻な母性罹患率](GreenJournal/Jul2019/Severe_Maternal_Morbidity.md)
+* July 9, 2019  
 [Tissue Adhesive Compared With Sterile Strips After Cesarean Delivery  
 帝王切開分娩後の無菌ストリップと比較した組織接着剤](GreenJournal/Jul2019/Tissue_Adhesive_Compared.md)
 * July 9, 2019  
