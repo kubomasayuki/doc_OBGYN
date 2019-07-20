@@ -335,6 +335,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [BMC_Pregnancy_and_Childbirth](BMC_Pregnancy_and_Childbirth)
 ## 2019
+### [July](BMC_Pregnancy_and_Childbirth/Jul2019)
+* 19 July 2019  
+[Is there an impact of feet position on squatting birth position? An innovative biomechanical pilot study  
+しゃがんだ分娩体位に対する足の位置の影響はあるか？革新的な生体力学的パイロット研究](BMC_Pregnancy_and_Childbirth/Jul2019/Is_there_an.md)
 ### [April](BMC_Pregnancy_and_Childbirth/Apr2019)
 * 11 April 2019  
 [An evaluation of whether a gestational weight gain of 5 to 9 kg for obese women optimizes maternal and neonatal health risks  
