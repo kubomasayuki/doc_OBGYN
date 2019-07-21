@@ -227,6 +227,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 帝王切開前の分娩試行の効果とその後の胎盤癒着スペクトラム障害のリスク](American-Journal-of-Perinatology/Apr2019/Effect_of_Trial.md)
 ### [March](American-Journal-of-Perinatology/Mar2019)
 * March 20, 2019  
+[Duration of Operative Vaginal Delivery and Adverse Obstetric Outcomes  
+手術による経膣分娩の期間と産科の有害転帰](American-Journal-of-Perinatology/Mar2019/Duration_of_Operative.md)
+* March 20, 2019  
 [Perinatal Outcomes Associated with Early Diabetes Testing in Pregnancies Complicated by Obesity  
 肥満を合併した妊娠における早期糖尿病検査に関連した周産期転帰](American-Journal-of-Perinatology/Mar2019/Perinatal_Outcomes_Associated.md)
 ### [February](American-Journal-of-Perinatology/Feb2019)
