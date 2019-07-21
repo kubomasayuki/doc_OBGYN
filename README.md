@@ -620,6 +620,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
+* June 7, 2019  
+[Does Threatened Preterm Labor in Previous Pregnancy Increase Risk for Preterm Delivery?
+切迫早産の既往のある女性はその後の妊娠で早産のリスクは増大するか？](ObGProject/GRANDROUNDS/Does_Threatened_Preterm.md)
 * June 5, 2019  
 [Umbilical Cord Milking or Delayed Cord Clamping in Preterm Infants?  
 早産児における臍帯ミルキングまたは遅延臍帯結紮？](ObGProject/GRANDROUNDS/Umbilical_Cord_Milking.md)
