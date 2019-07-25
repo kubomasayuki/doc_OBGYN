@@ -802,9 +802,14 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # [Springer](Springer)
 ## 2019
 ### [January](Springer/Jan2019)
-* 15 January, 2019  
+* 15 January 2019  
 [The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
 妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
+## 2017
+### [September](Springer/Sep2017)
+* 06 September 2017  
+[Estimation of neonatal outcome artery pH value according to CTG interpretation of the last 60 min before delivery: a retrospective study. Can the outcome pH value be predicted?  
+出産前60分間のCTG解釈による新生児転帰(臍帯動脈pH値)の評価：後ろ向き研究 pH値は予測可能か？](Springer/Jan2019/Estimation_of_neonatal.md)
 
 # [Taiwanese_Journal_of_ObGyn](Taiwanese_Journal_of_ObGyn)
 ## 2017
