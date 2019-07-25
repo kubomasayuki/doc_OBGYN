@@ -809,7 +809,7 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 ### [September](Springer/Sep2017)
 * 06 September 2017  
 [Estimation of neonatal outcome artery pH value according to CTG interpretation of the last 60 min before delivery: a retrospective study. Can the outcome pH value be predicted?  
-出産前60分間のCTG解釈による新生児転帰(臍帯動脈pH値)の評価：後ろ向き研究 pH値は予測可能か？](Springer/Jan2019/Estimation_of_neonatal.md)
+出産前60分間のCTG解釈による新生児転帰(臍帯動脈pH値)の評価：後ろ向き研究 pH値は予測可能か？](Springer/Sep2017/Estimation_of_neonatal.md)
 
 # [Taiwanese_Journal_of_ObGyn](Taiwanese_Journal_of_ObGyn)
 ## 2017
