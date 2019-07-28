@@ -624,6 +624,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
 * June 23, 2019  
+[Oral vs Vaginal Misoprostol for Labor Induction  
+分娩誘発のための経口vs経膣ミソプロストール](ObGProject/GRANDROUNDS/Oral_vs_Vaginal.md)
+* June 23, 2019  
 [Recurrent Miscarriage and APS: Aspirin and/or Heparin?  
 習慣流産とAPS：アスピリンおよび/またはヘパリン？](ObGProject/GRANDROUNDS/Recurrent_Miscarriage_and.md)
 * June 23, 2019  
