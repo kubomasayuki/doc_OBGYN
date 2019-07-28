@@ -624,6 +624,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
 * June 23, 2019  
+[Recurrent Miscarriage and APS: Aspirin and/or Heparin?  
+習慣流産とAPS：アスピリンおよび/またはヘパリン？](ObGProject/GRANDROUNDS/Recurrent_Miscarriage_and.md)
+* June 23, 2019  
 [Does Administering Oxytocin Before Delayed Cord Clamping Affect the Volume of Placental Transfusion?  
 遅延臍帯クランプ前のオキシトシン投与は胎盤輸血量に影響するか？](ObGProject/GRANDROUNDS/Does_Administering_Oxytocin.md)
 * June 17, 2019  
