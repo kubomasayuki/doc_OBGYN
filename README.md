@@ -624,6 +624,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
 * June 30, 2019  
+[Cost-Effectiveness of Routine TXA Treatment for PPH in the US
+米国におけるPPHに対する通常のTXA治療の費用対効果](ObGProject/GRANDROUNDS/Cost-Effectiveness_of_Routine.md)
+* June 30, 2019  
 [Placenta Accreta: How Well Does an Ultrasound-Based System Correlate with FIGO Clinical Staging?  
 胎盤付着物：超音波ベースのシステムはFIGO臨床病期分類とどの程度相関するか？](ObGProject/GRANDROUNDS/Placenta_Accreta_How.md)
 * June 29, 2019  
