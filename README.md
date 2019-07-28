@@ -623,6 +623,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
+* June 23, 2019  
+[Does Administering Oxytocin Before Delayed Cord Clamping Affect the Volume of Placental Transfusion?  
+遅延臍帯クランプ前のオキシトシン投与は胎盤輸血量に影響するか？](ObGProject/GRANDROUNDS/Does_Administering_Oxytocin.md)
 * June 17, 2019  
 [Are Number of Pop-Offs, Forcep Pulls or Longer Operative Vaginal Delivery Times Associated with Adverse Neonatal Outcomes?  
 吸引分娩の吸引回数、鉗子分娩の牽引回数、またはより長時間の器械分娩が新生児の有害転帰と関連しているか？](ObGProject/GRANDROUNDS/Are_Number_of.md)
