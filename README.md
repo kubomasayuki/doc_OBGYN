@@ -823,6 +823,11 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * 15 January 2019  
 [The discovery of novel predictive biomarkers and early-stage pathophysiology for the transition from gestational diabetes to type 2 diabetes  
 妊娠糖尿病から2型糖尿病への移行のための新規予測バイオマーカーと早期病態生理学の発見](Springer/Jan2019/The_discovery_of.md)
+## 2018
+### [May](Springer/May2018)
+* 17 May 2018  
+[Fetal Hypoxia Detection Based on Deep Convolutional Neural Network with Transfer Learning Approach  
+転移学習を用いた深層畳み込みニューラルネットワークに基づく胎児低酸素症検出](Springer/May2018/Fetal_Hypoxia_Detection.md)
 ## 2017
 ### [September](Springer/Sep2017)
 * 06 September 2017  
