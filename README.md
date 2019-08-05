@@ -568,8 +568,12 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [Lancet](Lancet)
 ## 2019
+### [August](Lancet/Aug2019)
+* August 01, 2019  
+[An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction  
+洞調律中の心房細動患者の同定のためのAI対応ECGアルゴリズム：転帰予測の後ろ向き分析](Lancet/Aug2019/An_artificial_intelligence-enabled.md)
 ### [April](Lancet/Apr2019)
-* April 1, 2019  
+* April 01, 2019  
 [Placental growth factor testing to assess women with suspected pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial  
 妊娠高血圧腎症の疑いのある妊娠女性を評価するための胎盤増殖因子試験：多施設、実用的、段階的クラスター無作為化対照試験](Lancet/Apr2019/Placental_growth_factor.md)
 ### [March](Lancet/Mar2019)
