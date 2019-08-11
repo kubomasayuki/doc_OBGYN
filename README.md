@@ -628,6 +628,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
+* July 18, 2019  
+[The Latest ACC/ AHA BP Category Guidelines and Risk of Hypertensive Disorders of Pregnancy  
+最新のACC / AHA BPカテゴリーガイドラインと妊娠性高血圧障害のリスク](ObGProject/GRANDROUNDS/The_Latest_ACC.md)
 * July 13, 2019  
 [Results from the ADCAR trial: Intermittent Auscultation vs Admission Cardiotocography  
 ADCAR試験の結果：断続的聴診vs入室時CTG](ObGProject/GRANDROUNDS/Results_from_the.md)
