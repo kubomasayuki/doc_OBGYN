@@ -628,6 +628,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
+* July 13, 2019  
+[Results from the ADCAR trial: Intermittent Auscultation vs Admission Cardiotocography  
+ADCAR試験の結果：断続的聴診vs入室時CTG](ObGProject/GRANDROUNDS/Results_from_the.md)
 * July 7, 2019  
 [Labetalol or Nifedipine for Acute Elevated BP in Pregnancy?  
 妊娠中の急性高血圧に対するラベタロールまたはニフェジピン？](ObGProject/GRANDROUNDS/Labetalol_or_Nifedipine.md)
