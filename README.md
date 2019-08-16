@@ -433,6 +433,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 ## [Green-Journal](GreenJournal)
 ## 2019
+### [August](GreenJournal/Aug2019)
+* August 1, 2019  
+[Severe Maternal Morbidity Among Stillbirth and Live Birth Deliveries in California  
+カリフォルニアにおける死産および生児出産の重度の妊産婦罹患率](GreenJournal/Aug2019/Severe_Maternal_Morbidity.md)
 ### [July](GreenJournal/Jul2019)
 * July 9, 2019  
 [Severe Maternal Morbidity Among Stillbirth and Live Birth Deliveries in California  
