@@ -54,7 +54,7 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [Fetal growth patterns in pregnancy-associated hypertensive disorders: NICHD Fetal Growth Studies  
 妊娠に関連する高血圧症における胎児成長パターン：NICHDの胎児成長研究](AJOG/Jun2019/Fetal_growth_patterns.md)
 ### [March](AJOG/Mar2019)
-* March 13, 2019  
+* March 30, 2019  
 [Neonatal developmental and behavioral outcomes of immediate delivery versus expectant monitoring in mild hypertensive disorders of pregnancy: 2-year outcomes of the HYPITAT-II trial  
 軽度の妊娠高血圧性障害における即時分娩と待機管理の新生児の発達の予後の比較：HYPITAT-II試験の2年間の結果](AJOG/Mar2019/Neonatal_developmental_and.md)
 * March 13, 2019  
