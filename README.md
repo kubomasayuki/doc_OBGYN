@@ -55,6 +55,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 妊娠に関連する高血圧症における胎児成長パターン：NICHDの胎児成長研究](AJOG/Jun2019/Fetal_growth_patterns.md)
 ### [March](AJOG/Mar2019)
 * March 30, 2019  
+[Is maternal lipid profile in early pregnancy associated with pregnancy complications and blood pressure in pregnancy and long term postpartum?  
+妊娠初期の母親の脂質プロファイルは、妊娠合併症と妊娠中および産後長期間の血圧に関連しているか？](AJOG/Mar2019/Is_maternal_lipid.md)
+* March 30, 2019  
 [Neonatal developmental and behavioral outcomes of immediate delivery versus expectant monitoring in mild hypertensive disorders of pregnancy: 2-year outcomes of the HYPITAT-II trial  
 軽度の妊娠高血圧性障害における即時分娩と待機管理の新生児の発達の予後の比較：HYPITAT-II試験の2年間の結果](AJOG/Mar2019/Neonatal_developmental_and.md)
 * March 13, 2019  
