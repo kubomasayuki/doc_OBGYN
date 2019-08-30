@@ -554,6 +554,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [JAMA-Network](JAMA-Network)
 ## 2019
+### [August](JAMA-Network/Aug2019)
+* August 23, 2019  
+[Association of Maternal Age With Severe Maternal Morbidity and Mortality in Canada  
+カナダにおける母親の年齢と重度の母親の罹患率および死亡率との関連](JAMA-Network/Aug2019/Association_of_Maternal.md)
 ### [May](JAMA-Network/May2019)
 * May 7, 2019  
 [Association of Gestational Weight Gain With Adverse Maternal and Infant Outcomes  
