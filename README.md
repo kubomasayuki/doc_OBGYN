@@ -301,6 +301,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [BJOG](BJOG)
 ## 2019
+### [June](BJOG/Jun2019)
+* 05 June 2019  
+[The risk of perinatal death at term  
+満期の周産期死亡のリスク](BJOG/Jun2019/The_risk_of.md)
 ### [March](BJOG/Mar2019)
 * 19 March 2019  
 [Gestational diabetes and the risk of late stillbirth: a case–control study from England, UK  
