@@ -353,6 +353,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * 07 August 2019  
 [The effects of vigorous intensity exercise in the third trimester of pregnancy: a systematic review and meta-analysis  
 妊娠第三期における激しい運動の効果：系統的レビューとメタ分析](BMC_Pregnancy_and_Childbirth/Aug2019/The_effects_of.md)
+* 01 August 2019  
+[Weight retention at six weeks postpartum and the risk of gestational diabetes mellitus in a second pregnancy  
+分娩後6週間での体重増加と2回目の妊娠における妊娠糖尿病のリスク](BMC_Pregnancy_and_Childbirth/Aug2019/Weight_retention_at.md)
 ### [July](BMC_Pregnancy_and_Childbirth/Jul2019)
 * 19 July 2019  
 [Is there an impact of feet position on squatting birth position? An innovative biomechanical pilot study  
