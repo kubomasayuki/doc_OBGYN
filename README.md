@@ -583,6 +583,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 [Prepregnancy Body Mass Index, Weight Gain During Pregnancy, and Health Outcomes
 妊娠前のボディマスインデックス、妊娠中の体重増加、および健康上の転帰](JAMA-Network/May2019/Prepregnancy_Body_Mass.md)
 ### [March](JAMA-Network/Mar2019)
+* March 29, 2019  
+[Association of Deferred vs Immediate Cord Clamping With Severe Neurological Injury and Survival in Extremely Low-Gestational-Age Neonates  
+超早産児における遅延神経vs即時臍帯クランプと重度の神経損傷および生存との関連](JAMA-Network/Mar2019/Association_of_Deferred.md)
 * March 26, 2019  
 [Association Between Year of Birth and 1-Year Survival Among Extremely Preterm Infants in Sweden During 2004-2007 and 2014-2016  
 2004-07年および2014-16年のスウェーデンの超早産児における生まれ年と1年生存率との関連](JAMA-Network/Mar2019/Association_Between_Year.md)
