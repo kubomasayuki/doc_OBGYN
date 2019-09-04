@@ -892,12 +892,17 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # [Taylor_and_Francis_Online](Taylor_and_Francis_Online)
 ## 2017
 ### [May](Taylor_and_Francis_Online/May2017)
-* 19 May, 2017  
+* 19 May 2017  
 [Fetal scalp stimulation (FSS) versus fetal blood sampling (FBS) for women with abnormal fetal heart rate monitoring in labor: a prospective cohort study  
 異常な胎児心拍数モニタリングを示す妊娠女性における児頭刺激（FSS）vs児頭血採取（FBS）：前向きコホート研究](Taylor_and_Francis_Online/May2017/Fetal_scalp_stimulation.md)
+## 2016
+### [May](Taylor_and_Francis_Online/May2016)
+* 16 May 2016
+[Fetal scalp blood lactate during second stage of labor: determination of reference values and impact of obstetrical interventions  
+分娩第2期における児頭血中乳酸値：基準値の決定と産科介入の影響](Taylor_and_Francis_Online/May2016/Fetal_scalp_blood.md)
 ## 2011
 ### [August](Taylor_and_Francis_Online/Aug2011)
-* 11 August, 2011  
+* 11 August 2011  
 [Pregnancy outcome after third trimester amniocentesis: a single center experience  
 妊娠第3三半期の羊水穿刺後の転帰：単一施設での経験](Taylor_and_Francis_Online/Aug2011/Pregnancy_outcome_after.md)
 
