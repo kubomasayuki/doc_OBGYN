@@ -897,7 +897,7 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 異常な胎児心拍数モニタリングを示す妊娠女性における児頭刺激（FSS）vs児頭血採取（FBS）：前向きコホート研究](Taylor_and_Francis_Online/May2017/Fetal_scalp_stimulation.md)
 ## 2016
 ### [May](Taylor_and_Francis_Online/May2016)
-* 16 May 2016
+* 16 May 2016  
 [Fetal scalp blood lactate during second stage of labor: determination of reference values and impact of obstetrical interventions  
 分娩第2期における児頭血中乳酸値：基準値の決定と産科介入の影響](Taylor_and_Francis_Online/May2016/Fetal_scalp_blood.md)
 ## 2011
