@@ -1,6 +1,6 @@
 ## タイトル
 Planned early delivery or expectant management for late preterm pre-eclampsia (PHOENIX): a randomised controlled trial  
-早産後期子lamp前症（PHOENIX）の計画的早期分娩または妊娠管理：ランダム化比較試験
+後期早産における妊娠高血圧腎症の計画的早期分娩または待機的管理（PHOENIX）：ランダム化比較試験
 
 ## 著者/所属機関
 
