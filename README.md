@@ -302,6 +302,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # [BJOG](BJOG)
 ## 2019
 ### [June](BJOG/Jun2019)
+* 24 July 2019  
+[Effect of QUiPP prediction algorithm on treatment decisions in women with a previous preterm birth: a prospective cohort study  
+QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響：前向きコホート研究](BJOG/Jun2019/Effect_of_QUiPP.md)
+### [June](BJOG/Jun2019)
 * 05 June 2019  
 [The risk of perinatal death at term  
 満期の周産期死亡のリスク](BJOG/Jun2019/The_risk_of.md)
