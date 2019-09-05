@@ -604,6 +604,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 # [Lancet](Lancet)
 ## 2019
 ### [August](Lancet/Aug2019)
+* August 28, 2019  
+[Planned early delivery or expectant management for late preterm pre-eclampsia (PHOENIX): a randomised controlled trial  
+後期早産における妊娠高血圧腎症の計画的早期分娩または待機的管理（PHOENIX）：ランダム化比較試験](Lancet/Aug2019/Planned_early_delivery.md)
 * August 01, 2019  
 [An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction  
 洞調律中の心房細動患者の同定のためのAI対応ECGアルゴリズム：転帰予測の後ろ向き分析](Lancet/Aug2019/An_artificial_intelligence-enabled.md)
