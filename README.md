@@ -614,6 +614,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * August 01, 2019  
 [An artificial intelligence-enabled ECG algorithm for the identification of patients with atrial fibrillation during sinus rhythm: a retrospective analysis of outcome prediction  
 洞調律中の心房細動患者の同定のためのAI対応ECGアルゴリズム：転帰予測の後ろ向き分析](Lancet/Aug2019/An_artificial_intelligence-enabled.md)
+### [May](Lancet/May2019)
+* May 13, 2019  
+[Prophylactic antibiotics in the prevention of infection after operative vaginal delivery (ANODE): a multicentre randomised controlled trial  
+器械分娩後の感染予防における予防的抗生物質投与（ANODE）：多施設無作為化対照試験](Lancet/May2019/Prophylactic_antibiotics_in.md)
 ### [April](Lancet/Apr2019)
 * April 01, 2019  
 [Placental growth factor testing to assess women with suspected pre-eclampsia: a multicentre, pragmatic, stepped-wedge cluster-randomised controlled trial  
