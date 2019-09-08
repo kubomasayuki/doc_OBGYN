@@ -52,3 +52,4 @@ ANODE RCTの結果：鉗子または吸引分娩における抗生物質の予�
 
 ## リンク
 https://www.obgproject.com/2019/06/02/anode-rct-results-antibiotic-prophylaxis-for-forceps-or-vacuum-extraction/
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30773-1/fulltext
