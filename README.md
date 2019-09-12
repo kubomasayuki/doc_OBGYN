@@ -47,6 +47,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * August 5, 2019  
 [Effect of delayed interval delivery of remaining fetus(es) in multiple pregnancies on survival: a systematic review and meta-analysis  
 多胎妊娠における第2児以降の児の分娩遅延が生存へ与える影響：系統的レビューとメタ分析](AJOG/Aug2019/Effect_of_delayed.md)
+### [July](AJOG/Jul2019)
+* July 24, 2019  
+[The physiology of intrapartum fetal compromise at term  
+満期胎児の分娩時危機的状況における生理学](AJOG/Jul2019/The_physiology_of.md)
 ### [June](AJOG/Jun2019)
 * June 27, 2019  
 [Blood pressure trajectory and category and risk of hypertensive disorders of pregnancy in nulliparous women  
