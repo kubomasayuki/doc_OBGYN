@@ -27,4 +27,4 @@ Received:February 22, 2019
 このレビューでは、胎盤機能障害を引き起こす可能性のあるイベントの詳細な概要、分娩時胎児低酸素症の素因、および低酸素傷害を回避するための保護メカニズムが提供されています。
 
 ### 
-![Figure.1](Physiology_fig1.png)
+![Figure.1](Physiology_fig1.jpg)
