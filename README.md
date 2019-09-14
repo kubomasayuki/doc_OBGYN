@@ -44,6 +44,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 # [AJOG](AJOG)
 ## 2019
 ### [August](AJOG/Aug2019)
+* August 19, 2019  
+[Inherited susceptibility to miscarriage: a nested case-control study of 31,565 women from an intergenerational cohort  
+流産に対する遺伝的感受性：世代間コホートからの31,565人の女性親子の症例対照研究](AJOG/Aug2019/Inherited_susceptibility_to.md)
 * August 5, 2019  
 [Effect of delayed interval delivery of remaining fetus(es) in multiple pregnancies on survival: a systematic review and meta-analysis  
 多胎妊娠における第2児以降の児の分娩遅延が生存へ与える影響：系統的レビューとメタ分析](AJOG/Aug2019/Effect_of_delayed.md)
