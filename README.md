@@ -259,7 +259,7 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
 ## 2018
 ### [December](American-Journal-of-Perinatology/Dec2018)
-* December 15, 2018  
+* December 24, 2018  
 [The Association between Oxidative Stress and Cardiac Functions in Infants Born to Preeclamptic Mothers  
 妊娠高血圧腎症の母親に生まれた乳児における酸化ストレスと心機能の間の関連](American-Journal-of-Perinatology/Dec2018/The_Association_between.md)
 * December 15, 2018  
