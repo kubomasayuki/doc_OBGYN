@@ -83,6 +83,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * March 1, 2019  
 [Significant reduction in umbilical artery metabolic acidosis after implementation of intrapartum ST waveform analysis of the fetal electrocardiogram  
 胎児心電図の分娩時ST波形解析の実施後の臍帯動脈代謝性アシドーシスの有意な減少](AJOG/Mar2019/Significant_reduction_in.md)
+* March 1, 2019  
+[Cervical pessary for preventing preterm birth in twin pregnancies with maternal short cervix after an episode of threatened preterm labor: randomised controlled trial  
+切迫早産の兆候のある子宮頸管長の短い双胎妊娠女性における早産予防のための子宮頸管ペッサリー：無作為化対照試験](AJOG/Mar2019/Cervical_pessary_for.md)
 ### [February](AJOG/Feb2019)
 * February 25, 2019  
 [Elective induction of labor at 39 weeks compared with expectant management: a meta-analysis of cohort studies  
