@@ -389,6 +389,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 # [BMJ](BMJ)
 ## 2019
+### [September](BMJ/Sep2019)
+* 09 September 2019  
+[Diagnosis and management of hypertension in pregnancy: summary of updated NICE guidance  
+妊娠高血圧の診断と管理：更新されたNICEガイダンスの概要](BMJ/Sep2019/Diagnosis_and_management.md)
 ### [July](BMJ/Jul2019)
 * 04 July 2019  
 [Prevalence and risk of pre-eclampsia and gestational hypertension in twin pregnancies: a population-based register study  
