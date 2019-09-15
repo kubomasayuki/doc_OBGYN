@@ -468,6 +468,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 ## [Green-Journal](GreenJournal)
 ## 2019
+### [September](GreenJournal/Sep2019)
+* August 1, 2019  
+[Externally Validated Score to Predict Cesarean Delivery After Labor Induction With Cervical Ripening  
+子宮頸管熟成による分娩誘発後の帝王切開分娩を予測するための外部検証スコア](GreenJournal/Sep2019/Externally_Validated_Score.md)
 ### [August](GreenJournal/Aug2019)
 * August 1, 2019  
 [Severe Maternal Morbidity Among Stillbirth and Live Birth Deliveries in California  
