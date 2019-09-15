@@ -260,6 +260,9 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 ## 2018
 ### [December](American-Journal-of-Perinatology/Dec2018)
 * December 15, 2018  
+[The Association between Oxidative Stress and Cardiac Functions in Infants Born to Preeclamptic Mothers  
+妊娠高血圧腎症の母親に生まれた乳児における酸化ストレスと心機能の間の関連](American-Journal-of-Perinatology/Dec2018/The_Association_between.md)
+* December 15, 2018  
 [Preterm Prelabor Rupture of Membranes: Outcomes with Expectant Management until 34 versus 35 Weeks  
 早期前期破水：34週vs35週までの待機管理による転帰](American-Journal-of-Perinatology/Dec2018/Preterm_Prelabor_Rupture.md)
 * December 3, 2018  
