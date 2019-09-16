@@ -368,6 +368,11 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 20 November 2018  
 [Prognosis of the co‐twin following spontaneous single intrauterine fetal death in twin pregnancies: a systematic review and meta‐analysis  
 双胎妊娠における一方の児が死亡した場合のもう一方の児の予後：系統的レビューとメタアナリシス](BJOG/Nov2018/Prognosis_of_the.md)
+## 2012
+### [July](BJOG/Jul2012)
+* 25 July 2012  
+[Is intrapartum fever associated with ST‐waveform changes of the fetal electrocardiogram? A retrospective cohort study  
+分娩時発熱は胎児心電図のST波形の変化と関連していますか？後ろ向きコホート研究](BJOG/Jul2012/Is_intrapartum_fever.md)
 
 # [BMC_Pregnancy_and_Childbirth](BMC_Pregnancy_and_Childbirth)
 ## 2019
