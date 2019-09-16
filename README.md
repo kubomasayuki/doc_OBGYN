@@ -17,6 +17,7 @@
 * [Environmental-Research](#EnvironmentalResearch)
 * [Green-Journal](#Green-Journal)
 * [HeadacheJournal](#HeadacheJournal)
+* [Hindawi](#Hindawi)
 * [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
@@ -567,6 +568,14 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 08 May 2019  
 [Pregnancy, Birth, Neonatal, and Postnatal Neurological Outcomes After Pregnancy With Migraine  
 片頭痛妊娠後の妊娠、出産、新生児、および出生後の神経学的転帰](HeadacheJournal/May2019/Pregnancy_Birth_Neonatal.md)
+
+# [Hindawi](Hindawi)
+## 2017
+### [March](Hindawi/Mar2017)
+* 24 March 2017  
+[Monitoring Fetal Heart Rate during Labor: A Comparison of Three Methods  
+分娩中の胎児心拍数監視：3つの手法の比較](Hindawi/Mar2017/Monitoring_Fetal_Heart.md)
+
 
 # [International-Journal-of-Obstetrics-Anesthesia](International-Journal-of-Obstetrics-Anesthesia)
 ## 2018
