@@ -572,7 +572,7 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 # [Hindawi](Hindawi)
 ## 2017
 ### [March](Hindawi/Mar2017)
-* 24 March 2017  
+* 14 March 2017  
 [Monitoring Fetal Heart Rate during Labor: A Comparison of Three Methods  
 分娩中の胎児心拍数監視：3つの手法の比較](Hindawi/Mar2017/Monitoring_Fetal_Heart.md)
 
