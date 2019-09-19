@@ -611,6 +611,7 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 19 August 2018  
 [Premature placental aging in term small‐for‐gestational‐age and growth‐restricted fetuses  
 妊娠中の在胎不当過小および胎児発育不全における早期の胎盤老化](ISUOG/Aug2018/Premature_placental_aging.md)
+## 2016
 ### [August](ISUOG/Aug2016)
 * 03 August 2016  
 [Longitudinal study of computerized cardiotocography in early fetal growth restriction.  
