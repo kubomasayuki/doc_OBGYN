@@ -595,22 +595,26 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 # [ISUOG](ISUOG)
 ## 2019
 ### [February](ISUOG/Feb2019)
-* 19 February, 2019  
+* 19 February 2019  
 [Prediction of small‐for‐gestational‐age neonates at 35–37 weeks' gestation: contribution of maternal factors and growth velocity between 20 and 36 weeks  
 妊娠35〜37週の妊娠中の新生児の予測：20〜36週の母体要因および成長速度の寄与](ISUOG/Feb2019/Prediction_of_small.md)
 ## 2018
 ### [November](ISUOG/Nov2018)
-* 21 November, 2018  
+* 21 November 2018  
 [Physiological effects of partial amniotic carbon dioxide insufflation with cold, dry vs heated, humidified gas in a sheep model
 ヒツジモデルにおける冷たい、乾いた対加熱した、加湿ガス による部分的羊水二酸化炭素吹送の生理学的影響](ISUOG/Nov2018/Physiological_effects_of.md)
 ### [October](ISUOG/Oct2018)
-* 24 October, 2018  
+* 24 October 2018  
 [Fetal Medicine Foundation reference ranges for umbilical artery and middle cerebral artery pulsatility index and cerebroplacental ratio  
 臍帯動脈および中大脳動脈拍動指数と脳胎盤比率に対するFetal Medicine Foundationの参照範囲](ISUOG/Oct2018/Fetal_Medicine_Foundation.md)
 ### [August](ISUOG/Aug2018)
-* 19 Auguast, 2018  
+* 19 August 2018  
 [Premature placental aging in term small‐for‐gestational‐age and growth‐restricted fetuses  
 妊娠中の在胎不当過小および胎児発育不全における早期の胎盤老化](ISUOG/Aug2018/Premature_placental_aging.md)
+### [August](ISUOG/Aug2016)
+* 03 August 2016  
+[Longitudinal study of computerized cardiotocography in early fetal growth restriction.  
+早期の胎児発育不全におけるコンピューター化された心拍数陣痛図の縦断的研究。](ISUOG/Aug2016/Longitudinal_study_of.md)
 
 # [JAMA-Network](JAMA-Network)
 ## 2019
