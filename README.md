@@ -65,6 +65,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * June 26, 2019  
 [Fetal growth patterns in pregnancy-associated hypertensive disorders: NICHD Fetal Growth Studies  
 妊娠に関連する高血圧症における胎児成長パターン：NICHDの胎児成長研究](AJOG/Jun2019/Fetal_growth_patterns.md)
+* June 20, 2019  
+[Validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery  
+帝王切開を受けた人の推定失血を評価する新しい検証方法](AJOG/Jun2019/Validation_of_a.md)
 ### [March](AJOG/Mar2019)
 * March 30, 2019  
 [Is maternal lipid profile in early pregnancy associated with pregnancy complications and blood pressure in pregnancy and long term postpartum?  
