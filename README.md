@@ -1,4 +1,5 @@
 * [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
+* [ACTA](#ACTA)
 * [AJOG](#AJOG)
 * [AJUM](#AJUM)
 * [AMAG-Pharmaceuticals](#AMAG-Pharmaceuticals)
@@ -43,6 +44,13 @@
 * [Number 764  
 Medically Indicated Late-Preterm and Early-Term Deliveries  
 医学的な兆候のある後期早産および早期正期産](ACOG/co764.md)
+
+# [ACTA](ACTA)
+## 2012
+### [March](ACTA/Mar2012)
+* 12 March 2012  
+[An overlooked aspect on metabolic acidosis at birth: bloodgas analyzers calculate base deﬁcit differently
+出生時の代謝性アシドーシスに関する見落とされた側面：血液ガス分析装置は異なる方法で塩基欠乏を計算する](ACTA/Mar2012/An_overlooked_aspect.md)
 
 # [AJOG](AJOG)
 ## 2019
