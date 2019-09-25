@@ -30,6 +30,7 @@
 * [ObGProject](#ObGProject)
 * [PLOS_ONE](#PLOS_ONE)
 * [PRENATAL-DIAGNOSIS](#PRENATAL-DIAGNOSIS)
+* [Procedia_Computer_Science](#Procedia_Computer_Science)
 * [SAGE-Journals](#SAGE-Journals)
 * [Science-Translational-Medicine](#Science-Translational-Medicine)
 * [Springer](#Springer)
@@ -916,6 +917,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * 02 January 2019  
 [Noninvasive fetal electrocardiography for the detection of fetal arrhythmias  
 胎児不整脈の検出のための非侵襲的胎児心電図](PRENATAL-DIAGNOSIS/Jan2019/Noninvasive_fetal_electrocardiography.md)
+
+# [Procedia_Computer_Science](Procedia_Computer_Science)
+## 2017
+### [December](Procedia_Computer_Science/Dec2017)
+* 7 December, 2017  
+[ECG Electrode Configuration to Extract Real Time FECG Signals  
+リアルタイムFECG信号を抽出するためのECG電極構成](Procedia_Computer_Science/Dec2017/ECG_Electrode_Configuration.md)
 
 # [SAGE-Journals](SAGE-Journals)
 ## 2019
