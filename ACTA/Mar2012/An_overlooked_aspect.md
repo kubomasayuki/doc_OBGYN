@@ -1,5 +1,6 @@
 ## タイトル
 An overlooked aspect on metabolic acidosis at birth: bloodgas analyzers calculate base deﬁcit differently  
+出生時の代謝性アシドーシスに関する見落とされた側面：血液ガス分析装置は異なる方法で塩基欠乏を計算する
 
 ## 著者/所属機関
 
