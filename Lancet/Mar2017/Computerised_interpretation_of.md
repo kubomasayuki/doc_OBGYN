@@ -1,16 +1,14 @@
 ## タイトル
-Do computers help humans with fetal heart rate pattern interpretation?  
+Computerised interpretation of fetal heart rate during labour (INFANT): a randomised controlled trial  
 コンピューターは胎児の心拍数パターンの解釈で人間を助けますか？
 
 ## 著者/所属機関
 
 ## 論文リンク
-https://doi.org/10.1111/1471-0528.15685
+https://doi.org/10.1016/S0140-6736(17)30568-8
 
 ## 投稿日付
-First published: 18 April 2019  
-Issue Online: 04 September 2019  
-Version of Record online: 18 April 2019
+Published:March 21, 2017
 
 ## 概要
 シナリオ
