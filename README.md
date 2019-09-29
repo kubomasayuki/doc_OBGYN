@@ -508,6 +508,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * October 1, 2019  
 [Predictive Value of the Signs and Symptoms Preceding Eclampsia: A Systematic Review  
 子癇の兆候と症状の予測値：体系的レビュー](GreenJournal/Oct2019/Predictive_Value_of.md)
+* October 1, 2019  
+[A Postpartum Remote Hypertension Monitoring Protocol Implemented at the Hospital Level  
+病院レベルで実装された産後遠隔高血圧モニタリングプロトコル](GreenJournal/Oct2019/A_Postpartum_Remote.md)
 ### [September](GreenJournal/Sep2019)
 * September 1, 2019  
 [Externally Validated Score to Predict Cesarean Delivery After Labor Induction With Cervical Ripening  
