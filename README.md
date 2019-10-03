@@ -332,6 +332,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [BJOG](BJOG)
 ## 2019
+### [September](BJOG/Sep2019)
+* 04 September 2019  
+[Massive blood transfusion in relation to delivery: incidence, trends, and risk factors: a population‐based cohort study  
+出産に関連した大量輸血：発生率、傾向、および危険因子：集団ベースのコホート研究](BJOG/Sep2019/Massive_blood_transfusion.md)
 ### [July](BJOG/Jul2019)
 * 24 July 2019  
 [Effect of QUiPP prediction algorithm on treatment decisions in women with a previous preterm birth: a prospective cohort study  
