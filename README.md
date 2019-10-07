@@ -54,6 +54,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 
 # [AJOG](AJOG)
 ## 2019
+### [September](AJOG/Sep2019)
+* September 28, 2019  
+[Contemporary Patterns of Labor in nulliparous and multiparous women  
+初産および経産の女性における分娩の現代的パターン](AJOG/Sep2019/Contemporary_Patterns_of.md)
 ### [August](AJOG/Aug2019)
 * August 19, 2019  
 [Inherited susceptibility to miscarriage: a nested case-control study of 31,565 women from an intergenerational cohort  
