@@ -82,6 +82,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * June 20, 2019  
 [Validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery  
 帝王切開を受けた人の推定失血を評価する新しい検証方法](AJOG/Jun2019/Validation_of_a.md)
+### [April](AJOG/Apr2019)
+* April 02, 2019  
+[The effect of parity on longitudinal maternal hemodynamics  
+経産における縦断的な母体血行動態に対する影響](AJOG/Apr2019/The_effect_of.md)
 ### [March](AJOG/Mar2019)
 * March 30, 2019  
 [Is maternal lipid profile in early pregnancy associated with pregnancy complications and blood pressure in pregnancy and long term postpartum?  
