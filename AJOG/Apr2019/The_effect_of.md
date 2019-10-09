@@ -1,5 +1,5 @@
 ## タイトル
-The effect of parity on longitudinal maternal hemodynamics
+The effect of parity on longitudinal maternal hemodynamics  
 経産における縦断的な母体血行動態に対する影響
 
 ## 著者/所属機関
