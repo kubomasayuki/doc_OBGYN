@@ -514,6 +514,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 ## 2019
 ### [October](GreenJournal/Oct2019)
 * October 1, 2019  
+[Disseminated Intravascular Coagulation and Hemorrhage After Dilation and Evacuation Abortion for Fetal Death  
+胎児死亡によるD＆E実施後の播種性血管内凝固および出血](GreenJournal/Oct2019/Disseminated_Intravascular_Coagulation.md)
+* October 1, 2019  
 [Predictive Value of the Signs and Symptoms Preceding Eclampsia: A Systematic Review  
 子癇の兆候と症状の予測値：体系的レビュー](GreenJournal/Oct2019/Predictive_Value_of.md)
 * October 1, 2019  
