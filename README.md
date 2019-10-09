@@ -83,6 +83,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [Validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery  
 帝王切開を受けた人の推定失血を評価する新しい検証方法](AJOG/Jun2019/Validation_of_a.md)
 ### [April](AJOG/Apr2019)
+* April 25, 2019  
+[Association between hypertensive disorders and fetal growth restriction in twin compared with singleton gestations  
+単胎妊娠と比較した双胎の高血圧障害と胎児発育不全との関連](AJOG/Apr2019/Association_between_hypertensive.md)
 * April 02, 2019  
 [The effect of parity on longitudinal maternal hemodynamics  
 経産における縦断的な母体血行動態に対する影響](AJOG/Apr2019/The_effect_of.md)
