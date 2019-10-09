@@ -652,6 +652,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 24 October 2018  
 [Fetal Medicine Foundation reference ranges for umbilical artery and middle cerebral artery pulsatility index and cerebroplacental ratio  
 臍帯動脈および中大脳動脈拍動指数と脳胎盤比率に対するFetal Medicine Foundationの参照範囲](ISUOG/Oct2018/Fetal_Medicine_Foundation.md)
+* 24 October 2018  
+[Large‐for‐gestational age and stillbirth: is there a role for antenatal testing?  
+LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Large‐for‐gestational.md)
 ### [August](ISUOG/Aug2018)
 * 19 August 2018  
 [Premature placental aging in term small‐for‐gestational‐age and growth‐restricted fetuses  
