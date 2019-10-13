@@ -86,6 +86,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * April 25, 2019  
 [Association between hypertensive disorders and fetal growth restriction in twin compared with singleton gestations  
 単胎妊娠と比較した双胎の高血圧障害と胎児発育不全との関連](AJOG/Apr2019/Association_between_hypertensive.md)
+* April 14, 2019  
+[Comparing pregnancy outcomes and loss rates in elective twin pregnancy reduction with ongoing twin gestations in a large contemporary cohort  
+現代の大規模コホートにおける選択的双胎妊娠の片方の児の中絶と継続中の双胎妊娠の妊娠転帰および流産率の比較](AJOG/Apr2019/Comparing_pregnancy_outcomes.md)
 * April 02, 2019  
 [The effect of parity on longitudinal maternal hemodynamics  
 経産における縦断的な母体血行動態に対する影響](AJOG/Apr2019/The_effect_of.md)
