@@ -41,6 +41,6 @@ Received: December 13, 2018
 ### 図1 研究フロー
 ![Figure.1](Elective_fig1.jpg)
 
-### 図2 研究フロー
+### 図2 結果
 ![Figure.2](Elective_fig2.jpg)
 
