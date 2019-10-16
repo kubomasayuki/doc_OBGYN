@@ -82,6 +82,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * June 20, 2019  
 [Validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery  
 帝王切開を受けた人の推定失血を評価する新しい検証方法](AJOG/Jun2019/Validation_of_a.md)
+* June 07, 2019  
+[Transvaginal ultrasound is superior to transabdominal ultrasound in the identification of a short cervix  
+経膣超音波検査は、短い子宮頸管長(short cervix)の同定において経腹部超音波検査よりも優れています](AJOG/Jun2019/Transvaginal_ultrasound_is.md)
 ### [April](AJOG/Apr2019)
 * April 25, 2019  
 [Association between hypertensive disorders and fetal growth restriction in twin compared with singleton gestations  
