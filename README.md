@@ -69,6 +69,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * July 24, 2019  
 [The physiology of intrapartum fetal compromise at term  
 満期胎児の分娩時危機的状況における生理学](AJOG/Jul2019/The_Physiology_of.md)
+* July 22, 2019  
+[The effect of placental location in cases of placenta accreta spectrum  
+癒着胎盤スペクトラムにおける胎盤位置の影響](AJOG/Jul2019/The_effect_of.md)
 ### [June](AJOG/Jun2019)
 * June 27, 2019  
 [Blood pressure trajectory and category and risk of hypertensive disorders of pregnancy in nulliparous women  
