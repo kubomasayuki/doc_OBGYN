@@ -537,6 +537,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 ## 2019
 ### [October](GreenJournal/Oct2019)
 * October 1, 2019  
+[Association Between First-Trimester Subchorionic Hematomas and Adverse Pregnancy Outcomes After 20 Weeks of Gestation in Singleton Pregnancies  
+単胎妊娠における妊娠第1期の絨毛膜下血腫と妊娠20週以降の妊娠有害転帰との関連](GreenJournal/Oct2019/Association_Between_First-Trimester.md)
+* October 1, 2019  
 [Labor Curve Analysis of Medically Indicated Early Preterm Induction of Labor  
 医学的に示された早期早産の分娩誘発の労働曲線分析](GreenJournal/Oct2019/Labor_Curve_Analysis.md)
 * October 1, 2019  
