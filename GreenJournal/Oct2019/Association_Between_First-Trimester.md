@@ -1,5 +1,5 @@
 ## タイトル
-Association Between First-Trimester Subchorionic Hematomas and Adverse Pregnancy Outcomes After 20 Weeks of Gestation in Singleton Pregnancies
+Association Between First-Trimester Subchorionic Hematomas and Adverse Pregnancy Outcomes After 20 Weeks of Gestation in Singleton Pregnancies  
 単胎妊娠における妊娠第1期の絨毛膜下血腫と妊娠20週以降の妊娠有害転帰との関連
 
 ## 著者/所属機関
