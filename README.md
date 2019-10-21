@@ -441,6 +441,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 # [BMJ](BMJ)
 ## 2019
+### [October](BMJ/Oct2019)
+* 16 October 2019  
+[Association of early postnatal transfer and birth outside a tertiary hospital with mortality and severe brain injury in extremely preterm infants: observational cohort study with propensity score matching  
+早産児における出生後早期の搬送および三次施設以外での出生と死亡率および重度の脳損傷との関連：傾向スコアマッチングによる観察コホート研究](BMJ/Oct2019/Association_of_early.md)
 ### [September](BMJ/Sep2019)
 * 09 September 2019  
 [Diagnosis and management of hypertension in pregnancy: summary of updated NICE guidance  
