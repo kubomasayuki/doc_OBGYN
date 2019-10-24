@@ -92,6 +92,10 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * June 07, 2019  
 [Transvaginal ultrasound is superior to transabdominal ultrasound in the identification of a short cervix  
 経膣超音波検査は、短い子宮頸管長(short cervix)の同定において経腹部超音波検査よりも優れています](AJOG/Jun2019/Transvaginal_ultrasound_is.md)
+### [May](AJOG/May2019)
+* May 30, 2019  
+[A Core Outcome Set for the prevention and treatment of fetal GROwth restriction: deVeloping Endpoints: the COSGROVE study
+胎児発育不全の予防と治療のためのコアアウトカムセット：エンドポイントの開発：COSGROVEスタディ](AJOG/May2019/A_Core_Outcome.md)
 ### [April](AJOG/Apr2019)
 * April 30, 2019  
 [A pharmacokinetic assessment of optimal dosing, preparation, and chronotherapy of aspirin in pregnancy  
