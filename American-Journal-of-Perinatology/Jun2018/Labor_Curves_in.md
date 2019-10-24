@@ -8,9 +8,9 @@ Labor Curves in Multiparous Women Related to Interbirth Intervals
 10.1055/s-0038-1660469
 
 ## 投稿日付
-received 20 December 2017  
-accepted after revision 02 May 2018  
-published online 19 June 2018  
+received December 20, 2017  
+accepted after revision May 02, 2018  
+published online June 19, 2018
 
 ## 概要
 ### 目的
