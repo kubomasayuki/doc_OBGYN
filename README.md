@@ -353,6 +353,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * August 15, 2018  
 [Antenatal Magnesium Sulfate Exposure and Ponderal Index in Preterm Infants  
 早産児における出生前硫酸マグネシウム曝露とポンデラル指数](American-Journal-of-Perinatology/Aug2018/Antenatal_Magnesium_Sulfate.md)
+### [June](American-Journal-of-Perinatology/Jun2018)
+* June 19, 2018  
+[Labor Curves in Multiparous Women Related to Interbirth Intervals  
+出産間隔に関連した経産婦の分娩曲線](American-Journal-of-Perinatology/Jun2018/Labor_Curves_in.md)
 
 # [ANZJOG](ANZJOG)
 ## 2019
