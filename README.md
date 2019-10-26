@@ -807,6 +807,9 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 [Macrosomia- Is There a Role for Early Delivery?  
 巨大児- 早期娩出の必要性はあるか？](ObGProject/OB/Macrosomia_Is_There.md)
 ## [GRAND ROUNDS](ObGProject/GRANDROUNDS)
+* October 23, 2019  
+[Does Breastfeeding Reduce the Risk of Maternal Diabetes and Hypertension?
+授乳は母親の糖尿病や高血圧のリスクを減らすか？](ObGProject/GRANDROUNDS/Does_Breastfeeding_Reduce.md)
 * July 18, 2019  
 [The Latest ACC/ AHA BP Category Guidelines and Risk of Hypertensive Disorders of Pregnancy  
 最新のACC / AHA BPカテゴリーガイドラインと妊娠性高血圧障害のリスク](ObGProject/GRANDROUNDS/The_Latest_ACC.md)
