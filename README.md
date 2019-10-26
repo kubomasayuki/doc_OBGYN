@@ -96,6 +96,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * May 29, 2019  
 [A Core Outcome Set for the prevention and treatment of fetal GROwth restriction: deVeloping Endpoints: the COSGROVE study
 胎児発育不全の予防と治療のためのコアアウトカムセット：エンドポイントの開発：COSGROVEスタディ](AJOG/May2019/A_Core_Outcome.md)
+* May 29, 2019  
+[Evaluation of fetal exposure to external loud noise using a sheep model: quantification of in utero acoustic transmission across the human audio range  
+ヒツジを使用した胎仔の外部騒音からの暴露の評価：人間の可聴領域にわたる子宮内音響伝達の定量化](AJOG/May2019/Evaluation_of_fetal.md)
 ### [April](AJOG/Apr2019)
 * April 30, 2019  
 [A pharmacokinetic assessment of optimal dosing, preparation, and chronotherapy of aspirin in pregnancy  
