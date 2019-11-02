@@ -426,6 +426,11 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 20 November 2018  
 [Prognosis of the co‐twin following spontaneous single intrauterine fetal death in twin pregnancies: a systematic review and meta‐analysis  
 双胎妊娠における一方の児が死亡した場合のもう一方の児の予後：系統的レビューとメタアナリシス](BJOG/Nov2018/Prognosis_of_the.md)
+## 2015
+### [October](BJOG/Oct2015)
+* 28 October 2015  
+[Transvaginal ultrasound cervical length for prediction of spontaneous labour at term: a systematic review and meta‐analysis  
+満期の自然分娩の予測のための経膣超音波頸管長：系統的レビューとメタ分析](BJOG/Oct2015/Transvaginal_ultrasound_cervical.md)
 ## 2012
 ### [July](BJOG/Jul2012)
 * 25 July 2012  
