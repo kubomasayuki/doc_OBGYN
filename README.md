@@ -58,7 +58,7 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * September 28, 2019  
 [Prospective evaluation of screening performance of first trimester prediction models for preterm preeclampsia in Asian population
 アジア人集団における早期妊娠高血圧腎症の妊娠第1期予測モデルのスクリーニング性能の前向き評価](AJOG/Oct2019/Prospective_evaluation_of.md)
-* September 28, 2019  
+* September 4, 2019  
 [Prediction of spontaneous vaginal delivery in nulliparous women with a prolonged second stage of labor: the value of intrapartum ultrasound  
 分娩第2期が延長した初産女性における自然経膣分娩の予測：分娩時超音波の価値](AJOG/Oct2019/Prediction_of_spontaneous.md)
 ### [September](AJOG/Sep2019)
