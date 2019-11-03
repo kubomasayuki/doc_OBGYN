@@ -23,6 +23,7 @@
 * [International-Journal-of-Obstetrics-Anesthesia](#International-Journal-of-Obstetrics-Anesthesia)
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
+* [Journal_of_Perinatology](#Journal_of_Perinatology)
 * [JKMS](#JKMS)
 * [Lancet](#Lancet)
 * [Medscape](#Medscape)
@@ -738,6 +739,13 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 * February 25, 2019  
 [Associations of Maternal Diabetes and Body Mass Index With Offspring Birth Weight and Prematurity  
 母親の糖尿病およびBMIと子供の出生時体重および未熟児の関連](JAMA-Network/Feb2019/Associations_of_Maternal.md)
+
+# [Journal_of_Perinatology](Journal_of_Perinatology)
+## 2019
+### [August](Journal_of_Perinatology/Aug2019)
+* 05 August 2019  
+[Treating infants with neonatal abstinence syndrome: an examination of three protocols  
+新生児薬物離脱症候群の乳児の治療：3つのプロトコルの検査](Journal_of_Perinatology/Aug2019/Treating_infants_with.md)
 
 # [JKMS](JKMS)
 ## 2019
