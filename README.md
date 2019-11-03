@@ -574,6 +574,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * October 1, 2019  
 [A Postpartum Remote Hypertension Monitoring Protocol Implemented at the Hospital Level  
 病院レベルで実装された産後遠隔高血圧モニタリングプロトコル](GreenJournal/Oct2019/A_Postpartum_Remote.md)
+* October 1, 2019  
+[Detailed Fetal Anatomic Ultrasound Examination Duration and Association With Body Mass Index
+詳細な胎児の解剖学的超音波検査の時間とボディマス指数との関連](GreenJournal/Oct2019/Detailed_Fetal_Anatomic.md)
+
 ### [September](GreenJournal/Sep2019)
 * September 1, 2019  
 [Externally Validated Score to Predict Cesarean Delivery After Labor Induction With Cervical Ripening  
