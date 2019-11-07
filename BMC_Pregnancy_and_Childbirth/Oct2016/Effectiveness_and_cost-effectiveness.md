@@ -1,6 +1,6 @@
 ## タイトル
 Effectiveness and cost-effectiveness of routine third trimester ultrasound screening for intrauterine growth restriction: study protocol of a nationwide stepped wedge cluster-randomized trial in The Netherlands (The IRIS Study)  
-子宮内発育不全に対する妊娠第3期の定期的な超音波スクリーニングの有効性と費用対効果：オランダの全国段階的ウェッジクラスター無作為化試験の研究プロトコル（IRIS研究）。
+子宮内発育不全に対する妊娠第3期の定期的な超音波スクリーニングの有効性と費用対効果：オランダの全国段階的ウェッジクラスター無作為化試験の研究プロトコル（IRIS研究）
 
 ## 著者/所属機関
 
