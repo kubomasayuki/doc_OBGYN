@@ -578,7 +578,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * October 1, 2019  
 [Detailed Fetal Anatomic Ultrasound Examination Duration and Association With Body Mass Index
 詳細な胎児の解剖学的超音波検査の時間とボディマス指数との関連](GreenJournal/Oct2019/Detailed_Fetal_Anatomic.md)
-
+* October 1, 2019  
+[Exploring Inflammatory Mediators in Fetal and Maternal Compartments During Human Parturition
+ヒトの分娩中の胎児および母体区画における炎症性メディエーターの探索](GreenJournal/Oct2019/Exploring_Inflammatory_Mediators.md)
 ### [September](GreenJournal/Sep2019)
 * September 1, 2019  
 [Externally Validated Score to Predict Cesarean Delivery After Labor Induction With Cervical Ripening  
