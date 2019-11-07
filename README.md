@@ -527,6 +527,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 # [CMAJ](CMAJ)
 ## 2019
+### [October](CMAJ/Oct2019)
+* April 15, 2019  
+[Episiotomy use among vaginal deliveries and the association with anal sphincter injury: a population-based retrospective cohort study  
+経膣分娩時の会陰切開の実施と肛門括約筋損傷との関連：集団ベースの後ろ向きコホート研究](CMAJ/Oct2019/Episiotomy_use_among.md)
 ### [April](CMAJ/Apr2019)
 * April 15, 2019  
 [Gestational diabetes associated with incident diabetes in childhood and youth: a retrospective cohort study  
@@ -534,7 +538,7 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 ### [February](CMAJ/Feb2019)
 * February 18, 2019  
 [Associations between low- and high-dose oral fluconazole and pregnancy outcomes: 3 nested case–control studies
-低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Associations_between_low.md)
+低用量および高用量の経口フルコナゾールと妊娠転帰との関連性：3つのネスト症例対照研究](CMAJ/Feb2019/Associations_between_low.md)
 
 # [Cochrane](Cochrane)
 ## 2019
