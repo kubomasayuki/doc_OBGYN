@@ -1043,6 +1043,11 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * March 24, 2019  
 [Novel Approach for 2-Port Laparoscopic Hysterectomy  
 2ポート腹腔鏡下子宮摘出術のための新しいアプローチ](SAGE-Journals/Mar2019/Novel_Approach_for.md)
+## 2012
+### [December](SAGE-Journals/Dec2012)
+* December 4, 2012  
+[Accuracy and Reliability of Uterine Contraction Identification Using Abdominal Surface Electrodes  
+腹壁電極を使用した子宮収縮識別の正確性と信頼性](SAGE-Journals/Dec2012/Accuracy_and_Reliability.md)
 
 # [Science-Translational-Medicine](Science-Translational-Medicine)
 ## 2019
