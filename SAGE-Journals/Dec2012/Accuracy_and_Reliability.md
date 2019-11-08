@@ -23,4 +23,4 @@ First Published December 4, 2012
 電気子宮造影法は、分娩中の子宮収縮の検出において、より信頼性が高く、正確性がトコダイナモメトリーに類似していた。
 
 ### 図1. 電極
-![Figure.1](Accuracy_fig1.jpg)
+![Figure.1](Accuracy_fig1.png)
