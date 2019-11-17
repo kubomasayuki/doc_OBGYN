@@ -732,6 +732,10 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 
 # [JAMA-Network](JAMA-Network)
 ## 2019
+### [October](JAMA-Network/Oct2019)
+* October 28, 2019  
+[Association of Widespread Adoption of the 39-Week Rule With Overall Mortality Due to Stillbirth and Infant Death  
+死産および乳児死亡による全体的な死亡率と39週ルールの普及の相関](JAMA-Network/Oct2019/Association_of_Widespread.md)
 ### [August](JAMA-Network/Aug2019)
 * August 23, 2019  
 [Association of Maternal Age With Severe Maternal Morbidity and Mortality in Canada  
