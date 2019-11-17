@@ -287,6 +287,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [American-Journal-of-Perinatology](American-Journal-of-Perinatology)
 ## 2019
+### [October](American-Journal-of-Perinatology/Oct2019)
+* October 25, 2019  
+[17-OHPC to Prevent Recurrent Preterm Birth in Singleton Gestations (PROLONG Study): A Multicenter, International, Randomized Double-Blind Trial  
+単胎妊娠における早産の再発を防ぐ17-OHPC（PROLONG研究）：多施設、国際、無作為化二重盲検研究](American-Journal-of-Perinatology/Oct2019/17-OHPC_to_Prevent.md)
 ### [May](American-Journal-of-Perinatology/May2019)
 * May 14, 2019  
 [Effect of Implementing Quantitative Blood Loss Assessment at the Time of Delivery  
