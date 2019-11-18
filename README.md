@@ -98,6 +98,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 経膣超音波検査は、短い子宮頸管長(short cervix)の同定において経腹部超音波検査よりも優れています](AJOG/Jun2019/Transvaginal_ultrasound_is.md)
 ### [May](AJOG/May2019)
 * May 29, 2019  
+[Learning curve of robot-assisted laparoscopic sacrocolpo(recto)pexy: a cumulative sum analysis  
+ロボット支援下における腹腔鏡下骨盤底手術の学習曲線：累積和分析](AJOG/May2019/Learning_curve_of.md)
+* May 29, 2019  
 [A Core Outcome Set for the prevention and treatment of fetal GROwth restriction: deVeloping Endpoints: the COSGROVE study
 胎児発育不全の予防と治療のためのコアアウトカムセット：エンドポイントの開発：COSGROVEスタディ](AJOG/May2019/A_Core_Outcome.md)
 * May 29, 2019  
