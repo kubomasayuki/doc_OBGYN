@@ -106,6 +106,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * May 29, 2019  
 [Evaluation of fetal exposure to external loud noise using a sheep model: quantification of in utero acoustic transmission across the human audio range  
 ヒツジを使用した胎仔の外部騒音からの暴露の評価：人間の可聴領域にわたる子宮内音響伝達の定量化](AJOG/May2019/Evaluation_of_fetal.md)
+* May 29, 2019  
+[Progestogens for the prevention of preterm birth and risk of developing gestational diabetes mellitus: a meta-analysis  
+早産の予防のためのプロゲステロンと妊娠糖尿病を発症するリスク：メタ分析](AJOG/May2019/Progestogens_for_the.md)
 ### [April](AJOG/Apr2019)
 * April 30, 2019  
 [A pharmacokinetic assessment of optimal dosing, preparation, and chronotherapy of aspirin in pregnancy  
