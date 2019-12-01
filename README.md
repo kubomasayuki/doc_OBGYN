@@ -322,6 +322,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 * February 22, 2019  
 [Change in Cervical Length across Pregnancies and Preterm Delivery  
 妊娠と早産による子宮頸管長の変化](American-Journal-of-Perinatology/Feb2019/Change_in_Cervical.md)
+### [January](American-Journal-of-Perinatology/Jan2019)
+* January 23, 2019  
+[A Genome-Wide Analysis of Clinical Chorioamnionitis among Preterm Infants  
+早産児における臨床的絨毛羊膜炎のゲノムワイド分析](American-Journal-of-Perinatology/Jan2019/A_Genome-Wide_Analysis.md)
 ## 2018
 ### [December](American-Journal-of-Perinatology/Dec2018)
 * December 24, 2018  
