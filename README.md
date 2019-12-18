@@ -47,6 +47,11 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 医学的な兆候のある後期早産および早期正期産](ACOG/co764.md)
 
 # [ACTA](ACTA)
+## 2019
+### [November](ACTA/Nov2019)
+* 5 November 2019  
+[The predictive value of cervical shear wave elastography in the outcome of labor induction  
+分娩誘発の転帰における経腟超音波エラストグラフィの予測値](ACTA/Nov2019/The_predictive_value.md)
 ## 2012
 ### [March](ACTA/Mar2012)
 * 12 March 2012  
