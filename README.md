@@ -74,6 +74,9 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 * September 20, 2019  
 [Early amniotomy for induction of labor: a trial sequential analysis  
 分娩誘発としての早期人工破膜：試験逐次解析](AJOG/Sep2019/Early_amniotomy_for.md)
+* September 20, 2019  
+[The impact of induction of labor at 39 weeks in low-risk women on the incidence of stillbirth  
+死産の発生率に対する低リスク女性の39週での分娩誘発の影響](AJOG/Sep2019/The_impact_of.md)
 ### [August](AJOG/Aug2019)
 * August 19, 2019  
 [Inherited susceptibility to miscarriage: a nested case-control study of 31,565 women from an intergenerational cohort  
