@@ -67,7 +67,8 @@ Medically Indicated Late-Preterm and Early-Term Deliveries
 [Contemporary Patterns of Labor in nulliparous and multiparous women  
 初産および経産の女性における分娩の現代的パターン](AJOG/Sep2019/Contemporary_Patterns_of.md)
 * September 20, 2019  
-[Early amniotomy for induction of labor: a trial sequential analysis](AJOG/Sep2019/Early_amniotomy_for.md)
+[Early amniotomy for induction of labor: a trial sequential analysis  
+分娩誘発としての早期人工破膜：試験逐次解析](AJOG/Sep2019/Early_amniotomy_for.md)
 ### [August](AJOG/Aug2019)
 * August 19, 2019  
 [Inherited susceptibility to miscarriage: a nested case-control study of 31,565 women from an intergenerational cohort  
