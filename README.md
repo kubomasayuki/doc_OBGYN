@@ -42,12 +42,12 @@
 
 
 # [ACOG-Comittee-Opinion](ACOG)
-* [Number 684  
-Delayed Umbilical Cord Clamping After Birth  
-出生後の遅延臍帯結紮](ACOG/co684.md)
 * [Number 764  
 Medically Indicated Late-Preterm and Early-Term Deliveries  
 医学的な兆候のある後期早産および早期正期産](ACOG/co764.md)
+* [Number 684  
+Delayed Umbilical Cord Clamping After Birth  
+出生後の遅延臍帯結紮](ACOG/co684.md)
 
 # [ACTA](ACTA)
 ## 2019
