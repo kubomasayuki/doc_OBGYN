@@ -597,6 +597,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 ## [Green-Journal](GreenJournal)
 ## 2019
 ### [November](GreenJournal/Nov2019)
+* November 4, 2019  
+[Subsequent Pregnancy Outcomes After Failed Vacuum-Assisted Delivery  
+吸引分娩の失敗後の妊娠転帰](GreenJournal/Nov2019/Subsequent_Pregnancy_Outcomes.md)
 * November 1, 2019  
 [Association Between Stillbirth at 23 Weeks of Gestation or Greater and Severe Maternal Morbidity  
 妊娠23週かそれ以上での死産および重度の母親の罹患率との関連](GreenJournal/Nov2019/Association_Between_Stillbirth.md)
