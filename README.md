@@ -64,7 +64,7 @@ Delayed Umbilical Cord Clamping After Birth
 # [AJOG](AJOG)
 ## 2019
 ### [October](AJOG/Oct2019)
-* October 28, 2019  
+* October 4, 2019  
 [Prospective evaluation of screening performance of first trimester prediction models for preterm preeclampsia in Asian population
 アジア人集団における早期妊娠高血圧腎症の妊娠第1期予測モデルのスクリーニング性能の前向き評価](AJOG/Oct2019/Prospective_evaluation_of.md)
 * October 4, 2019  
