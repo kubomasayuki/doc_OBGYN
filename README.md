@@ -599,6 +599,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 ## [Green-Journal](GreenJournal)
 ## 2019
+### [December](GreenJournal/Dec2019)
+* December 3, 2019  
+[Pregnancy Outcomes in Patients With Prior Uterine Rupture or Dehiscence  
+子宮破裂の既往がある患者の妊娠転帰](GreenJournal/Dec2019/Pregnancy_Outcomes_in.md)
 ### [November](GreenJournal/Nov2019)
 * November 4, 2019  
 [Subsequent Pregnancy Outcomes After Failed Vacuum-Assisted Delivery  
