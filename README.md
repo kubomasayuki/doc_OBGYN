@@ -605,6 +605,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 子宮破裂の既往がある患者の妊娠転帰](GreenJournal/Dec2019/Pregnancy_Outcomes_in.md)
 ### [November](GreenJournal/Nov2019)
 * November 4, 2019  
+[A Framework for Improving Characterization of Obstetric Hemorrhage Using Informatics Data  
+インフォマティクスデータを使用した産科出血の特徴評価を改善するためのフレームワーク](GreenJournal/Nov2019/A_Framework_for.md)
+* November 4, 2019  
 [Subsequent Pregnancy Outcomes After Failed Vacuum-Assisted Delivery  
 吸引分娩の失敗後の妊娠転帰](GreenJournal/Nov2019/Subsequent_Pregnancy_Outcomes.md)
 * November 1, 2019  
