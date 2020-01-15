@@ -597,7 +597,7 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 [Association between blood manganese level during pregnancy and birth size: The Japan environment and children's study (JECS)  
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
 
-## [Green-Journal](GreenJournal)
+# [Green-Journal](GreenJournal)
 ## 2019
 ### [December](GreenJournal/Dec2019)
 * December 3, 2019  
