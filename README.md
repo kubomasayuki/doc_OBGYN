@@ -97,6 +97,9 @@ Delayed Umbilical Cord Clamping After Birth
 * July 22, 2019  
 [The effect of placental location in cases of placenta accreta spectrum  
 癒着胎盤スペクトラムにおける胎盤位置の影響](AJOG/Jul2019/The_effect_of.md)
+* July 13, 2019  
+[Planned vaginal delivery and cardiovascular morbidity in pregnant women with heart disease  
+心臓病の妊婦における計画的経膣分娩と心血管の罹患率](AJOG/Jul2019/Planned_vaginal_delivery.md)
 ### [June](AJOG/Jun2019)
 * June 27, 2019  
 [Blood pressure trajectory and category and risk of hypertensive disorders of pregnancy in nulliparous women  
