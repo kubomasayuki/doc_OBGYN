@@ -408,6 +408,10 @@ AMAG PharmaceuticalsはMAKENA®（ヒドロキシプロゲステロンカプロ�
 
 # [BJOG](BJOG)
 ## 2019
+### [November](BJOG/Nov2019)
+* 24 November 2019  
+[The effect of delayed umbilical cord clamping on cord blood gas analysis in vaginal and caesarean‐delivered term newborns without fetal distress: a prospective observational study  
+胎児仮死を伴わない経膣分娩および帝王切開分娩における新生児の臍帯血ガス分析に及ぼす遅延臍帯結紮の影響：前向き観察研究](BJOG/Nov2019/The_effect_of.md)
 ### [September](BJOG/Sep2019)
 * 04 September 2019  
 [Massive blood transfusion in relation to delivery: incidence, trends, and risk factors: a population‐based cohort study  
