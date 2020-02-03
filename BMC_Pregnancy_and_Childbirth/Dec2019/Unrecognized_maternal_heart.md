@@ -78,15 +78,20 @@ Published: 16 December 2019
     * 信号が曖昧であることを検出する技術の有効化(16例)
     * 信号が曖昧である場合の警告への対応の改善(10例)
     * 29症例(25％)で上記の推奨事項の1つ以上が含まれていた
-![Table.1]()
+
+![Table.1](Unrecognized_tab1.png)
+
+*
+
 周産期死亡の47例は、
 心電図検査開始前の分娩前胎児死亡の14、
 心電図検査開始後の分娩時胎児死亡または新生児死亡の14、
 心電図開始の一時的な関係を含む19の母体心拍アーチファクトで同定されたそして、報告書から死を決定的に確定することはできません。
 29件のケースでは、母体の心拍数アーチファクトの診断および/または管理に関して製造業者からの推奨がありました。
 
-合計117件中25件の合計29件のケースで、これらの推奨事項の少なくとも1つが含まれています。 さまざまな胎児モニターからの報告がありました（表1）。
-for a total of 29 cases out of the total 117 (25%) with at least one of these recommendations. There were reports from a variety of different fetal monitors (Table 1).
+次に、母体の心拍数のアーチファクトが考えられる47のケースを分析しました（表2）。 繰り返しますが、製造業者から追加の措置を講じるべきであるという勧告または提案があったかなりの数のレポートが見つかりました：CTGモニタリングの前に胎児が生きていることを確認します（14レポート）、信号曖昧性テクノロジーをアクティブにします（14ケース） 信号のあいまいさ検出技術のアラーム（10件）への応答を改善し、これらの3つの推奨事項の少なくとも1つを使用して、47件中合計25件（53％）に対応します。 これは、MHRAに関する推奨事項はあるものの、イベントの説明ではMHRAの可能性が高いと結論付けるには不十分だった4つのケースがあったため、シリーズ全体からのこのような推奨事項を伴う29件の結果よりも少ないです。
+
+We then analyzed the 47 cases with probable maternal heart rate artefact (Table 2). Again, we found a substantial number of reports where there was a recommendation or suggestion from the manufacturer that additional steps should have been taken: verify the fetus is alive prior to CTG monitoring (14 reports), activate signal ambiguity technology (14 cases), improve response to signal ambiguity detection technology alarms (10 cases), for a total of 25 cases out of 47 (53%) with at least one of these three recommendations. This is less than our result of 29 cases with such a recommendation from the whole series because there were 4 cases where there was a recommendation regarding MHRA but where the description of the event was not sufficient for us to conclude it involved probable MHRA.
 
 ### 結論
 このケースシリーズは、
