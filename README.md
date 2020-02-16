@@ -110,6 +110,9 @@ Delayed Umbilical Cord Clamping After Birth
 * June 26, 2019  
 [Fetal growth patterns in pregnancy-associated hypertensive disorders: NICHD Fetal Growth Studies  
 妊娠に関連する高血圧症における胎児成長パターン：NICHDの胎児成長研究](AJOG/Jun2019/Fetal_growth_patterns.md)
+* June 22, 2019  
+[First stage of labor progression in women with large-for-gestational age infants  
+LGA児を持つ女性の分娩第1期](AJOG/Jun2019/First_stage_of.md)
 * June 20, 2019  
 [Validation of a new method to assess estimated blood loss in the obstetric population undergoing cesarean delivery  
 帝王切開を受けた人の推定失血を評価する新しい検証方法](AJOG/Jun2019/Validation_of_a.md)
