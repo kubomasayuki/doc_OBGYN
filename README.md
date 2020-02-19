@@ -588,6 +588,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 # [Cochrane](Cochrane)
 ## 2019
+### [October](Cochrane/Oct2019)
+* 18 October 2019  
+[Mechanical methods for induction of labour  
+分娩誘発における器械的方法](Cochrane/Oct2019/Mechanical_methods_for.md)
 ### [September](Cochrane/Sep2019)
 * 17 September 2019  
 [Effect of timing of umbilical cord clamping and other strategies to influence placental transfusion at preterm birth on maternal and infant outcomes  
