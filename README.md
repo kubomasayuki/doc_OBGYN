@@ -588,6 +588,10 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 
 # [Cochrane](Cochrane)
 ## 2019
+### [September](Cochrane/Sep2019)
+* 17 September 2019  
+[Effect of timing of umbilical cord clamping and other strategies to influence placental transfusion at preterm birth on maternal and infant outcomes  
+臍帯結紮のタイミングやその他の方法による胎盤からの血液移行（胎盤輸血）が、早期産児と母体のアウトカムに及ぼす効果](Cochrane/Sep2019/Effect_of_timing.md)
 ### [April](Cochrane/Apr2019)
 * 29 April 2019  
 [Prophylactic oxytocin for the third stage of labour to prevent postpartum haemorrhage  
