@@ -794,6 +794,10 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 
 # [JAMA-Network](JAMA-Network)
 ## 2019
+### [December](JAMA-Network/Dec2019)
+* December 27, 2019  
+[Association of Periconception Paternal Body Mass Index With Persistent Changes in DNA Methylation of Offspring in Childhood
+小児期のDNAメチル化における持続的な変化と受胎前後の父体BMIの関連](JAMA-Network/Dec2019/Association_of_Periconception.md)
 ### [October](JAMA-Network/Oct2019)
 * October 28, 2019  
 [Association of Widespread Adoption of the 39-Week Rule With Overall Mortality Due to Stillbirth and Infant Death  
