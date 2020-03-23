@@ -84,6 +84,9 @@ Delayed Umbilical Cord Clamping After Birth
 * September 20, 2019  
 [The impact of induction of labor at 39 weeks in low-risk women on the incidence of stillbirth  
 死産の発生率に対する低リスク女性の39週での分娩誘発の影響](AJOG/Sep2019/The_impact_of.md)
+* September 11, 2019  
+[Mothers with long QT syndrome are at increased risk for fetal death: findings from a multicenter international study  
+母親のQT延長症候群は胎児死亡のリスクが高い：多施設国際研究からの発見](AJOG/Sep2019/Mothers_with_long.md)
 ### [August](AJOG/Aug2019)
 * August 19, 2019  
 [Inherited susceptibility to miscarriage: a nested case-control study of 31,565 women from an intergenerational cohort  
