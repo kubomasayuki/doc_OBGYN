@@ -1,5 +1,6 @@
 * [ACOG-Comittee-Opinion](#ACOG-Comittee-Opinion)
 * [ACTA](#ACTA)
+* [AIMS_Press_MathematicalBiosciences_and_Engineering](#AIMS_Press_MathematicalBiosciences_and_Engineering)
 * [AJOG](#AJOG)
 * [AJUM](#AJUM)
 * [AMAG-Pharmaceuticals](#AMAG-Pharmaceuticals)
@@ -61,6 +62,13 @@ Delayed Umbilical Cord Clamping After Birth
 * 12 March 2012  
 [An overlooked aspect on metabolic acidosis at birth: bloodgas analyzers calculate base deﬁcit differently
 出生時の代謝性アシドーシスに関する見落とされた側面：血液ガス分析装置は異なる方法で塩基欠乏を計算する](ACTA/Mar2012/An_overlooked_aspect.md)
+
+# [AIMS_Press_MathematicalBiosciences_and_Engineering](AIMS_Press_MBE)
+## 2019
+### [October](AIMS_Press_MBE/Oct2019)
+* 09 October 2019  
+[Systematic analysis of single- and multi-reference adaptive filters for non-invasive fetal electrocardiography  
+非侵襲胎児心電図検査のための単一および複数の参照信号適応フィルタの系統的分析](AIMS_Press_MBE/Oct2019/Systematic_analysis_of.md)
 
 # [AJOG](AJOG)
 ## 2019
