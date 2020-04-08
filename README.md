@@ -71,6 +71,11 @@ Delayed Umbilical Cord Clamping After Birth
 非侵襲胎児心電図検査のための単一および複数の参照信号適応フィルタの系統的分析](AIMS_Press_MBE/Oct2019/Systematic_analysis_of.md)
 
 # [AJOG](AJOG)
+## 2020
+### [January](AJOG/Jan2020)
+* January 6, 2020  
+[Uterine balloon tamponade for the treatment of postpartum hemorrhage: a systematic review and meta-analysis  
+産後出血の治療のための子宮バルーンタンポナーデ：系統的レビューとメタ分析](AJOG/Jan2020/Uterine_balloon_tamponade.md)
 ## 2019
 ### [October](AJOG/Oct2019)
 * October 4, 2019  
