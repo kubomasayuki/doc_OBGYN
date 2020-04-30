@@ -640,6 +640,11 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
 
 # [Green-Journal](GreenJournal)
+## 2020
+### [March](GreenJournal/Mar2020)
+* March 1, 2020  
+[Effect of Delayed Cord Clamping on Umbilical Blood Gas Values in Term Newborns: A Systematic Review  
+正期産新生児における臍帯血ガス値から見る遅延臍帯結紮の影響：系統的レビュー](GreenJournal/Mar2020/Effect_of_Delayed.md)
 ## 2019
 ### [December](GreenJournal/Dec2019)
 * December 3, 2019  
