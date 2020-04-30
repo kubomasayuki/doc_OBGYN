@@ -645,6 +645,9 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * March 1, 2020  
 [Effect of Delayed Cord Clamping on Umbilical Blood Gas Values in Term Newborns: A Systematic Review  
 正期産新生児における臍帯血ガス値から見る遅延臍帯結紮の影響：系統的レビュー](GreenJournal/Mar2020/Effect_of_Delayed.md)
+* March 1, 2020  
+[Umbilical Cord Abnormalities and Stillbirth  
+臍帯の異常と死産](GreenJournal/Mar2020/Umbilical_Cord_Abnormalities.md)
 ## 2019
 ### [December](GreenJournal/Dec2019)
 * December 3, 2019  
