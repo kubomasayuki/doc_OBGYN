@@ -8,9 +8,9 @@ Effect of Delayed Cord Clamping on Umbilical Blood Gas Values in Term Newborns: 
 10.1097/AOG.0000000000003663
 
 ## 投稿日付
-Originally published: March 2020
-Received: September 2, 2019
-Revision Received: October 25, 2019
+Originally published: March 2020  
+Received: September 2, 2019  
+Revision Received: October 25, 2019  
 Accepted: November 7, 2019
 
 ## 概要
