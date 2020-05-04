@@ -912,6 +912,13 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 [New Evidence Shows Antibiotics Cut Risk After Vaginal Birth  
 抗生物質が経膣分娩後のリスクを減らすことを示す新しい根拠](Medscape/Jun2019/New_Evidence_Shows.md)
 
+# [NationalInstituteforHealthResearch](NationalInstituteforHealthResearch)
+## 2018
+### [February](NationalInstituteforHealthResearch/Feb2018)
+* 1 February 2018  
+[Computerised interpretation of the fetal heart rate during labour: a randomised controlled trial (INFANT)  
+分娩中の胎児心拍数のコンピュータによる解釈：無作為化比較試験（INFANT）](NationalInstituteforHealthResearch/Feb2018/Computerised_interpretation_of.md)
+
 # [NEJM](NEJM)
 ## 2019
 ### [May](NEJM/May2019)
