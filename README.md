@@ -72,6 +72,10 @@ Delayed Umbilical Cord Clamping After Birth
 
 # [AJOG](AJOG)
 ## 2020
+### [April](AJOG/Apr2020)
+* April 28, 2020  
+[Successful use of an artificial placenta-based life support system to treat extremely preterm ovine fetuses compromised by intrauterine inflammation.  
+子宮内炎症によって損なわれた超早産のヒツジ胎仔を治療するための人工胎盤ベースの生命維持システムの使用の成功。](AJOG/Apr2020/Successful_use_of.md)
 ### [January](AJOG/Jan2020)
 * January 6, 2020  
 [Uterine balloon tamponade for the treatment of postpartum hemorrhage: a systematic review and meta-analysis  
