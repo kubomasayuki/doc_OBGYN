@@ -645,11 +645,11 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
 
 # [EJOG](EJOG)
-## 2016
-### [April](EJOG/Apr2016)
-* April 18, 2016  
+## 2018
+### [April](EJOG/Apr2018)
+* April 16, 2018  
 [Predicting umbilical artery pH during labour: Development and validation of a nomogram using fetal heart rate patterns  
-分娩時の臍帯動脈血pH値の予測：胎児心拍数パターンを使用したノモグラムの作成と検証](EJOG/Apr2016/Predicting_umbilical_artery.md)
+分娩時の臍帯動脈血pH値の予測：胎児心拍数パターンを使用したノモグラムの作成と検証](EJOG/Apr2018/Predicting_umbilical_artery.md)
 
 # [Green-Journal](GreenJournal)
 ## 2020
