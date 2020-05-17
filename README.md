@@ -19,6 +19,7 @@
 * [Cochrane](#Cochrane)
 * [EClinicalMedicine](#EClinicalMedicine)
 * [Environmental-Research](#EnvironmentalResearch)
+* [EJOG](#EJOG)
 * [Green-Journal](#Green-Journal)
 * [HeadacheJournal](#HeadacheJournal)
 * [Hindawi](#Hindawi)
@@ -642,6 +643,13 @@ QUiPP予測アルゴリズムが早産の女性の治療決定に及ぼす影響
 * 08 February 2019  
 [Association between blood manganese level during pregnancy and birth size: The Japan environment and children's study (JECS)  
 妊娠中の血中マンガン濃度と出生サイズの関係：日本の環境と子供の研究（JECS）](EnvironmentalResearch/Association_between_blood.md)
+
+# [EJOG](EJOG)
+## 2016
+### [April](EJOG/Apr2016)
+* April 18, 2016  
+[Predicting umbilical artery pH during labour: Development and validation of a nomogram using fetal heart rate patterns  
+分娩時の臍帯動脈血pH値の予測：胎児心拍数パターンを使用したノモグラムの作成と検証](EJOG/Apr2016/Predicting_umbilical_artery.md)
 
 # [Green-Journal](GreenJournal)
 ## 2020
