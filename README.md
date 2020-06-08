@@ -1147,6 +1147,11 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * April 16, 2018  
 [ST waveform analysis for monitoring hypoxic distress in fetal sheep after prolonged umbilical cord occlusion
 長時間の臍帯閉塞後の胎仔ヒツジにおける低酸素仮死を監視するためのST波形解析](PLOS_ONE/Apr2018/ST_waveform_analysis.md)
+## 2016
+### [January](PLOS_ONE/Jan2016)
+* January 28, 2016  
+[Relevant Obstetric Factors for Cerebral Palsy: From the Nationwide Obstetric Compensation System in Japan  
+脳性麻痺の関連産科因子：日本における産科医療補償制度から](PLOS_ONE/Jan2016/Relevant_Obstetric_Factors.md)
 
 # [PRENATAL-DIAGNOSIS](PRENATAL-DIAGNOSIS)
 ## 2019
