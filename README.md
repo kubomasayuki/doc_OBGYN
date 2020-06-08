@@ -33,6 +33,7 @@
 * [NEJM](#NEJM)
 * [NEPHROLOGY](#NEPHROLOGY)
 * [ObGProject](#ObGProject)
+* [Obstetrics_and_Gynaecology_Research](#Obstetrics_and_Gynaecology_Research)
 * [PLOS_ONE](#PLOS_ONE)
 * [PRENATAL-DIAGNOSIS](#PRENATAL-DIAGNOSIS)
 * [Procedia_Computer_Science](#Procedia_Computer_Science)
@@ -1140,6 +1141,13 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 * April 1, 2019  
 [ACC / AHA Guideline Recommends Against Low Dose Aspirin Beyond Age of 70 for Primary CVD Prevention  
 一次CVD予防のための70歳を超える低用量アスピリンに対するACC/AHAガイドラインの推奨事項](ObGProject/PrimaryCare/ACC_AHA_Guideline.md)
+
+# [Obstetrics_and_Gynaecology_Research](Obstetrics_and_Gynaecology_Research)
+## 2018
+### [January](Obstetrics_and_Gynaecology_Research/Jan2018)
+* 23 January 2018
+[Relevant obstetric factors associated with fetal heart rate monitoring for cerebral palsy in pregnant women with hypertensive disorder of pregnancy  
+妊娠高血圧症候群の妊婦における脳性麻痺児の胎児心拍数モニタリングに関連する関連する産科因子](Obstetrics_and_Gynaecology_Research/Jan2018/Relevant_obstetric_factors.md)
 
 # [PLOS_ONE](PLOS_ONE)
 ## 2018
