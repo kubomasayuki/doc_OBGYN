@@ -1145,7 +1145,7 @@ ACOG SMFMの推奨事項：医学的に複雑な妊娠の分娩時期](ObGProjec
 # [Obstetrics_and_Gynaecology_Research](Obstetrics_and_Gynaecology_Research)
 ## 2018
 ### [January](Obstetrics_and_Gynaecology_Research/Jan2018)
-* 23 January 2018
+* 23 January 2018  
 [Relevant obstetric factors associated with fetal heart rate monitoring for cerebral palsy in pregnant women with hypertensive disorder of pregnancy  
 妊娠高血圧症候群の妊婦における脳性麻痺児の胎児心拍数モニタリングに関連する関連する産科因子](Obstetrics_and_Gynaecology_Research/Jan2018/Relevant_obstetric_factors.md)
 
