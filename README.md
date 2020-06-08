@@ -74,6 +74,10 @@ Delayed Umbilical Cord Clamping After Birth
 
 # [AJOG](AJOG)
 ## 2020
+### [June](AJOG/Jun2020)
+* June 1, 2020  
+[Fetal Heart Rate Pattern in Term or Near-Term Cerebral Palsy: A Nationwide Cohort Study  
+満期または満期近くの脳性麻痺発症における胎児心拍数パターン：全国的なコホート研究](AJOG/Jun2020/Fetal_Heart_Rate.md)
 ### [April](AJOG/Apr2020)
 * April 28, 2020  
 [Successful use of an artificial placenta-based life support system to treat extremely preterm ovine fetuses compromised by intrauterine inflammation.  
