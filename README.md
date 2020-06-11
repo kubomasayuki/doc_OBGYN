@@ -78,6 +78,10 @@ Delayed Umbilical Cord Clamping After Birth
 * June 1, 2020  
 [Fetal Heart Rate Pattern in Term or Near-Term Cerebral Palsy: A Nationwide Cohort Study  
 満期または満期近くの脳性麻痺発症における胎児心拍数パターン：全国的なコホート研究](AJOG/Jun2020/Fetal_Heart_Rate.md)
+### [May](AJOG/May2020)
+* May 16, 2020  
+[Real-time data analysis using a machine learning model significantly improves prediction of successful vaginal deliveries  
+機械学習モデルを使用したリアルタイムデータ分析により、経膣分娩が成功するかの予測が大幅に改善される](AJOG/May2020/Real-time_data_analysis.md)
 ### [April](AJOG/Apr2020)
 * April 28, 2020  
 [Successful use of an artificial placenta-based life support system to treat extremely preterm ovine fetuses compromised by intrauterine inflammation.  
