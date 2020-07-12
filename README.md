@@ -27,6 +27,7 @@
 * [ISUOG](#ISUOG)
 * [JAMA-Network](#JAMA-Network)
 * [Journal_of_Perinatology](#Journal_of_Perinatology)
+* [Journal_of_Physiology](#Journal_of_Physiology)
 * [JKMS](#JKMS)
 * [Lancet](#Lancet)
 * [Medscape](#Medscape)
@@ -884,6 +885,13 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 * 05 August 2019  
 [Treating infants with neonatal abstinence syndrome: an examination of three protocols  
 新生児薬物離脱症候群の乳児の治療：3つのプロトコルの検査](Journal_of_Perinatology/Aug2019/Treating_infants_with.md)
+
+# [Journal_of_Physiology](Journal_of_Physiology)
+## 2019
+### [December](Journal_of_Physiology/Dec2019)
+* 04 December 2019  
+[First evidence that intrinsic fetal heart rate variability exists and is affected by hypoxic pregnancy  
+胎仔由来の心拍変動が存在し、妊娠中の低酸素により影響を受け変化するという最初のエビデンス](Journal_or_Physiology/Dec2019/First_evidence_that.md)
 
 # [JKMS](JKMS)
 ## 2019
