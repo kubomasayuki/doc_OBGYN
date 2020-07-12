@@ -891,7 +891,7 @@ LGAと死産：出生前検査の役割はありますか？](ISUOG/Oct2018/Larg
 ### [December](Journal_of_Physiology/Dec2019)
 * 04 December 2019  
 [First evidence that intrinsic fetal heart rate variability exists and is affected by hypoxic pregnancy  
-胎仔由来の心拍変動が存在し、妊娠中の低酸素により影響を受け変化するという最初のエビデンス](Journal_or_Physiology/Dec2019/First_evidence_that.md)
+胎仔由来の心拍変動が存在し、妊娠中の低酸素により影響を受け変化するという最初のエビデンス](Journal_of_Physiology/Dec2019/First_evidence_that.md)
 
 # [JKMS](JKMS)
 ## 2019
